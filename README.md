@@ -1,7 +1,7 @@
 # AI.Mason
 Dr. Rachel Chung's course materials for AI in the residential MSBA program at William &amp; Mary
 
-WK00: What is AI?  
+[WK00: What is AI?](https://github.com/tingtingchung/AI.Mason/blob/main/WK00:%20What%20is%20AI.md)  
 WK01: Deep Learning (DL) with SKLearn & Tensorflow  
 WK02: Recurrent Neural Networks (RNN)  
 WK03: Convolutional Neural Networks (CNN)  
