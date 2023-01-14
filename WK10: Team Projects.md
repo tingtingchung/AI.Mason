@@ -37,8 +37,8 @@ Coming soon
 9. AI applications in HR  
 10. AI applications in Marketing  
 11. AI applications in Sales 
-12. AI applications in Manufacturing
-    [DeepLearning.ai](https://www.deeplearning.ai/) 
+12. AI applications in Manufacturing  
+    [DeepLearning.ai](https://www.deeplearning.ai/)  
 14. AI applications in Healthcare
 15. Any other topic that interests your team - Get instructor approval first
 
