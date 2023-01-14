@@ -1,4 +1,5 @@
-Day 0: Course Overview(TBD), [Dr. Chung's overview of Google Colab](https://youtu.be/p7VdFVm8TJg)  
+Day 0: Course Overview(TBD)  
+[Dr. Chung's overview of Google Colab](https://youtu.be/p7VdFVm8TJg)  
 [Welcome to Colab](https://colab.research.google.com/drive/https:/colab.research.google.com/drive/1LfDI7cDOmnbsYAfwqu9l4h3FQSG8dJrz)  
 [What is AI (sponsored by PBS)](https://www.youtube.com/watch?v=a0_lo_GDcFw&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=2&t=1s)  
 
