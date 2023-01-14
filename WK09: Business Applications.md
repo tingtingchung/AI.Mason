@@ -1,9 +1,11 @@
 **WK09: Business Applications**  
 Read speakers' papers and be ready to ask questions
 
+8am 4/3 Monday
 **[Simerjot Kaur, AI Research Lead, JP Morgan](https://www.linkedin.com/in/simerjot-kaur-3429ab2a/)**  
 [Kaur, S., Brugere, I., Stefanucci, A., Nourbakhsh, A., Shah, S., & Veloso, M. (2021). Parameterized Explanations for Investor/Company Matching. arXiv preprint arXiv:2111.01911.](https://arxiv.org/abs/2111.01911)  
-  
+
+9:30am 4/10 Monday
 **[Marco Schreyer, Computer Science PhD Student, University of St. Gallen](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en)**: Read at least one of these papers  
 [Schreyer, Marco, Timur Sattarov, Damian Borth, Andreas Dengel, and Bernd Reimer. "Detection of anomalies in large scale accounting data using deep autoencoder networks." arXiv preprint arXiv:1709.05254 (2017).](https://arxiv.org/abs/1709.05254)
     [Schreyer, M., Sattarov, T., & Borth, D. (2022). Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits. ICAIF '22: Proceedings of the Third ACM International Conference on AI in Finance, November 2022, 105–113](https://dl.acm.org/doi/10.1145/3533271.3561674)  
