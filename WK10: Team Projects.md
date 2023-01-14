@@ -1,4 +1,4 @@
-**AI.TP instructions**
+**AI.TP instructions**  
 At the end of the semester, each team will complete a case study and give a 15-min presentation.
 The case study should be about one or more business applications of AI that we may or may not have covered in class.
 Be as specific as you can when defining the scope of your case study.  
@@ -16,7 +16,10 @@ Before picking your topic read this first:
 Think about how to make your presentation interesting:
 [Why lectures are like blind dates by Nicolas Coles](https://www.nature.com/articles/d41586-022-01798-6)
 
-*Potential Case Study Topics*  
+**Grading Rubric**  
+Coming soon  
+
+**Potential Case Study Topics**  
 1. [ChatGPT](https://openai.com/blog/chatgpt/) 
 2. [PyTorch](https://pytorch.org/)  
 3. Graph Neural Networks
