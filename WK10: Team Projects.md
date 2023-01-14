@@ -3,12 +3,11 @@ At the end of the semester, each team will complete a case study and give a 15-m
 The case study should be about one or more business applications of AI that we may or may not have covered in class.
 Be as specific as you can when defining the scope of your case study.  
 The presentation should include  
-1. Problem statement - What problem are you trying to solve in this case study? And how is it relevant to what's being discussed this week?  
-2. A technical coding demo whenever possible: Keep the coding demo as simple as possible to illustrate an essential concept rather than a complete project.  
-3. If coding demo is not possible, demo different ways to use an AI application (e.g., ChatGPT) for a business problem  
-4. Discussion of at least 2 relevant research papers  
-5. Discussion of explanability or ethical concerns (you can pick one)
-6. What's next? Help us envision future developments and concerns  
+1. [2 min] Problem statement - What problem are you trying to solve in this case study? And how is it relevant to what's being discussed this week?  
+2. [5 min] Discussion of at least 2 relevant research papers  
+3. [5 min] A technical coding demo whenever possible: Keep the coding demo as simple as possible to illustrate an essential concept rather than a complete project. If coding demo is not possible, demo different ways to use an AI application (e.g., ChatGPT) for a business problem.  
+4. [2 min] Discussion of explanability or ethical concerns (you can pick one).  
+5. [1 min] What's next? Help us envision future developments and concerns.    
 
 Before picking your topic read this first:
 [The ultimate guide to starting AI by Cassie Kozyrkov](https://www.linkedin.com/pulse/ultimate-guide-starting-ai-cassie-kozyrkov/)   
