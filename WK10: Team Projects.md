@@ -28,6 +28,7 @@ Coming soon
 5. Multi-agent decision making
 6. AI applications in Finance  
     [ICAIF conference proceedings](https://dl.acm.org/conference/icaif)  
+    [Simona Abis's research](https://scholar.google.com/citations?user=7U9pqdMAAAAJ)  
 7. AI applications in Accounting  
     [Schreyer, Marco, Timur Sattarov, Damian Borth, Andreas Dengel, and Bernd Reimer. "Detection of anomalies in large scale accounting data using deep autoencoder networks." arXiv preprint arXiv:1709.05254 (2017).](https://arxiv.org/abs/1709.05254)
     [Schreyer, M., Sattarov, T., & Borth, D. (2022). Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits. ICAIF '22: Proceedings of the Third ACM International Conference on AI in Finance, November 2022, 105–113](https://dl.acm.org/doi/10.1145/3533271.3561674)  
