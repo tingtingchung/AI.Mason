@@ -1,7 +1,7 @@
 **WK09: Business Applications**  
 Read speakers' papers and be ready to ask questions
 
-**[Simerjot Kaur]**  
+**[Simerjot Kaur, AI Research Lead, JP Morgan](https://www.linkedin.com/in/simerjot-kaur-3429ab2a/)**  
 [Kaur, S., Brugere, I., Stefanucci, A., Nourbakhsh, A., Shah, S., & Veloso, M. (2021). Parameterized Explanations for Investor/Company Matching. arXiv preprint arXiv:2111.01911.](https://arxiv.org/abs/2111.01911)  
   
 **[Marco Schreyer](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en)**: Read at least one of these papers  
