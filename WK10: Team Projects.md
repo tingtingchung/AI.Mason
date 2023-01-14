@@ -20,10 +20,11 @@ Think about how to make your presentation interesting:
 Coming soon  
 
 **Potential Case Study Topics**  
-1. [ChatGPT](https://openai.com/blog/chatgpt/) 
-2. [PyTorch](https://pytorch.org/)  
-3. Graph Neural Networks
-4. Synthetic data  
+1. [ChatGPT](https://openai.com/blog/chatgpt/)  
+2. [Stable Diffusion](https://stablediffusionweb.com/)  
+3. [PyTorch](https://pytorch.org/) vs. Tensorflow    
+4. Graph Neural Networks
+5. Synthetic data  
     [Synthetic Data at JP Morgan](https://www.jpmorgan.com/synthetic-data)  
 5. Multi-agent decision making
 6. AI applications in Finance  
