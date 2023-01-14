@@ -8,6 +8,7 @@ The presentation should include
 3. [5 min] A technical coding demo whenever possible: Keep the coding demo as simple as possible to illustrate an essential concept rather than a complete project. If coding demo is not possible, demo different ways to use an AI application (e.g., ChatGPT) for a business problem.  
 4. [2 min] Discussion of explanability or ethical concerns (you can pick one).  
 5. [1 min] What's next? Help us envision future developments and concerns.    
+*Note: Time estimates are suggestions only. Do what you need to do to tell an engaging and compelling story.
 
 Before picking your topic read this first:
 [The ultimate guide to starting AI by Cassie Kozyrkov](https://www.linkedin.com/pulse/ultimate-guide-starting-ai-cassie-kozyrkov/)   
