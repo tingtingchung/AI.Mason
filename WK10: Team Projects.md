@@ -4,7 +4,7 @@ The case study should be about one or more business applications of AI that we m
 Be as specific as you can when defining the scope of your case study.  
 The presentation should include  
 1. [2 min] Problem statement - What problem are you trying to solve in this case study? And how is it relevant to what's being discussed this week?  
-2. [5 min] Discussion of at least 2 relevant research papers  
+2. [5 min] Discussion of at least 1 relevant research paper (not news articles, medium, blog, library documentation, or linkedin posts)
 3. [5 min] A technical coding demo whenever possible: Keep the coding demo as simple as possible to illustrate an essential concept rather than a complete project. If coding demo is not possible, demo different ways to use an AI application (e.g., ChatGPT) for a business problem.  
 4. [2 min] Discussion of explanability or ethical concerns (you can pick one).  
 5. [1 min] What's next? Help us envision future developments and concerns.    
@@ -12,10 +12,11 @@ The presentation should include
 
 **Grading rubric (more details available in Blackboard assignment)**  
 **Problem Statement (10%):** Clear, concise, accurate and focused statement of the problem being solved.  
-**Research Paper Discussion (30%):** Clear, accurate and thoughtful critiques of relevant papers that focus on key concepts, strengths or weaknesses.  
-**Technical Demo (40%):** Thoughtful and comprehensive solution that addresses the problem statement in a logical manner and issues identified in the critiques. Proper data processing and exploration and clear rationale for algorithm choices.  
+**Research Paper Discussion (30%):** Clear, accurate and thoughtful critiques of relevant paper(s) that focus on key concepts, strengths or weaknesses.  
+**Technical Demo (35%):** Thoughtful and comprehensive solution that addresses the problem statement in a logical manner and issues identified in the critiques. Proper data processing and exploration and clear rationale for algorithm choices.  
 **Explanabiity/Responsibility (10%):** Comprehensive, clear, and focused explanation of the data exploration and processing work, rationale for the algorithm choices, and documentation of your code, based on this Machine Learning Reproducibility Checklist. Be sure to document rationale for WHY you perform certain tasks/made certain decisions, and not just WHAT you did.  
-**Presentation (10%):** Clear, well rehearsed, concise, and engaging presentation with laser focus on key topics, key issues and key elements of the solution. Free of errors. Think about how to make your presentation interesting: [Why lectures are like blind dates by Nicolas Coles](https://www.nature.com/articles/d41586-022-01798-6)  
+**Presentation (10%):** Clear, well rehearsed, concise, and engaging presentation with laser focus on key topics, key issues and key elements of the solution. Free of errors. Think about how to make your presentation interesting: [Why lectures are like blind dates by Nicolas Coles](https://www.nature.com/articles/d41586-022-01798-6) 
+**References (5%):** List the research paper(s) and sources you have used for this project.  
 
 **Before picking your topic read this first:**  
 [The ultimate guide to starting AI by Cassie Kozyrkov](https://www.linkedin.com/pulse/ultimate-guide-starting-ai-cassie-kozyrkov/)   
