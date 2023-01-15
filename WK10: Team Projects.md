@@ -21,7 +21,9 @@ The presentation should include
 **Before picking your topic read this first:**  
 [The ultimate guide to starting AI by Cassie Kozyrkov](https://www.linkedin.com/pulse/ultimate-guide-starting-ai-cassie-kozyrkov/)   
 
-**Potential Case Study Topics**  
+**Potential Case Study Topics (to be updated over the semester)**  
+Teams within the same section must choose unique topics (No two teams within the same sections can have the same topic).  
+Topics are first come first serve and will be listed here as claimed when taken.  
 1. [ChatGPT](https://openai.com/blog/chatgpt/)  
 2. [Stable Diffusion](https://stablediffusionweb.com/)  
 3. [PyTorch](https://pytorch.org/) vs. Tensorflow    
