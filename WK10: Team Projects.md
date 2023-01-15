@@ -10,13 +10,13 @@ The presentation should include
 5. [1 min] What's next? Help us envision future developments and concerns.    
 *Note: Time estimates are suggestions only. Do what you need to do to deliver an engaging and compelling story!
 
-**Grading rubric (more details available in Blackboard assignment)**  
-**Problem Statement (10%):** Clear, concise, accurate and focused statement of the problem being solved.  
-**Research Paper Discussion (30%):** Clear, accurate and thoughtful critiques of relevant paper(s) that focus on key concepts, strengths or weaknesses.  
-**Technical Demo (35%):** Thoughtful and comprehensive solution that addresses the problem statement in a logical manner and issues identified in the critiques. Proper data processing and exploration and clear rationale for algorithm choices.  
-**Explanabiity/Responsibility (10%):** Comprehensive, clear, and focused explanation of the data exploration and processing work, rationale for the algorithm choices, and documentation of your code, based on this Machine Learning Reproducibility Checklist. Be sure to document rationale for WHY you perform certain tasks/made certain decisions, and not just WHAT you did.  
-**Presentation (10%):** Clear, well rehearsed, concise, and engaging presentation with laser focus on key topics, key issues and key elements of the solution. Free of errors. Think about how to make your presentation interesting: [Why lectures are like blind dates by Nicolas Coles](https://www.nature.com/articles/d41586-022-01798-6) 
-**References (5%):** List the research paper(s) and sources you have used for this project.  
+**Grading Rubric (more details available in Blackboard assignment)**  
+**1. Problem Statement (10%):** Clear, concise, accurate and focused statement of the problem being solved.  
+**2. Research Paper Discussion (30%):** Clear, accurate and thoughtful critiques of relevant paper(s) that focus on key concepts, strengths or weaknesses.  
+**3. Technical Demo (35%):** Thoughtful and comprehensive solution that addresses the problem statement in a logical manner and issues identified in the critiques. Proper data processing and exploration and clear rationale for algorithm choices.  
+**4. Explanabiity/Responsibility (10%):** Comprehensive, clear, and focused explanation of the data exploration and processing work, rationale for the algorithm choices, and documentation of your code, based on this Machine Learning Reproducibility Checklist. Be sure to document rationale for WHY you perform certain tasks/made certain decisions, and not just WHAT you did.  
+**5. Presentation (10%):** Clear, well rehearsed, concise, and engaging presentation with laser focus on key topics, key issues and key elements of the solution. Free of errors. Think about how to make your presentation interesting: [Why lectures are like blind dates by Nicolas Coles](https://www.nature.com/articles/d41586-022-01798-6)   
+**6. References (5%):** List the research paper(s) and sources you have used for this project.  
 
 **Before picking your topic read this first:**  
 [The ultimate guide to starting AI by Cassie Kozyrkov](https://www.linkedin.com/pulse/ultimate-guide-starting-ai-cassie-kozyrkov/)   
