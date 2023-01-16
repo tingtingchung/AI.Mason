@@ -24,7 +24,7 @@ The presentation should include
 **Potential Case Study Topics (to be updated over the semester - you are welcome to suggest topics)**  
 Teams within the same section must choose unique topics (No two teams within the same section can have the same topic.)  
 Topics are first come first serve and will be listed here as claimed when taken.  
-1. [ChatGPT](https://openai.com/blog/chatgpt/)  
+1. [ChatGPT](https://openai.com/blog/chatgpt/) vs. [GPTZero](https://gptzero.me/)  
 2. [Stable Diffusion](https://stablediffusionweb.com/)  
 3. [PyTorch](https://pytorch.org/) vs. Tensorflow    
 4. Graph Neural Networks
