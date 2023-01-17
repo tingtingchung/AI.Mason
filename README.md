@@ -20,8 +20,8 @@ WK11: Final Exam
 [Neural Networks and Deep Learning by Mielson](http://neuralnetworksanddeeplearning.com/)  
 
 *Tensorflow*  
-[Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
-[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+[Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)  
+[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)  
 [AI and Machine Learning for Coders by Moroney](https://www.oreilly.com/library/view/ai-and-machine/9781492078180/)  
 
 *PyTorch*  
