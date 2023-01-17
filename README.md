@@ -26,3 +26,4 @@ WK11: Final Exam
 
 *PyTorch*  
 [Deep Learning for Coders with fastai & PyTorch](https://course.fast.ai/Resources/book.html)  
+[Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch)  
