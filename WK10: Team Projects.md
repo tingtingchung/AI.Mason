@@ -16,7 +16,7 @@ The presentation should include
 **3. Technical Demo (35%):** Thoughtful and comprehensive solution that addresses the problem statement in a logical manner and issues identified in the critiques. Proper data processing and exploration and clear rationale for algorithm choices.  
 **4. Explanabiity/Responsibility (10%):** Comprehensive, clear, and focused explanation of the data exploration and processing work, rationale for the algorithm choices, and documentation of your code, based on this Machine Learning Reproducibility Checklist. Be sure to document rationale for WHY you perform certain tasks/made certain decisions, and not just WHAT you did.  
 **5. Presentation (10%):** Clear, well rehearsed, concise, and engaging presentation with laser focus on key topics, key issues and key elements of the solution. Free of errors. Think about how to make your presentation interesting: [Why lectures are like blind dates by Nicolas Coles](https://www.nature.com/articles/d41586-022-01798-6)   
-**6. References (5%):** List the research paper(s) and sources you have used for this project.  
+**6. References (5%):** List the research paper(s) and sources you have used for this project in APA style.  
 
 **Before picking your topic read this first:**  
 [The ultimate guide to starting AI by Cassie Kozyrkov](https://www.linkedin.com/pulse/ultimate-guide-starting-ai-cassie-kozyrkov/)   
@@ -50,7 +50,7 @@ Topics are first come first serve and will be listed here as claimed when taken.
 14. AI applications in Healthcare
 15. Any other topic that interests your team - Get instructor approval first
 
-*You must use at least two of these sources for preparing your presentation*  
+*You must use at least two sources from the following sites for preparing your presentation*  
 [Tensorflow Hub](https://www.tensorflow.org/hub)  
 [Manuela Veloso's publications](http://www.cs.cmu.edu/~mmv/Veloso.html)  
 [Yann LeCun's publications](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ)  
