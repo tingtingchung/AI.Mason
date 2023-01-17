@@ -53,6 +53,10 @@ Topics are first come first serve and will be listed here as claimed when taken.
 *You must use at least two of these sources for preparing your presentation*  
 [Tensorflow Hub](https://www.tensorflow.org/hub)  
 [Manuela Veloso's publications](http://www.cs.cmu.edu/~mmv/Veloso.html)  
+[Yann LeCun's publications](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ)  
+[Andrew Moore's publications](https://scholar.google.com/citations?hl=en&user=PbfkKLcAAAAJ)  
+[Andrew Ng's publications](https://scholar.google.com/citations?hl=en&user=mG4imMEAAAAJ)  
+[Fei-Fei Li's publications](https://scholar.google.com/citations?user=rDfyQnIAAAAJ&hl=en&oi=ao)  
 [JP Morgan AI](https://www.jpmorgan.com/technology/artificial-intelligence)  
 [Machine Learing at CapitalOne](https://www.capitalone.com/tech/machine-learning/?gclid=CjwKCAiA2L-dBhACEiwAu8Q9YD7j7BaUQ6QMRoYlEjIultzy3iWhhHLefxbp3qXdaKjD6kUnVDC19RoCOBMQAvD_BwE)  
 [ICAIF conference proceedings](https://dl.acm.org/conference/icaif)  
