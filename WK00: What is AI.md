@@ -24,4 +24,4 @@ Complete these readings/videos before next class
 For an excellent refresher, review Chapters 1-5 of [ML1 textbook](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
 
 *Optional Fun Stuff*  
-[Neural Networks & Deep Learning (CrashCourse by PBS](https://www.youtube.com/watch?v=oV3ZY6tJiA0&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=4)
+[Neural Networks & Deep Learning (CrashCourse by PBS)](https://www.youtube.com/watch?v=oV3ZY6tJiA0&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=4)
