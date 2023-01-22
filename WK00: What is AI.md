@@ -3,7 +3,7 @@ Complete these readings/videos before next class
 [Dr. Chung's overview of Google Colab](https://youtu.be/p7VdFVm8TJg)  
 [Welcome to Colab](https://colab.research.google.com/drive/https:/colab.research.google.com/drive/1LfDI7cDOmnbsYAfwqu9l4h3FQSG8dJrz)  
 [The History of AI by Rockwell Anyoha](https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/)  
-[Linear Algebra by Tensorflow](https://youtu.be/LlKAna21fLE)  
+[Linear Algebra by TensorFlow](https://youtu.be/LlKAna21fLE)  
 
 *Optional Fun Stuff*  
 [What is AI (CrashCourse by PBS)](https://www.youtube.com/watch?v=a0_lo_GDcFw&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=2&t=1s) 
