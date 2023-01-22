@@ -1,4 +1,4 @@
-**Day 0: Course Overview(TBD)**  
+**Day 0: [Course Overview](https://www.dropbox.com/s/yhg6vtd6o45aim8/00-0%20AI%20Course%20Introduction.pptx?dl=0)**  
 Complete these readings/videos before next class  
 [Dr. Chung's overview of Google Colab](https://youtu.be/p7VdFVm8TJg)  
 [Welcome to Colab](https://colab.research.google.com/drive/https:/colab.research.google.com/drive/1LfDI7cDOmnbsYAfwqu9l4h3FQSG8dJrz)  
@@ -7,7 +7,7 @@ Complete these readings/videos before next class
 *Optional Fun Stuff*  
 [What is AI (CrashCourse by PBS)](https://www.youtube.com/watch?v=a0_lo_GDcFw&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=2&t=1s) 
 
-Day 1: What is AI(TBD)  
+**Day 1: What is AI(TBD)**   
 Complete these readings/videos before next class  
 [NumPy for AI](https://colab.research.google.com/github/deepmind/educational/blob/master/colabs/summer_schools/intro_to_python_numpy_for_deep_learning.ipynb)  
 [Linear Algebra](https://www.tensorflow.org/resources/learn-ml)    
@@ -16,7 +16,7 @@ Complete these readings/videos before next class
 *Optional Fun Stuff*  
 [Supervised Learning (CrashCourse by PBS)](https://www.youtube.com/watch?v=4qVRBYAdLAo&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=3)  
 
-Day 2: ML Review in Python(TBD)  
+**Day 2: ML Review in Python(TBD)**  
 Complete these readings/videos before next class  
 [Regression from Seeing Theory](https://seeing-theory.brown.edu/#secondPage/chapter6)  
 [MLU by Amazon](https://mlu-explain.github.io/)  
