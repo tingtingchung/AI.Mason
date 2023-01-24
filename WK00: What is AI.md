@@ -10,7 +10,7 @@ Complete these readings/videos before next class
 
 **Day 1: What is AI(TBD)**   
 Complete these readings/videos before next class  
-[NumPy for AI](https://colab.research.google.com/github/deepmind/educational/blob/master/colabs/summer_schools/intro_to_python_numpy_for_deep_learning.ipynb)  
+[Python & NumPy for Deep Learning by DeepMind](https://colab.research.google.com/github/deepmind/educational/blob/master/colabs/summer_schools/intro_to_python_numpy_for_deep_learning.ipynb)  
 [10 minutes to pandas](https://pandas.pydata.org/docs/user_guide/10min.html)  
 [Perceptron with SKLearn](https://scikit-learn.org/stable/modules/linear_model.html#perceptron)  
 
