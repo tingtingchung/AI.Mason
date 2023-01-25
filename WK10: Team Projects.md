@@ -30,6 +30,7 @@ Topics are first come first serve and will be listed here as claimed when taken.
 4. Graph Neural Networks
 5. Synthetic data  
     [Synthetic Data at JP Morgan](https://www.jpmorgan.com/synthetic-data)  
+    [MOSTLY.ai](https://mostly.ai/)
 5. Multi-agent decision making
 6. AI applications in Finance  
     [ICAIF conference proceedings](https://dl.acm.org/conference/icaif)  
