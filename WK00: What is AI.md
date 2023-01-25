@@ -8,7 +8,7 @@ Complete these readings/videos before next class
 *Optional Fun Stuff*  
 [What is AI (CrashCourse by PBS)](https://www.youtube.com/watch?v=a0_lo_GDcFw&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=2&t=1s) 
 
-**Day 1: What is AI(TBD)**   
+**Day 1: [What is AI](https://www.dropbox.com/s/olrsqnax7oncqtw/00-1%20What%20is%20AI.pptx?dl=0)**   
 Complete these readings/videos before next class  
 [Python & NumPy for Deep Learning by DeepMind](https://colab.research.google.com/github/deepmind/educational/blob/master/colabs/summer_schools/intro_to_python_numpy_for_deep_learning.ipynb)  
 [10 minutes to pandas](https://pandas.pydata.org/docs/user_guide/10min.html)  
