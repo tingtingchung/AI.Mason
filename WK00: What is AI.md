@@ -17,7 +17,7 @@ Complete these readings/videos before next class
 *Optional Fun Stuff*  
 [Supervised Learning (CrashCourse by PBS)](https://www.youtube.com/watch?v=4qVRBYAdLAo&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=3)  
 
-**Day 2: [ML Review in Python](https://www.dropbox.com/s/um5nmkdtbrgu7tv/00-2%20ML%20Review%20in%20Python.pptx?dl=0) [Lab0-4](https://drive.google.com/file/d/1MyKDerbu3qRS02lGPpCrP9CVRCNfNFVM/view?usp=sharing) [Write Function](https://colab.research.google.com/drive/1ja7kUqgJxU7fYLrYbXX-fqEGDl2Saq7b?usp=sharing)**  
+**Day 2: [ML Review in Python](https://www.dropbox.com/s/um5nmkdtbrgu7tv/00-2%20ML%20Review%20in%20Python.pptx?dl=0), [Lab0-4](https://drive.google.com/file/d/1MyKDerbu3qRS02lGPpCrP9CVRCNfNFVM/view?usp=sharing), [Write Function](https://colab.research.google.com/drive/1ja7kUqgJxU7fYLrYbXX-fqEGDl2Saq7b?usp=sharing)**  
 Complete these readings/videos before next class  
 [Preprocessing Data with Scikit Learn](https://scikit-learn.org/stable/modules/preprocessing.html)  
 [Regression from Seeing Theory](https://seeing-theory.brown.edu/#secondPage/chapter6)  
