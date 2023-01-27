@@ -17,7 +17,7 @@ Complete these readings/videos before next class
 *Optional Fun Stuff*  
 [Supervised Learning (CrashCourse by PBS)](https://www.youtube.com/watch?v=4qVRBYAdLAo&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=3)  
 
-**Day 2: ML Review in Python(TBD) [Lab0-4](https://drive.google.com/file/d/1MyKDerbu3qRS02lGPpCrP9CVRCNfNFVM/view?usp=sharing)**  
+**Day 2: ML Review in Python(TBD) [Lab0-4](https://drive.google.com/file/d/1MyKDerbu3qRS02lGPpCrP9CVRCNfNFVM/view?usp=sharing) [Write Function](https://colab.research.google.com/drive/1ja7kUqgJxU7fYLrYbXX-fqEGDl2Saq7b?usp=sharing)**  
 Complete these readings/videos before next class  
 [Regression from Seeing Theory](https://seeing-theory.brown.edu/#secondPage/chapter6)  
 [MLU by Amazon](https://mlu-explain.github.io/)  
