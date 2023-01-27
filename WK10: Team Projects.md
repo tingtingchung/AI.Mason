@@ -21,37 +21,41 @@ The presentation should include
 **Before picking your topic read this first:**  
 [The ultimate guide to starting AI by Cassie Kozyrkov](https://www.linkedin.com/pulse/ultimate-guide-starting-ai-cassie-kozyrkov/)   
 
+[Section 1]  
+Team 4: [ChatGPT](https://openai.com/blog/chatgpt/) vs. [GPTZero](https://gptzero.me/)  
+        [ChatGPT2 coded in TF](https://github.com/openai/gpt-2/blob/master/src/model.py)  
+
+[Section 2]  
+
 **Potential Case Study Topics (to be updated over the semester - you are welcome to suggest topics)**  
 Teams within the same section must choose unique topics (No two teams within the same section can have the same topic.)  
 Topics are first come first serve and will be listed here as claimed when taken.  
-1. [ChatGPT](https://openai.com/blog/chatgpt/) vs. [GPTZero](https://gptzero.me/)  
-    [ChatGPT2 coded in TF](https://github.com/openai/gpt-2/blob/master/src/model.py)  
-2. [OpenAI Codex](https://openai.com/blog/openai-codex/)  
-3. [Stable Diffusion](https://stablediffusionweb.com/)  
-4. [PyTorch](https://pytorch.org/) vs. Tensorflow    
-5. Graph Neural Networks
-6. Synthetic data  
+- [OpenAI Codex](https://openai.com/blog/openai-codex/)  
+- [Stable Diffusion](https://stablediffusionweb.com/)  
+- [PyTorch](https://pytorch.org/) vs. Tensorflow    
+- Graph Neural Networks
+- Synthetic data  
     [Synthetic Data at JP Morgan](https://www.jpmorgan.com/synthetic-data)  
     [MOSTLY.ai](https://mostly.ai/)
-7. Multi-agent decision making
-8. AI applications in Finance  
+- Multi-agent decision making
+- AI applications in Finance  
     [ICAIF conference proceedings](https://dl.acm.org/conference/icaif)  
     [Manuela Veloso's research](http://www.cs.cmu.edu/~mmv/Veloso.html)  
     [Simona Abis's research](https://scholar.google.com/citations?user=7U9pqdMAAAAJ)  
-9. AI applications in Accounting  
+- AI applications in Accounting  
     [Schreyer, Marco, Timur Sattarov, Damian Borth, Andreas Dengel, and Bernd Reimer. "Detection of anomalies in large scale accounting data using deep autoencoder networks." arXiv preprint arXiv:1709.05254 (2017).](https://arxiv.org/abs/1709.05254)
     [Schreyer, M., Sattarov, T., & Borth, D. (2022). Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits. ICAIF '22: Proceedings of the Third ACM International Conference on AI in Finance, November 2022, 105–113](https://dl.acm.org/doi/10.1145/3533271.3561674)  
     [Sun, Ting, and Miklos A. Vasarhelyi. "Deep Learning and the Future of Auditing: How an Evolving Technology Could Transform Analysis and Improve Judgment." CPA Journal 87, no. 6 (2017).](https://www-proquest-com.proxy.wm.edu/docview/2213055096?pq-origsite=gscholar&fromopenview=true)  
     [Sun, T. (2019). Applying deep learning to audit procedures: An illustrative framework. Accounting Horizons, 33(3), 89-109.](https://publications.aaahq.org/accounting-horizons/article-abstract/33/3/89/2426/Applying-Deep-Learning-to-Audit-Procedures-An?redirectedFrom=fulltext)  
     [Other research by Marco Schreyer](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en)  
-10. AI applications in Spply Chain Management (warehouse, inventory, transportation, etc) 
-11. AI applications in HR  
-12. AI applications in Marketing  
-13. AI applications in Sales 
-14. AI applications in Manufacturing  
+- AI applications in Spply Chain Management (warehouse, inventory, transportation, etc) 
+- AI applications in HR  
+- AI applications in Marketing  
+- AI applications in Sales 
+- AI applications in Manufacturing  
     [DeepLearning.ai](https://www.deeplearning.ai/)  
-15. AI applications in Healthcare
-16. Any other topic that interests your team - Get instructor approval first
+- AI applications in Healthcare
+- Any other topic that interests your team - Get instructor approval first
 
 *You must use at least two sources from the following sites for preparing your presentation*  
 [Tensorflow Hub](https://www.tensorflow.org/hub)  
