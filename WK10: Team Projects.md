@@ -25,10 +25,11 @@ The presentation should include
 Teams within the same section must choose unique topics (No two teams within the same section can have the same topic.)  
 Topics are first come first serve and will be listed here as claimed when taken.  
 1. [ChatGPT](https://openai.com/blog/chatgpt/) vs. [GPTZero](https://gptzero.me/)  
-2. [Stable Diffusion](https://stablediffusionweb.com/)  
-3. [PyTorch](https://pytorch.org/) vs. Tensorflow    
-4. Graph Neural Networks
-5. Synthetic data  
+2. [OpenAI Codex](https://openai.com/blog/openai-codex/)  
+3. [Stable Diffusion](https://stablediffusionweb.com/)  
+4. [PyTorch](https://pytorch.org/) vs. Tensorflow    
+5. Graph Neural Networks
+6. Synthetic data  
     [Synthetic Data at JP Morgan](https://www.jpmorgan.com/synthetic-data)  
     [MOSTLY.ai](https://mostly.ai/)
 5. Multi-agent decision making
