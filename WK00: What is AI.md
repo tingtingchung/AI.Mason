@@ -19,9 +19,11 @@ Complete these readings/videos before next class
 
 **Day 2: ML Review in Python(TBD) [Lab0-4](https://drive.google.com/file/d/1MyKDerbu3qRS02lGPpCrP9CVRCNfNFVM/view?usp=sharing) [Write Function](https://colab.research.google.com/drive/1ja7kUqgJxU7fYLrYbXX-fqEGDl2Saq7b?usp=sharing)**  
 Complete these readings/videos before next class  
+[Preprocessing Data with Scikit Learn](https://scikit-learn.org/stable/modules/preprocessing.html)  
 [Regression from Seeing Theory](https://seeing-theory.brown.edu/#secondPage/chapter6)  
 [MLU by Amazon](https://mlu-explain.github.io/)  
 [Model Evaluation](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit)  
+[Browse Tensorflow Guides](https://www.tensorflow.org/guide)  
 For an excellent refresher, review Chapters 1-5 of [ML1 textbook](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
 
 *Optional Fun Stuff*  
