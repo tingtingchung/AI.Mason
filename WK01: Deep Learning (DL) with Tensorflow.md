@@ -2,7 +2,9 @@
 
 **Day 0: [Neural Networks 101](https://www.dropbox.com/s/7pmes0nkxl9eonx/01-0%20Neural%20Networks.pptx?dl=0)**  
 [Dr. Chung's Single Neuron Simulator](https://docs.google.com/spreadsheets/d/1KDGiwAF2GStEZc2WUgbJ7CE7NHktZhAVpcRNulHfqpw/edit?usp=sharing) and [tutorial video](https://www.youtube.com/watch?v=r9WOZs42Evw&list=PLjomhJShbk6RectVgKBsbhGZ5KCACyvKq&index=3)  
+[Dr. Chung's Keras D Model Template](https://docs.google.com/document/d/1S1nml6eqTolm0V40A8coF2jm8ut8D0bWs4HB-VU0uyM/edit#)  
 [NN Playground by Tensorflow](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56945&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)  
+[Draw Your Own NN Model with NN-SVG](http://alexlenail.me/NN-SVG/index.html)  
 [The Sequential Model](https://www.tensorflow.org/guide/keras/sequential_model)  
 [The Keras Functional API](https://www.tensorflow.org/guide/keras/functional)  
 [Chapter 10.1 Single Layer NN, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
