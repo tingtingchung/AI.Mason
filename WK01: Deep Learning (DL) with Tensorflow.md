@@ -13,9 +13,11 @@
 *Optional Fund Stuff*
 [Neural network comic strip (Google Cloud)](https://cloud.google.com/products/ai/ml-comic-2?fbclid=IwAR3Dj-zu0dHb45b_fzFp6MQsvnUMLs67Tguo4ojdgKQQYrVYqC73ZoZmGPE) 
 
-*Optional Readings*
+*Optional Readings*  
 [LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. nature, 521(7553), 436-444.](https://s3.us-east-2.amazonaws.com/hkg-website-assets/static/pages/files/DeepLearning.pdf)  
 [Gradient Descent on Khan Academy](https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/optimizing-multivariable-functions/a/what-is-gradient-descent)  
 
 **Day 1: []()**  
 [Training & Evaluation with built-in Methods](https://www.tensorflow.org/guide/keras/train_and_evaluate)  
+[Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)  
+More to come
