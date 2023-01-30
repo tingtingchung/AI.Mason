@@ -12,7 +12,7 @@
 [Chapter 1, Using neural nets to recognize handwritten digits, Neural Networks and Deep Learning by Nielsen](http://neuralnetworksanddeeplearning.com/chap1.html)  
 
 *Optional Fund Stuff*  
-[Neural network comic strip (Google Cloud)](https://cloud.google.com/products/ai/ml-comic-2?fbclid=IwAR3Dj-zu0dHb45b_fzFp6MQsvnUMLs67Tguo4ojdgKQQYrVYqC73ZoZmGPE) 
+[Neural network comic strip (Google Cloud)](https://cloud.google.com/products/ai/ml-comic-2?fbclid=IwAR3Dj-zu0dHb45b_fzFp6MQsvnUMLs67Tguo4ojdgKQQYrVYqC73ZoZmGPE)  
 [Teachable Machine](https://teachablemachine.withgoogle.com/train)  
 *Optional Readings*  
 [LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. nature, 521(7553), 436-444.](https://s3.us-east-2.amazonaws.com/hkg-website-assets/static/pages/files/DeepLearning.pdf)  
