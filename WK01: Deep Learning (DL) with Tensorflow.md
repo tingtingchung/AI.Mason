@@ -10,7 +10,7 @@
 [Chapter 10.1 Single Layer NN, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
 [Chapter 1, Using neural nets to recognize handwritten digits, Neural Networks and Deep Learning by Nielsen](http://neuralnetworksanddeeplearning.com/chap1.html)  
 
-*Optional Fund Stuff*
+*Optional Fund Stuff*  
 [Neural network comic strip (Google Cloud)](https://cloud.google.com/products/ai/ml-comic-2?fbclid=IwAR3Dj-zu0dHb45b_fzFp6MQsvnUMLs67Tguo4ojdgKQQYrVYqC73ZoZmGPE) 
 
 *Optional Readings*  
