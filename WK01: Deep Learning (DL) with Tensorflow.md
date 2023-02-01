@@ -22,5 +22,11 @@
 **Day 1: [DL with TF](https://www.dropbox.com/s/0lxsq1pgbz6e05o/01-1%20DL%20with%20SKLearn%20%26%20TF.pptx?dl=0), [Lab1-4](https://colab.research.google.com/drive/1lIqfXLyx5fHjrxB8cI0zvXRaHyRQdlQw?usp=sharing)**  
 **Complete these readings/videos before next class**  
 [Training & Evaluation with built-in Methods](https://www.tensorflow.org/guide/keras/train_and_evaluate)  
-[Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)  
 [Chapter 10.2 Multi-layer NN, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
+[Chapter 2, How the backpropagation algorithm works, Neural Networks and Deep Learning by Nielsen](http://neuralnetworksanddeeplearning.com/chap2.html)  
+
+*Optional Fun Stuff*
+[Training Neural Networks by CrashCourse AI](https://www.pbs.org/video/training-neural-networks-4-mq025r/)  
+
+*Optional Reading*
+[Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)
