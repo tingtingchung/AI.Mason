@@ -18,8 +18,8 @@
 [LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. nature, 521(7553), 436-444.](https://s3.us-east-2.amazonaws.com/hkg-website-assets/static/pages/files/DeepLearning.pdf)  
 [Gradient Descent on Khan Academy](https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/optimizing-multivariable-functions/a/what-is-gradient-descent)  
 
-**Day 1: [DL with TF](https://www.dropbox.com/s/0lxsq1pgbz6e05o/01-1%20DL%20with%20SKLearn%20%26%20TF.pptx?dl=0) [Lab1-4](https://colab.research.google.com/drive/1lIqfXLyx5fHjrxB8cI0zvXRaHyRQdlQw?usp=sharing)**  **  
+**Day 1: [DL with TF](https://www.dropbox.com/s/0lxsq1pgbz6e05o/01-1%20DL%20with%20SKLearn%20%26%20TF.pptx?dl=0), [Lab1-4](https://colab.research.google.com/drive/1lIqfXLyx5fHjrxB8cI0zvXRaHyRQdlQw?usp=sharing)**  
 **Complete these readings/videos before next class**  
 [Training & Evaluation with built-in Methods](https://www.tensorflow.org/guide/keras/train_and_evaluate)  
 [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)  
-More to come
+[Chapter 10.2 Multi-layer NN, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
