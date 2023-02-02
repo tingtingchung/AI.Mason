@@ -11,3 +11,7 @@ Team 8 & 17: Classifier Loss/Metric - BinaryCrossEntropy
 Team 9 & 18: Regressor Loss/Metric - Cosine_similarity  
 Team 10 & 18: Regressor Loss/Metric - huber  
 Team 11 & 19: Activation Function - softmax  
+
+**Day 1: RNN**
+
+**Day 2: [James Tucker](https://www.linkedin.com/in/james-m-tucker-7082251b0/) Guest Lecture**
