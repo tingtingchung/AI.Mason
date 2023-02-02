@@ -5,6 +5,7 @@ Explain the math equation(s)
 Demo code if relevant (this is optional)  
 Always reference the official documentation from Scikit-Learn or Tensorflow  
 You can use other Internet sources but make sure they are consistent with the current official documentation  
+If you send your presentation link to the instructor, it can be added to the list below.
 
 Teams 1 & 12: sklearn.preprocessing - For numeric values and categorical values  
 Teams 2 & 12: sklearn.impute  
