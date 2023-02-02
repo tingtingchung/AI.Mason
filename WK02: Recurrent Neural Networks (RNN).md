@@ -1,5 +1,11 @@
 **Day 0: Hypermaraters**  
 6-7 minute team presentations of these topics  
+Define and explain the key concepts  
+Explain the math equation(s)  
+Demo code if relevant (this is optional)  
+Always reference the official documentation from Scikit-Learn or Tensorflow  
+You can use other Internet sources but make sure they are consistent with the current official documentation  
+
 Teams 1 & 12: sklearn.preprocessing - For numeric values and categorical values  
 Teams 2 & 12: sklearn.impute  
 Team 3 & 13: Optimizer - stochastic gradient descent  
