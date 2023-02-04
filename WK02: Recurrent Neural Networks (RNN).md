@@ -21,6 +21,7 @@ Team 11 & 19: Activation Function - softmax
 
 **Complete these readings/videos before next class**
 [Chapter 10.4 & 10.5 Recurrent Neural Networks, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
+[Sparse Matrix Format in Tensorflow](https://www.tensorflow.org/api_docs/python/tf/sparse/SparseTensor)  
 [Masking & Padding in Keras](https://www.tensorflow.org/guide/keras/masking_and_padding#:~:text=Padding%20is%20a%20special%20form,pad%20or%20truncate%20some%20sequences.)  
 
 *Optional References*
