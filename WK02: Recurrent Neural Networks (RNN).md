@@ -19,6 +19,13 @@ Team 9 & 18: Regressor Loss/Metric - Cosine_similarity
 Team 10 & 18: Regressor Loss/Metric - huber  
 Team 11 & 19: Activation Function - softmax  
 
+**Complete these readings/videos before next class**
+[Chapter 10.4 & 10.5 Recurrent Neural Networks, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
+
+*Optional References*
+[word2vec](https://code.google.com/archive/p/word2vec/)  
+[GloVe](https://nlp.stanford.edu/projects/glove/)  
+
 **Day 1: RNN**
 
 **Day 2: [James Tucker](https://www.linkedin.com/in/james-m-tucker-7082251b0/) Guest Lecture**
