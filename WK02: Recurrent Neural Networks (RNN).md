@@ -1,4 +1,4 @@
-**Day 0: Hypermaraters**  
+**Day 0: [Model Configurations](https://www.dropbox.com/s/u0vsp3rcqi1zbhd/01-2%20Keras%20Mdel%20Configurations.pptx?dl=0)**  
 6-7 minute team presentations of these topics  
 Define and explain the key concepts  
 Explain the math equation(s)  
@@ -31,6 +31,6 @@ Team 11 & 19: Activation Function - softmax
 
 *Optional Fun Stuff*
 [Natural Language Processing by CrashCourse AI](https://www.pbs.org/video/natural-language-processing-7-eroyod/)  
-**Day 1: RNN**
+**Day 1: [RNN](https://www.dropbox.com/s/nzja1j0ccd3wbr2/02-0%20RNN.pptx?dl=0)**  
 
 **Day 2: [James Tucker](https://www.linkedin.com/in/james-m-tucker-7082251b0/) Guest Lecture**
