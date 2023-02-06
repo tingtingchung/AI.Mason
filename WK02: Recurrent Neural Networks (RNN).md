@@ -9,14 +9,14 @@ If you send your presentation link to the instructor, it can be added to the lis
 
 Teams 1 & 12: sklearn.preprocessing - For numeric values and categorical values  
 Teams 2 & 12: sklearn.impute  
-Team 3 & 13: Optimizer - stochastic gradient descent  
+[Team 3](https://www.dropbox.com/s/hjha10pov641lr1/AI%20Team%203%20Gradient%20Descent.pptx?dl=0) & 13: Optimizer - stochastic gradient descent  
 [Team 4](https://github.com/shs7777/MSBA-Section-1-Team-4/blob/main/AI_Team4_adam.pptx) & 14: Optimizer - adam  
 [Team 5](https://wmedu-my.sharepoint.com/:p:/g/personal/clwall_wm_edu/ETmfFK9ua_RPlwMPteGp7mUBxJ9yoOAxL3gxT1Cs4YGHFg?e=W7GxTb) & 15: Optimier - RMSprop  
 Team 6 & 16: Classifier Loss/Metric - SparseCategoricalAccuracy  
 Team 7 & 17: Classifier Loss/Metric - SparseCategoricalCrossEntropy  
 [Team 8](https://www.dropbox.com/s/1279n10xn6926ve/BinaryCrossEntropyPres.pdf?dl=0) & 17: Classifier Loss/Metric - BinaryCrossEntropy  
 Team 9 & 18: Regressor Loss/Metric - Cosine_similarity  
-Team 10 & 18: Regressor Loss/Metric - huber  
+[Team 10](https://www.dropbox.com/s/y5pllml4ioa33c4/AI_RegressorLoss_Huber%20Team%2010.pptx?dl=0) & 18: Regressor Loss/Metric - huber  
 Team 11 & 19: Activation Function - softmax  
 
 **Complete these readings/videos before next class**
