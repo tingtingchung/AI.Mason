@@ -29,6 +29,8 @@ Team 11 & 19: Activation Function - softmax
 [GloVe](https://nlp.stanford.edu/projects/glove/)  
 [Bag-of-N-Grams](https://colab.research.google.com/github/practical-nlp/practical-nlp/blob/master/Ch3/03_Bag_of_N_Grams.ipynb?authuser=0&pli=1)  
 
+*Optional Fun Stuff*
+[Natural Language Processing by CrashCourse AI](https://www.pbs.org/video/natural-language-processing-7-eroyod/)  
 **Day 1: RNN**
 
 **Day 2: [James Tucker](https://www.linkedin.com/in/james-m-tucker-7082251b0/) Guest Lecture**
