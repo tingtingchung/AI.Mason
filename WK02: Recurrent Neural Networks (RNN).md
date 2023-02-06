@@ -14,10 +14,10 @@ Teams 2 & 12: sklearn.impute
 [Team 5](https://wmedu-my.sharepoint.com/:p:/g/personal/clwall_wm_edu/ETmfFK9ua_RPlwMPteGp7mUBxJ9yoOAxL3gxT1Cs4YGHFg?e=W7GxTb) & 15: Optimier - RMSprop  
 Team 6 & 16: Classifier Loss/Metric - SparseCategoricalAccuracy  
 [Team 7](https://www.dropbox.com/s/di3p36p5umjv310/Team%207%20Presentation.pptx?dl=0) & 17: Classifier Loss/Metric - SparseCategoricalCrossEntropy  
-[Team 8](https://www.dropbox.com/s/1279n10xn6926ve/BinaryCrossEntropyPres.pdf?dl=0) & 17: Classifier Loss/Metric - BinaryCrossEntropy  
+[Team 8](https://www.dropbox.com/s/1279n10xn6926ve/BinaryCrossEntropyPres.pdf?dl=0) & [Team 17](https://www.dropbox.com/s/mcwh1s6n9y809ob/AIpresentationTeam17.pptx?dl=0): Classifier Loss/Metric - BinaryCrossEntropy  
 Team 9 & 18: Regressor Loss/Metric - Cosine_similarity  
 [Team 10](https://www.dropbox.com/s/y5pllml4ioa33c4/AI_RegressorLoss_Huber%20Team%2010.pptx?dl=0) & 18: Regressor LHow to Make an AI Read Your Handwriting (LAB) #5oss/Metric - huber  
-Team 11 & 19: Activation Function - softmax  
+Team 11 & [Team 19](https://www.dropbox.com/s/0425bhpyx3ascza/TEAM19_Activation%20Functions.pptx?dl=0): Activation Function - softmax  
 
 **Complete these readings/videos before next class**  
 [Chapter 10.4 & 10.5 Recurrent Neural Networks, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
