@@ -19,7 +19,7 @@ Team 9 & 18: Regressor Loss/Metric - Cosine_similarity
 [Team 10](https://www.dropbox.com/s/y5pllml4ioa33c4/AI_RegressorLoss_Huber%20Team%2010.pptx?dl=0) & 18: Regressor LHow to Make an AI Read Your Handwriting (LAB) #5oss/Metric - huber  
 Team 11 & 19: Activation Function - softmax  
 
-**Complete these readings/videos before next class**
+**Complete these readings/videos before next class**  
 [Chapter 10.4 & 10.5 Recurrent Neural Networks, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
 [Sparse Matrix Format in Tensorflow](https://www.tensorflow.org/api_docs/python/tf/sparse/SparseTensor)  
 [Masking & Padding in Keras](https://www.tensorflow.org/guide/keras/masking_and_padding#:~:text=Padding%20is%20a%20special%20form,pad%20or%20truncate%20some%20sequences.)  
