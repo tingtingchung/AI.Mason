@@ -13,7 +13,7 @@ Teams 2 & 12: sklearn.impute
 [Team 4](https://github.com/shs7777/MSBA-Section-1-Team-4/blob/main/AI_Team4_adam.pptx) & 14: Optimizer - adam  
 [Team 5](https://wmedu-my.sharepoint.com/:p:/g/personal/clwall_wm_edu/ETmfFK9ua_RPlwMPteGp7mUBxJ9yoOAxL3gxT1Cs4YGHFg?e=W7GxTb) & 15: Optimier - RMSprop  
 Team 6 & 16: Classifier Loss/Metric - SparseCategoricalAccuracy  
-Team 7 & 17: Classifier Loss/Metric - SparseCategoricalCrossEntropy  
+[Team 7](https://www.dropbox.com/s/di3p36p5umjv310/Team%207%20Presentation.pptx?dl=0) & 17: Classifier Loss/Metric - SparseCategoricalCrossEntropy  
 [Team 8](https://www.dropbox.com/s/1279n10xn6926ve/BinaryCrossEntropyPres.pdf?dl=0) & 17: Classifier Loss/Metric - BinaryCrossEntropy  
 Team 9 & 18: Regressor Loss/Metric - Cosine_similarity  
 [Team 10](https://www.dropbox.com/s/y5pllml4ioa33c4/AI_RegressorLoss_Huber%20Team%2010.pptx?dl=0) & 18: Regressor LHow to Make an AI Read Your Handwriting (LAB) #5oss/Metric - huber  
