@@ -36,8 +36,8 @@ Team 11 & 19: Activation Function - softmax
 [Keras Recurrent Layers](https://keras.io/api/layers/recurrent_layers/)  
 [Keras Preprocessing Layers](https://keras.io/api/layers/preprocessing_layers/)  
 
-**Day 2: [James Tucker](https://www.linkedin.com/in/james-m-tucker-7082251b0/) Guest Lecture**
-**Complete these readings/videos before next class**
+**Day 2: [James Tucker](https://www.linkedin.com/in/james-m-tucker-7082251b0/) Guest Lecture**  
+**Complete these readings/videos before next class**  
 [Chapter 10.3 Convolutional Neural Networks, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
 [Keras Convolutional Layers](https://keras.io/api/layers/convolution_layers/)  
 [Keras Pooling Layers](https://keras.io/api/layers/convolution_layers/)  
