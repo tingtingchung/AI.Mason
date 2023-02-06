@@ -11,7 +11,7 @@ Teams 1 & 12: sklearn.preprocessing - For numeric values and categorical values
 Teams 2 & 12: sklearn.impute  
 Team 3 & 13: Optimizer - stochastic gradient descent  
 Team 4 & 14: Optimizer - adam  
-Team 5 & 15: Optimier - RMSprop  
+[Team 5](https://wmedu-my.sharepoint.com/:p:/g/personal/clwall_wm_edu/ETmfFK9ua_RPlwMPteGp7mUBxJ9yoOAxL3gxT1Cs4YGHFg?e=W7GxTb) & 15: Optimier - RMSprop  
 Team 6 & 16: Classifier Loss/Metric - SparseCategoricalAccuracy  
 Team 7 & 17: Classifier Loss/Metric - SparseCategoricalCrossEntropy  
 Team 8 & 17: Classifier Loss/Metric - BinaryCrossEntropy  
