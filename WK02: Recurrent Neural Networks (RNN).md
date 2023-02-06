@@ -42,5 +42,5 @@ Team 11 & 19: Activation Function - softmax
 [Keras Convolutional Layers](https://keras.io/api/layers/convolution_layers/)  
 [Keras Pooling Layers](https://keras.io/api/layers/convolution_layers/)  
 
-*Optional Fun Stuff*
+*Optional Fun Stuff*  
 [How to Make an AI Read Your Handwriting (LAB)](https://www.pbs.org/video/how-to-make-an-ai-read-your-handwriting-lab-5-oh9flk/)  
