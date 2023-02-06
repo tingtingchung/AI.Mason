@@ -1,8 +1,8 @@
 **Day 0: [Model Configurations](https://www.dropbox.com/s/u0vsp3rcqi1zbhd/01-2%20Keras%20Mdel%20Configurations.pptx?dl=0)**  
 6-7 minute team presentations of these topics  
-Define and explain the key concepts  
+Define and explain the key concepts - visualize as much you can! 
 Explain the math equation(s)  
-Demo code if relevant (this is optional)  
+Demo some code snippet to illustrate key concepts  
 Always reference the official documentation from Scikit-Learn or Tensorflow  
 You can use other Internet sources but make sure they are consistent with the current official documentation  
 If you send your presentation link to the instructor, it can be added to the list below.
