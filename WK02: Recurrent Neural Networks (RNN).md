@@ -16,7 +16,7 @@ Team 6 & 16: Classifier Loss/Metric - SparseCategoricalAccuracy
 Team 7 & 17: Classifier Loss/Metric - SparseCategoricalCrossEntropy  
 [Team 8](https://www.dropbox.com/s/1279n10xn6926ve/BinaryCrossEntropyPres.pdf?dl=0) & 17: Classifier Loss/Metric - BinaryCrossEntropy  
 Team 9 & 18: Regressor Loss/Metric - Cosine_similarity  
-[Team 10](https://www.dropbox.com/s/y5pllml4ioa33c4/AI_RegressorLoss_Huber%20Team%2010.pptx?dl=0) & 18: Regressor Loss/Metric - huber  
+[Team 10](https://www.dropbox.com/s/y5pllml4ioa33c4/AI_RegressorLoss_Huber%20Team%2010.pptx?dl=0) & 18: Regressor LHow to Make an AI Read Your Handwriting (LAB) #5oss/Metric - huber  
 Team 11 & 19: Activation Function - softmax  
 
 **Complete these readings/videos before next class**
@@ -31,6 +31,16 @@ Team 11 & 19: Activation Function - softmax
 
 *Optional Fun Stuff*  
 [Natural Language Processing by CrashCourse AI](https://www.pbs.org/video/natural-language-processing-7-eroyod/)  
+
 **Day 1: [RNN](https://www.dropbox.com/s/nzja1j0ccd3wbr2/02-0%20RNN.pptx?dl=0)**  
+[Keras Recurrent Layers](https://keras.io/api/layers/recurrent_layers/)  
+[Keras Preprocessing Layers](https://keras.io/api/layers/preprocessing_layers/)  
 
 **Day 2: [James Tucker](https://www.linkedin.com/in/james-m-tucker-7082251b0/) Guest Lecture**
+**Complete these readings/videos before next class**
+[Chapter 10.3 Convolutional Neural Networks, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
+[Keras Convolutional Layers](https://keras.io/api/layers/convolution_layers/)  
+[Keras Pooling Layers](https://keras.io/api/layers/convolution_layers/)  
+
+*Optional Fun Stuff*
+[How to Make an AI Read Your Handwriting (LAB)](https://www.pbs.org/video/how-to-make-an-ai-read-your-handwriting-lab-5-oh9flk/)  
