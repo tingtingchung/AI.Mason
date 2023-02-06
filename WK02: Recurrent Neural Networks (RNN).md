@@ -14,7 +14,7 @@ Team 4 & 14: Optimizer - adam
 [Team 5](https://wmedu-my.sharepoint.com/:p:/g/personal/clwall_wm_edu/ETmfFK9ua_RPlwMPteGp7mUBxJ9yoOAxL3gxT1Cs4YGHFg?e=W7GxTb) & 15: Optimier - RMSprop  
 Team 6 & 16: Classifier Loss/Metric - SparseCategoricalAccuracy  
 Team 7 & 17: Classifier Loss/Metric - SparseCategoricalCrossEntropy  
-Team 8 & 17: Classifier Loss/Metric - BinaryCrossEntropy  
+[Team 8](https://www.dropbox.com/s/1279n10xn6926ve/BinaryCrossEntropyPres.pdf?dl=0) & 17: Classifier Loss/Metric - BinaryCrossEntropy  
 Team 9 & 18: Regressor Loss/Metric - Cosine_similarity  
 Team 10 & 18: Regressor Loss/Metric - huber  
 Team 11 & 19: Activation Function - softmax  
