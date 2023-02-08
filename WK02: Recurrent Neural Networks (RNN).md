@@ -32,7 +32,7 @@ Team 9 & 18: Regressor Loss/Metric - Cosine_similarity
 *Optional Fun Stuff*  
 [Natural Language Processing by CrashCourse AI](https://www.pbs.org/video/natural-language-processing-7-eroyod/)  
 
-**Day 1: [Lab1-4](https://colab.research.google.com/drive/1lIqfXLyx5fHjrxB8cI0zvXRaHyRQdlQw?usp=sharing), [NN Architectural Details #1](https://www.dropbox.com/s/6gdhnsp4a84y77k/01-2%20NN%20Architectural%20Details%20%231.pptx?dl=0), [RNN](https://www.dropbox.com/s/nzja1j0ccd3wbr2/02-0%20RNN.pptx?dl=0)**  
+**Day 1: [Lab1-4](https://colab.research.google.com/drive/1lIqfXLyx5fHjrxB8cI0zvXRaHyRQdlQw?usp=sharing), [NN Architectural Details #1](https://www.dropbox.com/s/6gdhnsp4a84y77k/01-2%20NN%20Architectural%20Details%20%231.pptx?dl=0), [Lab2-1](https://colab.research.google.com/drive/1B6sFWxloF93nmiTWOJkkp-unYIuDyScX?usp=sharing), [RNN](https://www.dropbox.com/s/nzja1j0ccd3wbr2/02-0%20RNN.pptx?dl=0)**  
 [Keras Recurrent Layers](https://keras.io/api/layers/recurrent_layers/)  
 [Keras Preprocessing Layers](https://keras.io/api/layers/preprocessing_layers/)  
 
