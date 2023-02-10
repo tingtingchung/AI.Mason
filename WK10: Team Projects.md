@@ -48,7 +48,8 @@ Topics are first come first serve and will be listed here as claimed when taken.
     [Sun, Ting, and Miklos A. Vasarhelyi. "Deep Learning and the Future of Auditing: How an Evolving Technology Could Transform Analysis and Improve Judgment." CPA Journal 87, no. 6 (2017).](https://www-proquest-com.proxy.wm.edu/docview/2213055096?pq-origsite=gscholar&fromopenview=true)  
     [Sun, T. (2019). Applying deep learning to audit procedures: An illustrative framework. Accounting Horizons, 33(3), 89-109.](https://publications.aaahq.org/accounting-horizons/article-abstract/33/3/89/2426/Applying-Deep-Learning-to-Audit-Procedures-An?redirectedFrom=fulltext)  
     [Other research by Marco Schreyer](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en)  
-- AI applications in Spply Chain Management (warehouse, inventory, transportation, etc) 
+- AI applications in Spply Chain/Operations Management (warehouse, inventory, transportation, etc)
+    [Stitch Fix Algorithm Tour](https://algorithms-tour.stitchfix.com/)   
 - AI applications in HR  
 - AI applications in Marketing  
 - AI applications in Sales 
