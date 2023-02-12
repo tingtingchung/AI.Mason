@@ -20,7 +20,7 @@ Today we will wrap up RNN discussions
 **Day1: [CNN], [Lab2-3 MNIST101], [Lab2-4 MNIST with CNN]**  
 
 **Complete these readings/videos before next class**  
-[TBD]
+[Dr. Chung's TF Keras CNN Model Template](https://docs.google.com/document/d/1gw1SanV6caqE4-iZAn3TO3tZ4poCYL3yvPZbidMqCxw/edit?usp=sharing)  
 
 *Optional Fun Stuff*  
 [Cats vs. Dogs? Lets Make an AI to Settle This by CrashCourse AI](https://www.pbs.org/video/cats-vs-dogs-lets-make-an-ai-to-settle-this-lab-19-rp1lwa/)  
