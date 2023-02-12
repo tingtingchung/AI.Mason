@@ -20,7 +20,7 @@ The presentation should include
 
 **Before picking your topic read these first:**  
 [The ultimate guide to starting AI by Cassie Kozyrkov](https://www.linkedin.com/pulse/ultimate-guide-starting-ai-cassie-kozyrkov/)   
-[Deep Learning Tuning PLaybook](https://github.com/google-research/tuning_playbook)  
+[Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)  
 
 
 **[Section 1 Schedule]**  
