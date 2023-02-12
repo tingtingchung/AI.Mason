@@ -13,6 +13,7 @@ Complete these readings/videos before next class
 Complete these readings/videos before next class  
 [Python & NumPy for Deep Learning by DeepMind](https://colab.research.google.com/github/deepmind/educational/blob/master/colabs/summer_schools/intro_to_python_numpy_for_deep_learning.ipynb)  
 [10 minutes to pandas](https://pandas.pydata.org/docs/user_guide/10min.html)  
+[20 Pandas Functions for 80% Data Science Tasks](https://www.kaggle.com/code/youssef19/20-pandas-functions-for-80-data-science-tasks?scriptVersionId=118961959)  
 [Perceptron with SKLearn](https://scikit-learn.org/stable/modules/linear_model.html#perceptron)  
 [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)  
 
