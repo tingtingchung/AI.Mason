@@ -32,6 +32,7 @@ The presentation should include
 Teams within the same section must choose unique topics (No two teams within the same section can have the same topic.)  
 Topics are first come first serve and will be listed here as claimed when taken.  
 - [OpenAI Codex](https://openai.com/blog/openai-codex/)  
+- [Transformers](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)  
 - [PyTorch](https://pytorch.org/) vs. Tensorflow    
 - Graph Neural Networks
 - Synthetic data  
