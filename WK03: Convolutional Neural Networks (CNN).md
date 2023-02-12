@@ -21,6 +21,8 @@ Today we will wrap up RNN discussions
 
 **Complete these readings/videos before next class**  
 [Dr. Chung's TF Keras CNN Model Template](https://docs.google.com/document/d/1gw1SanV6caqE4-iZAn3TO3tZ4poCYL3yvPZbidMqCxw/edit?usp=sharing)  
+[Keras Flatten Layer](https://keras.io/api/layers/reshaping_layers/flatten/)  
+[Basic image operations with OpenCV](https://docs.opencv.org/3.4/d3/df2/tutorial_py_basic_ops.html)  
 
 *Optional Fun Stuff*  
 [Cats vs. Dogs? Lets Make an AI to Settle This by CrashCourse AI](https://www.pbs.org/video/cats-vs-dogs-lets-make-an-ai-to-settle-this-lab-19-rp1lwa/)  
