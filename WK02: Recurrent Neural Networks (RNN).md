@@ -41,6 +41,8 @@ Team 9 & 18: Regressor Loss/Metric - Cosine_similarity
 [Chapter 10.3 Convolutional Neural Networks, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
 [Keras Convolutional Layers](https://keras.io/api/layers/convolution_layers/)  
 [Keras Pooling Layers](https://keras.io/api/layers/convolution_layers/)  
+[TF Word Embeddings](https://www.tensorflow.org/text/guide/word_embeddings)  
+[TF Tokenizers](https://www.tensorflow.org/text/guide/tokenizers)  
 
 *Optional Fun Stuff*  
 [How to Make an AI Read Your Handwriting (LAB)](https://www.pbs.org/video/how-to-make-an-ai-read-your-handwriting-lab-5-oh9flk/)  
