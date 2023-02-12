@@ -21,12 +21,15 @@ The presentation should include
 **Before picking your topic read these first:**  
 [The ultimate guide to starting AI by Cassie Kozyrkov](https://www.linkedin.com/pulse/ultimate-guide-starting-ai-cassie-kozyrkov/)   
 [Deep Learning Tuning PLaybook](https://github.com/google-research/tuning_playbook)  
+
+
 **[Section 1 Schedule]**  
 - Team 2: [Stable Diffusion](https://stablediffusionweb.com/) 
 - Team 4: [ChatGPT](https://openai.com/blog/chatgpt/) vs. [GPTZero](https://gptzero.me/)  
         [ChatGPT2 coded in TF](https://github.com/openai/gpt-2/blob/master/src/model.py)  
 
 **[Section 2 Schedule]**  
+
 
 **Potential Case Study Topics (to be updated over the semester - you are welcome to suggest topics)**  
 Teams within the same section must choose unique topics (No two teams within the same section can have the same topic.)  
