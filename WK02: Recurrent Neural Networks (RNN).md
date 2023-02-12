@@ -23,6 +23,7 @@ Team 9 & 18: Regressor Loss/Metric - Cosine_similarity
 [Chapter 10.4 & 10.5 Recurrent Neural Networks, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
 [Sparse Matrix Format in Tensorflow](https://www.tensorflow.org/api_docs/python/tf/sparse/SparseTensor)  
 [Masking & Padding in Keras](https://www.tensorflow.org/guide/keras/masking_and_padding#:~:text=Padding%20is%20a%20special%20form,pad%20or%20truncate%20some%20sequences.)  
+[Dr. Chung's TF Keras RNN Model Template](https://docs.google.com/document/d/1uPGD60oGgf40YOzyid0SfaTYNBtkSRlGvhud8ALB6tA/edit?usp=sharing)  
 
 *Optional References*  
 [word2vec](https://code.google.com/archive/p/word2vec/)  
