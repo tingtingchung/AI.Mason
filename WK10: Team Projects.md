@@ -18,9 +18,9 @@ The presentation should include
 **5. Presentation (10%):** Clear, well rehearsed, concise, and engaging presentation with laser focus on key topics, key issues and key elements of the solution. Free of errors. Think about how to make your presentation interesting: [Why lectures are like blind dates by Nicolas Coles](https://www.nature.com/articles/d41586-022-01798-6)   
 **6. References (5%):** List the research paper(s) and sources you have used for this project in APA style.  
 
-**Before picking your topic read this first:**  
+**Before picking your topic read these first:**  
 [The ultimate guide to starting AI by Cassie Kozyrkov](https://www.linkedin.com/pulse/ultimate-guide-starting-ai-cassie-kozyrkov/)   
-
+[Deep Learning Tuning PLaybook](https://github.com/google-research/tuning_playbook)  
 **[Section 1 Schedule]**  
 - Team 2: [Stable Diffusion](https://stablediffusionweb.com/) 
 - Team 4: [ChatGPT](https://openai.com/blog/chatgpt/) vs. [GPTZero](https://gptzero.me/)  
