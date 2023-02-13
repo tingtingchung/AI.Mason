@@ -25,7 +25,7 @@ Complete these readings/videos before next class
 [Preprocessing Data with Scikit Learn](https://scikit-learn.org/stable/modules/preprocessing.html)  
 [Regression from Seeing Theory](https://seeing-theory.brown.edu/#secondPage/chapter6)  
 [MLU by Amazon](https://mlu-explain.github.io/)  
-[Model Evaluation](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit)  
+[Model Evaluation: Overfit and underfit by TF](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit)  
 [Browse Tensorflow Guides](https://www.tensorflow.org/guide)  
 For an excellent refresher, review Chapters 1-5 of [ML1 textbook](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
 
