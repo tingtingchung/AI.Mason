@@ -25,8 +25,8 @@
 [Chapter 10.2 Multi-layer NN, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
 [Chapter 2, How the backpropagation algorithm works, Neural Networks and Deep Learning by Nielsen](http://neuralnetworksanddeeplearning.com/chap2.html)  
 
-*Optional Fun Stuff*
+*Optional Fun Stuff*  
 [Training Neural Networks by CrashCourse AI](https://www.pbs.org/video/training-neural-networks-4-mq025r/)  
 
-*Optional Reading*
+*Optional Reading*  
 [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)
