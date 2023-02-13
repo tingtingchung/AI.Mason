@@ -30,3 +30,4 @@
 
 *Optional Reading*  
 [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)
+[Keras Tuner](https://www.tensorflow.org/tutorials/keras/keras_tuner)  
