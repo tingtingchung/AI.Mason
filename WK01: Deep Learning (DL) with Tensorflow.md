@@ -24,7 +24,7 @@
 [Training & Evaluation with built-in Methods](https://www.tensorflow.org/guide/keras/train_and_evaluate)  
 [Chapter 10.2 Multi-layer NN, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
 [Chapter 2, How the backpropagation algorithm works, Neural Networks and Deep Learning by Nielsen](http://neuralnetworksanddeeplearning.com/chap2.html)  
-
+[What is backpropagation really doing? by 3Blue1Brown](https://www.google.com/search?q=backpropagation&rlz=1C1GCEA_enUS1043US1043&sxsrf=AJOqlzV85JOeecehs9Tee02AymyLno5GEg:1676288586631&source=lnms&tbm=vid&sa=X&ved=2ahUKEwjZ3fzNtZL9AhVRGlkFHeCfBVgQ_AUoAnoECAEQBA&biw=1536&bih=818&dpr=1.25#fpstate=ive&vld=cid:1489b7a7,vid:Ilg3gGewQ5U)  
 *Optional Fun Stuff*  
 [Training Neural Networks by CrashCourse AI](https://www.pbs.org/video/training-neural-networks-4-mq025r/)  
 
