@@ -29,5 +29,5 @@
 [Training Neural Networks by CrashCourse AI](https://www.pbs.org/video/training-neural-networks-4-mq025r/)  
 
 *Optional Reading*  
-[Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)
+[Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)  
 [Keras Tuner](https://www.tensorflow.org/tutorials/keras/keras_tuner)  
