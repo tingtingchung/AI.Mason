@@ -18,7 +18,7 @@ Today we will wrap up RNN discussions
 [Karpathy, A., Johnson, J., & Fei-Fei, L. (2015). Visualizing and understanding recurrent networks. arXiv preprint arXiv:1506.02078.](http://vision.stanford.edu/pdf/KarpathyICLR2016.pdf)  
 [Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. Advances in neural information processing systems, 30.](https://arxiv.org/abs/1706.03762) 
 
-**Day1: [CNN], [Lab2-3 MNIST101], [Lab2-4 MNIST with CNN]**  
+**Day1: [CNN], [Lab2-3 MNIST101](https://colab.research.google.com/drive/1tpnpL5ulGroOluAFkLZCDpt0e9PH3iWF?usp=sharing), [Lab2-4 MNIST with CNN](https://colab.research.google.com/drive/1546EfPVvdJGrKz9rQaoJtZGjcqsL46GW?usp=sharing)**  
 
 **Complete these readings/videos before next class**  
 [Dr. Chung's TF Keras CNN Model Template](https://docs.google.com/document/d/1gw1SanV6caqE4-iZAn3TO3tZ4poCYL3yvPZbidMqCxw/edit?usp=sharing)  
