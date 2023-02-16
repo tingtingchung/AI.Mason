@@ -15,7 +15,7 @@ Today we will wrap up RNN discussions
 [Backpropagation & Optimization by CrashCourse AI](https://www.pbs.org/video/training-neural-networks-4-mq025r/)  
 [Teachable Machine](https://teachablemachine.withgoogle.com/)  
 
-*Optional Readings*  
+*References*  
 [Karpathy, A., Johnson, J., & Fei-Fei, L. (2015). Visualizing and understanding recurrent networks. arXiv preprint arXiv:1506.02078.](http://vision.stanford.edu/pdf/KarpathyICLR2016.pdf)  
 [Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. Advances in neural information processing systems, 30.](https://arxiv.org/abs/1706.03762) 
 
