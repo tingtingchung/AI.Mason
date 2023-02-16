@@ -5,7 +5,7 @@
 [How YouTube Knows What You Should Watch](https://www.pbs.org/video/how-youtube-knows-what-you-should-watch-vkyoml/)  
 
 **Day1:**
-[Case Study: YouTube's recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)
+[Case Study: YouTube's recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)  
 [Case Study: The history of Amazon's recommendation algorithm](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm)  
 
 *Optional Fun Stuff*  
