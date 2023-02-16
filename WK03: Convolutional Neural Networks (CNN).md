@@ -11,8 +11,9 @@ Today we will wrap up RNN discussions
 [MNIST digit classification dataset by Keras](https://keras.io/api/datasets/mnist/)  
 [Tensorflow2 quickstart for beginners](https://www.tensorflow.org/tutorials/quickstart/beginner)  
 
-*Optional Fun Studd*
+*Optional Fun Stuff*  
 [Backpropagation & Optimization by CrashCourse AI](https://www.pbs.org/video/training-neural-networks-4-mq025r/)  
+[Teachable Machine](https://teachablemachine.withgoogle.com/  
 
 *Optional Readings*  
 [Karpathy, A., Johnson, J., & Fei-Fei, L. (2015). Visualizing and understanding recurrent networks. arXiv preprint arXiv:1506.02078.](http://vision.stanford.edu/pdf/KarpathyICLR2016.pdf)  
