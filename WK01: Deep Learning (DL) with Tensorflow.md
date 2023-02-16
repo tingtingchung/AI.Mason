@@ -1,6 +1,9 @@
 **WK01: Deep Learning with TF**  
 
-**Day 0: [Neural Networks 101](https://www.dropbox.com/s/7pmes0nkxl9eonx/01-0%20Neural%20Networks.pptx?dl=0), [Z Score function](https://colab.research.google.com/drive/1ja7kUqgJxU7fYLrYbXX-fqEGDl2Saq7b?usp=sharing), [Lab1-1 basic](https://colab.research.google.com/drive/1fa2U3nfFveDTIKj_yLhm2faFSeW-nxW1?usp=sharing), [Lab1-1 full](https://colab.research.google.com/drive/1s7Wzul9HbIUaOgAjCw02a-DXihn0MDP0?usp=sharing)**  
+**Day 0: [Neural Networks 101](https://www.dropbox.com/s/7pmes0nkxl9eonx/01-0%20Neural%20Networks.pptx?dl=0), [Z Score function](https://colab.research.google.com/drive/1ja7kUqgJxU7fYLrYbXX-fqEGDl2Saq7b?usp=sharing), [Lab1-1 basic](https://colab.research.google.com/drive/1fa2U3nfFveDTIKj_yLhm2faFSeW-nxW1?usp=sharing), [Lab1-1 full](https://colab.research.google.com/drive/1s7Wzul9HbIUaOgAjCw02a-DXihn0MDP0?usp=sharing)** 
+
+[Case Study: Zillow Home Value Index Methodology (Zestimate)](https://www.zillow.com/research/methodology-neural-zhvi-32128/)  
+
 **Complete these readings/videos before next class**  
 [Dr. Chung's Single Neuron Simulator](https://docs.google.com/spreadsheets/d/1KDGiwAF2GStEZc2WUgbJ7CE7NHktZhAVpcRNulHfqpw/edit?usp=sharing) and [tutorial video](https://www.youtube.com/watch?v=r9WOZs42Evw&list=PLjomhJShbk6RectVgKBsbhGZ5KCACyvKq&index=3)  
 [Dr. Chung's TF/Keras DL Model Template](https://docs.google.com/document/d/1S1nml6eqTolm0V40A8coF2jm8ut8D0bWs4HB-VU0uyM/edit#)  
