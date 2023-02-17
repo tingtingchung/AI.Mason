@@ -22,7 +22,6 @@ The presentation should include
 [The ultimate guide to starting AI by Cassie Kozyrkov](https://www.linkedin.com/pulse/ultimate-guide-starting-ai-cassie-kozyrkov/)   
 [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)  
 
-
 **[Section 1 Schedule]**  
 - Team 2: [Stable Diffusion](https://stablediffusionweb.com/) 
 - Team 4: [ChatGPT](https://openai.com/blog/chatgpt/) vs. [GPTZero](https://gptzero.me/)  
@@ -71,9 +70,10 @@ Topics are first come first serve and will be listed here as claimed when taken.
 [Yann LeCun's publications](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ)  
 [Andrew Moore's publications](https://scholar.google.com/citations?hl=en&user=PbfkKLcAAAAJ)  
 [Andrew Ng's publications](https://scholar.google.com/citations?hl=en&user=mG4imMEAAAAJ)  
+- [Andrew Ng's TED Talk: How AI enpower any business](https://www.ted.com/talks/andrew_ng_how_ai_could_empower_any_business?language=en)  
 [Feifei Li's publications](https://scholar.google.com/citations?user=rDfyQnIAAAAJ&hl=en&oi=ao)  
-        - [Feifei Li's TED Talk: How we teach computers to understand pictures](https://youtu.be/40riCqvRoMs)  
-        - [Feifei Li on Ambient Intelligence with Eye on AI](https://www.eye-on.ai/podcast-044)  
+- [Feifei Li's TED Talk: How we teach computers to understand pictures](https://youtu.be/40riCqvRoMs)  
+- [Feifei Li on Ambient Intelligence with Eye on AI](https://www.eye-on.ai/podcast-044)  
 [JP Morgan AI](https://www.jpmorgan.com/technology/artificial-intelligence)  
 [Machine Learing at CapitalOne](https://www.capitalone.com/tech/machine-learning/?gclid=CjwKCAiA2L-dBhACEiwAu8Q9YD7j7BaUQ6QMRoYlEjIultzy3iWhhHLefxbp3qXdaKjD6kUnVDC19RoCOBMQAvD_BwE)  
 [ICAIF conference proceedings](https://dl.acm.org/conference/icaif)  
