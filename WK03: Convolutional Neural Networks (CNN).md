@@ -9,6 +9,7 @@ Today we will wrap up RNN discussions
 [RNN with Keras](https://colab.research.google.com/github/tensorflow/docs/blob/snapshot-keras/site/en/guide/keras/rnn.ipynb)  
 [Fei-Fei Li's TED Talk: How we teach computers to understand pictures](https://youtu.be/40riCqvRoMs)  
 [Yann Lecun's MNIST site](http://yann.lecun.com/exdb/mnist/)  
+[Yann Lecun's TED Talk on Deep learning, neural networks and the future of AI](https://www.ted.com/talks/yann_lecun_deep_learning_neural_networks_and_the_future_of_ai)  
 [MNIST digit classification dataset by Keras](https://keras.io/api/datasets/mnist/)  
 [Tensorflow2 quickstart for beginners](https://www.tensorflow.org/tutorials/quickstart/beginner)  
 
