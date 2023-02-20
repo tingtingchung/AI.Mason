@@ -19,6 +19,7 @@ The presentation should include
 **6. References (5%):** List the research paper(s) and sources you have used for this project in APA style.  
 
 **Before picking your topic read these first:**  
+[AI Transformation Playbook by Landing.AI](https://landing.ai/resource/ai-transformation-playbook/)  
 [The ultimate guide to starting AI by Cassie Kozyrkov](https://www.linkedin.com/pulse/ultimate-guide-starting-ai-cassie-kozyrkov/)   
 [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)  
 
