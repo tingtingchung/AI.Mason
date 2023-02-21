@@ -45,6 +45,7 @@ Topics are first come first serve and will be listed here as claimed when taken.
 - AI applications in Finance  
     [ICAIF conference proceedings](https://dl.acm.org/conference/icaif)  
     [Manuela Veloso's research](http://www.cs.cmu.edu/~mmv/Veloso.html)  
+    [Xintong Wang's research](https://xintongemilywang.github.io/)  
     [Simona Abis's research](https://scholar.google.com/citations?user=7U9pqdMAAAAJ)  
     [ICAPS Workshop on Planning for Financial Services (FinPlan 2022)](https://icaps22.icaps-conference.org/workshops/FinPlan/)  
     [ICAPS Workshop on Planning for Financial Services (FinPlan 2021)](https://icaps21.icaps-conference.org/workshops/FinPlan/)  
