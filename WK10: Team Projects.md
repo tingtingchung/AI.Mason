@@ -62,7 +62,7 @@ Topics are first come first serve and will be listed here as claimed when taken.
 - AI applications in Marketing  
 - AI applications in Sales 
 - AI applications in Manufacturing  
-    [DeepLearning.ai](https://www.deeplearning.ai/)  
+    [Landing.ai](https://landing.ai/)  
 - AI applications in Healthcare
 - Any other topic that interests your team - Get instructor approval first
 
