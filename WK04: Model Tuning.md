@@ -3,7 +3,7 @@
 No new materials
 
 
-**Day1: [Model Tuning Section 1](https://docs.google.com/presentation/d/12gmakH0jbw_nMogmHY9aPWcK4pfX78mAir0WaBrGzcc/edit?usp=sharing), [Model Tuning Section 2](https://docs.google.com/presentation/d/1i-ShNcrNBSpqSNjzbp4jC9l_tyQnm9BRxUI_G07HwBg/edit?usp=sharing)**   
+**Day1: [Model Tuning Section 1], [Model Tuning Section 2](https://docs.google.com/presentation/d/1i-ShNcrNBSpqSNjzbp4jC9l_tyQnm9BRxUI_G07HwBg/edit?usp=sharing)**   
 The in-class exercise is based on [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)    
 
 **Complete these readings/videos before next class meeting**  
