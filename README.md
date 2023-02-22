@@ -5,8 +5,8 @@ Dr. Rachel Chung's course materials for AI in the residential MSBA program at Wi
 [WK01: Deep Learning (DL) with SKLearn & Tensorflow](https://github.com/tingtingchung/AI.Mason/blob/main/WK01:%20Deep%20Learning%20(DL)%20with%20Tensorflow.md)  
 [WK02: Recurrent Neural Networks (RNN) & Transformers](https://github.com/tingtingchung/AI.Mason/blob/main/WK02:%20Recurrent%20Neural%20Networks%20(RNN).md)    
 [WK03: Convolutional Neural Networks (CNN)](https://github.com/tingtingchung/AI.Mason/blob/main/WK03:%20Convolutional%20Neural%20Networks%20(CNN).md)  
-WK04: Recommenders  
-WK05: Mid-term Exam  
+[WK04: Model Tuning](https://github.com/tingtingchung/AI.Mason/blob/main/WK04:%20Model%20Tuning.md)  
+WK05: Recommenders & Mid-term Exam  
 WK06: Reinforcement Learning  
 WK07: Planning & Search  
 WK08: Explainable & Responsible AI  
