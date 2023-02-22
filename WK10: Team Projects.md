@@ -50,6 +50,7 @@ Topics are first come first serve and will be listed here as claimed when taken.
     [ICAPS Workshop on Planning for Financial Services (FinPlan 2022)](https://icaps22.icaps-conference.org/workshops/FinPlan/)  
     [ICAPS Workshop on Planning for Financial Services (FinPlan 2021)](https://icaps21.icaps-conference.org/workshops/FinPlan/)  
     [ICAPS Workshop on Planning for Financial Services (FinPlan 2020)](https://icaps20subpages.icaps-conference.org/workshops/finplan/)  
+    [Survey Reveals Financial Industry’s Top 4 AI Priorities for 2023](https://blogs.nvidia.com/blog/2023/02/02/financial-industry-ai-survey/)  
 - AI applications in Accounting  
     [Schreyer, Marco, Timur Sattarov, Damian Borth, Andreas Dengel, and Bernd Reimer. "Detection of anomalies in large scale accounting data using deep autoencoder networks." arXiv preprint arXiv:1709.05254 (2017).](https://arxiv.org/abs/1709.05254)
     [Schreyer, M., Sattarov, T., & Borth, D. (2022). Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits. ICAIF '22: Proceedings of the Third ACM International Conference on AI in Finance, November 2022, 105–113](https://dl.acm.org/doi/10.1145/3533271.3561674)  
