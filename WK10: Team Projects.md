@@ -64,6 +64,7 @@ Topics are first come first serve and will be listed here as claimed when taken.
 - AI applications in Manufacturing  
     [Landing.ai](https://landing.ai/)  
 - AI applications in Healthcare
+  [NEJM AI](https://ai.nejm.org/)   
 - Any other topic that interests your team - Get instructor approval first
 
 *You must use at least two sources from the following sites for preparing your presentation*  
