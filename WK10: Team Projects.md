@@ -27,7 +27,7 @@ The presentation should include
 - Team 2: [Stable Diffusion](https://stablediffusionweb.com/) 
 - Team 4: [ChatGPT](https://openai.com/blog/chatgpt/) vs. [GPTZero](https://gptzero.me/)  
         [ChatGPT2 coded in TF](https://github.com/openai/gpt-2/blob/master/src/model.py)  
-
+- Team 5: [PyTorch](https://pytorch.org/) vs. Tensorflow    
 **[Section 2 Schedule]**  
 
 
@@ -36,7 +36,6 @@ Teams within the same section must choose unique topics (No two teams within the
 Topics are first come first serve and will be listed here as claimed when taken.  
 - [OpenAI Codex](https://openai.com/blog/openai-codex/)  
 - [Transformers](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)  
-- [PyTorch](https://pytorch.org/) vs. Tensorflow    
 - Graph Neural Networks
 - Synthetic data  
     [Synthetic Data at JP Morgan](https://www.jpmorgan.com/synthetic-data)  
