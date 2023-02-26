@@ -59,6 +59,9 @@ Topics are first come first serve and will be listed here as claimed when taken.
     [Other research by Marco Schreyer](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en)  
 - AI applications in Spply Chain/Operations Management (warehouse, inventory, transportation, etc)  
     [Stitch Fix Algorithm Tour](https://algorithms-tour.stitchfix.com/)   
+- Recommendation Systems
+    [Data Mining Problems in Retail](https://highlyscalable.wordpress.com/2015/03/10/data-mining-problems-in-retail/)  
+    [Kaur, S., Brugere, I., Stefanucci, A., Nourbakhsh, A., Shah, S., & Veloso, M. (2021). Parameterized Explanations for Investor/Company Matching. arXiv preprint arXiv:2111.01911.](https://arxiv.org/abs/2111.01911)  
 - AI applications in HR  
 - AI applications in Marketing  
 - AI applications in Sales 
