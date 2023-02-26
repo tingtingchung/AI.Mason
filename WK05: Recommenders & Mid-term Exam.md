@@ -10,6 +10,4 @@
 **Day 2: Mid-Term Exam (9am-12pm)**  
 
 **Complete these readings before next class**  
-[Data Mining Problems in Retail](https://highlyscalable.wordpress.com/2015/03/10/data-mining-problems-in-retail/)  
-[Stitch Fix Algorithem Tour](https://algorithms-tour.stitchfix.com/#data-platform)  
-[Kaur, S., Brugere, I., Stefanucci, A., Nourbakhsh, A., Shah, S., & Veloso, M. (2021). Parameterized Explanations for Investor/Company Matching. arXiv preprint arXiv:2111.01911.](https://arxiv.org/abs/2111.01911)  
+[Recommended For You: How machine learning helps you choose what to consume next by Jenifer Wei](https://sitn.hms.harvard.edu/flash/2017/recommended-machine-learning-helps-choose-consume-next/)
