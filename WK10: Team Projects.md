@@ -36,6 +36,7 @@ Teams within the same section must choose unique topics (No two teams within the
 Topics are first come first serve and will be listed here as claimed when taken.  
 - [OpenAI Codex](https://openai.com/blog/openai-codex/)  
 - [Transformers](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)  
+     [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch by Sebastian Raschka](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html?mibextid=Zxz2cZ)
 - Graph Neural Networks
 - Synthetic data  
     [Synthetic Data at JP Morgan](https://www.jpmorgan.com/synthetic-data)  
