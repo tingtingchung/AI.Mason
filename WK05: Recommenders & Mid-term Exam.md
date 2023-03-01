@@ -5,7 +5,7 @@
 [Collaborative filtering](https://developers.google.com/machine-learning/crash-course/embeddings/motivation-from-collaborative-filtering)
 [Recommenders Tutorial by Tensorflow](https://www.tensorflow.org/recommenders/examples/basic_retrieval)  
 
-**Day 1: Mid-Term Review**  
+**Day 1: [Mid-Term Review](https://www.dropbox.com/s/tl9pjavnf1jla3m/05-1%20AI%20Midterm%20Review.pptx?dl=0)**  
 
 **Day 2: Mid-Term Exam (9am-12pm)**  
 
