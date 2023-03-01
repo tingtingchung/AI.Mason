@@ -5,7 +5,7 @@
 [Collaborative filtering](https://developers.google.com/machine-learning/crash-course/embeddings/motivation-from-collaborative-filtering)
 [Recommenders Tutorial by Tensorflow](https://www.tensorflow.org/recommenders/examples/basic_retrieval)  
 
-**Day 1: [Mid-Term Review](https://www.dropbox.com/s/tl9pjavnf1jla3m/05-1%20AI%20Midterm%20Review.pptx?dl=0), [Deep Learning Model Template](https://docs.google.com/document/d/1lMAklKnsSJXe1bcODYfiuUaw86PBAWrkFl_J4CwcWso/edit?usp=sharing)**  
+**Day 1: [Fashion MNIST Lab](https://colab.research.google.com/drive/1S8pky1l9W8ftT39vWhOV5BfS4a4Ww4oX?usp=sharing), [Mid-Term Review](https://www.dropbox.com/s/tl9pjavnf1jla3m/05-1%20AI%20Midterm%20Review.pptx?dl=0), [Deep Learning Model Template](https://docs.google.com/document/d/1lMAklKnsSJXe1bcODYfiuUaw86PBAWrkFl_J4CwcWso/edit?usp=sharing)**  
 
 **Day 2: Mid-Term Exam (9am-12pm)**  
 
