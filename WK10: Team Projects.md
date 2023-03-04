@@ -66,6 +66,8 @@ Topics are first come first serve and will be listed here as claimed when taken.
     [Case Study: The history of Amazon's recommendation algorithm](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm)  
     [Case Study: How Netflix's Recommendation System Works](https://help.netflix.com/en/node/100639#:~:text=We%20estimate%20the%20likelihood%20that,preferences%20on%20our%20service%2C%20and)  
     [Kaur, S., Brugere, I., Stefanucci, A., Nourbakhsh, A., Shah, S., & Veloso, M. (2021). Parameterized Explanations for Investor/Company Matching. arXiv preprint arXiv:2111.01911.](https://arxiv.org/abs/2111.01911)  
+- Federated Learning
+    [Distributed differential privacy for federated learning](https://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html)
 - AI applications in HR  
 - AI applications in Marketing  
 - AI applications in Sales 
