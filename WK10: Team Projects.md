@@ -73,8 +73,10 @@ Topics are first come first serve and will be listed here as claimed when taken.
 - AI applications in Sales 
 - AI applications in Manufacturing  
     [Landing.ai](https://landing.ai/)  
-- AI applications in Healthcare
+- AI applications in Healthcare  
   [NEJM AI](https://ai.nejm.org/)   
+- AI applicaitions in Agriculture  
+  [Nguyen, A. H., Holt, J. P., Knauer, M. T., Abner, V. A., Lobaton, E. J., & Young, S. N. (2023). Towards rapid weight assessment of finishing pigs using a handheld, mobile RGB-D camera. Biosystems Engineering, 226, 155-168.](https://www.sciencedirect.com/science/article/pii/S1537511023000107?dgcid=coauthor)  
 - Any other topic that interests your team - Get instructor approval first
 
 *You must use at least two sources from the following sites for preparing your presentation*  
