@@ -1,6 +1,7 @@
 **WK06: Reinforcement Learning (RL)**  
 **Day 0:**  
 [RoboCup](https://www.robocup.org/a_brief_history_of_robocup)  
+[Andrew Ng on how AI can power any business](https://www.ted.com/talks/andrew_ng_how_ai_could_empower_any_business?language=en)  
 
 **Complete this reading before next class meeting**  
 [TF Reinforcement Learning](https://www.tensorflow.org/agents/tutorials/0_intro_rl)  
