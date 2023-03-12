@@ -4,8 +4,8 @@
 [Andrew Ng on how AI can power any business](https://www.ted.com/talks/andrew_ng_how_ai_could_empower_any_business?language=en)  
 
 **Complete this reading before next class meeting**  
-[TF Reinforcement Learning](https://www.tensorflow.org/agents/tutorials/0_intro_rl)  
 [Reinfrocement Learning by MLU](https://mlu-explain.github.io/reinforcement-learning/)  
+[TF Reinforcement Learning](https://www.tensorflow.org/agents/tutorials/0_intro_rl)  
 [OpenAI Gym](https://openai.com/blog/openai-gym-beta/)
 
 *Optional Stuff for Fun*  
@@ -20,5 +20,6 @@
 **Optional References on Reinforcement Learning**  
 [Sutton, Richard S. and Barto, Andrew G., Reinforcement Learning: An Introduction, MIT Press, 1998](http://www.incompleteideas.net/book/the-book-2nd.html)  
 [Introduction to Reinforcement Learning by David Silter, DeepMind](https://www.deepmind.com/learning-resources/introduction-to-reinforcement-learning-with-david-silver)  
+[Foundations of Reinforcement Learning with Applications in Finance by Ashwin Rao and Tikhon Jelvis](https://stanford.edu/~ashlearn/RLForFinanceBook/book.pdf)  
 [DeepMind Reinfrocement Learning Lecture Series](https://www.deepmind.com/learning-resources/reinforcement-learning-lecture-series-2021)  
 [Andrew Ng's lecture on reinforcement learning](https://www.youtube.com/watch?v=RtxI449ZjSc)  
