@@ -16,3 +16,9 @@
 **Review Manuela Veloso's homepage and JP Morgan AI Research before her talk**  
 [Manuela Veloso](http://www.cs.cmu.edu/~mmv/)  
 [JP Morgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence)  
+
+**Optional References on Reinforcement Learning**  
+[Sutton, Richard S. and Barto, Andrew G., Reinforcement Learning: An Introduction, MIT Press, 1998](http://www.incompleteideas.net/book/the-book-2nd.html)  
+[Introduction to Reinforcement Learning by David Silter, DeepMind](https://www.deepmind.com/learning-resources/introduction-to-reinforcement-learning-with-david-silver)  
+[DeepMind Reinfrocement Learning Lecture Series](https://www.deepmind.com/learning-resources/reinforcement-learning-lecture-series-2021)  
+[Andrew Ng's lecture on reinforcement learning](https://www.youtube.com/watch?v=RtxI449ZjSc)  
