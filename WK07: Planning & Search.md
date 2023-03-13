@@ -6,6 +6,7 @@ Guest lecture by Dr. Manuela Veloso
 Day 1:
 [Xing, Z., Pei, J., & Keogh, E. (2010). A brief survey on sequence classification. ACM Sigkdd Explorations Newsletter, 12(1), 40-48.](https://dl.acm.org/doi/pdf/10.1145/1882471.1882478?casa_token=6AYZzZM5eU4AAAAA:lpnX9L33UfFGN-mQZL85Xex6CLjdYTZ-kf3ba4Viotfnyti4jqg3dh2MpySS3oKKAvQLA9gG2v-ZFA)  
 [Borrajo, D., & Veloso, M. (2020). Domain-independent generation and classification of behavior traces. arXiv preprint arXiv:2011.02918.](https://arxiv.org/pdf/2011.02918.pdf)  
+[Borrajo, D., Veloso, M., & Shah, S. (2020, October). Simulating and classifying behavior in adversarial environments based on action-state traces: An application to money laundering. In Proceedings of the First ACM International Conference on AI in Finance (pp. 1-8).](https://dl.acm.org/doi/pdf/10.1145/3383455.3422536?casa_token=nw5tGfKVHmYAAAAA:_87bp9azEgc9KpjrASL_aAmZj7qgJtLjZVUKYugfMA-nBkxICHbg4ToKnGd91Ju2-QvMaF6KrBCTMg)  
 
 **References**  
 [ICAPS Workshop on Planning for Financial Services (FinPlan 2022)](https://icaps22.icaps-conference.org/workshops/FinPlan/)  
