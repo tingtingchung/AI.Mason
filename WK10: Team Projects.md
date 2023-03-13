@@ -43,6 +43,7 @@ Topics are first come first serve and will be listed here as claimed when taken.
     [MOSTLY.ai](https://mostly.ai/)
 - Multi-agent decision making
 - AI applications in Finance  
+    [Manuela Veloso, Tucker Balch, Daniel Borrajo, Prashant Reddy, Sameena Shah, Artificial intelligence research in finance: discussion and examples, Oxford Review of Economic Policy, Volume 37, Issue 3, Autumn 2021, Pages 564–584, https://doi.org/10.1093/oxrep/grab019](https://academic.oup.com/oxrep/article-abstract/37/3/564/6374680)  
     [ICAIF conference proceedings](https://dl.acm.org/conference/icaif)  
     [Manuela Veloso's research](http://www.cs.cmu.edu/~mmv/Veloso.html)  
     [Xintong Wang's research](https://xintongemilywang.github.io/)  
