@@ -6,6 +6,7 @@
 **Complete this reading before next class meeting**  
 [Reinfrocement Learning by MLU](https://mlu-explain.github.io/reinforcement-learning/)  
 [TF Reinforcement Learning](https://www.tensorflow.org/agents/tutorials/0_intro_rl)  
+[TF Introduction to Multi-Armed Bandits](https://www.tensorflow.org/agents/tutorials/intro_bandit)  
 [OpenAI Gym](https://openai.com/blog/openai-gym-beta/)
 
 *Optional Stuff for Fun*  
@@ -22,4 +23,4 @@
 [Introduction to Reinforcement Learning by David Silter, DeepMind](https://www.deepmind.com/learning-resources/introduction-to-reinforcement-learning-with-david-silver)  
 [Foundations of Reinforcement Learning with Applications in Finance by Ashwin Rao and Tikhon Jelvis](https://stanford.edu/~ashlearn/RLForFinanceBook/book.pdf)  
 [DeepMind Reinfrocement Learning Lecture Series](https://www.deepmind.com/learning-resources/reinforcement-learning-lecture-series-2021)  
-[Andrew Ng's lecture on reinforcement learning](https://www.youtube.com/watch?v=RtxI449ZjSc)  
+[TF Multi-Armed Bandits tutorial](https://colab.research.google.com/github/tensorflow/agents/blob/master/docs/tutorials/bandits_tutorial.ipynb)   
