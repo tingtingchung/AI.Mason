@@ -1,6 +1,7 @@
 **WK06: Reinforcement Learning (RL)**  
 **Day 0: No new material**  
 [RoboCup](https://www.robocup.org/a_brief_history_of_robocup)  
+[Manuela Veloso & RoboCup](https://www.youtube.com/watch?v=tAd1IeovyY8)  
 [Andrew Ng on how AI can power any business](https://www.ted.com/talks/andrew_ng_how_ai_could_empower_any_business?language=en)  
 
 **Complete this reading before next class meeting**  
