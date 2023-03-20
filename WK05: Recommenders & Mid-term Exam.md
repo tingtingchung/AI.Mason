@@ -7,8 +7,7 @@
 
 **Day 1: [Fashion MNIST Lab](https://colab.research.google.com/drive/1S8pky1l9W8ftT39vWhOV5BfS4a4Ww4oX?usp=sharing), [Mid-Term Review](https://www.dropbox.com/s/tl9pjavnf1jla3m/05-1%20AI%20Midterm%20Review.pptx?dl=0), [Deep Learning Model Template](https://docs.google.com/document/d/1lMAklKnsSJXe1bcODYfiuUaw86PBAWrkFl_J4CwcWso/edit?usp=sharing)**  
 
-**Day 2: Mid-Term Exam (9am-12pm)**  
-[Solution Files](https://www.dropbox.com/sh/d30965d2t2uzl3c/AADm54qsedWF8OHsh06wDXa0a?dl=0)  
+**Day 2: Mid-Term Exam (9am-12pm)** [Solution Files](https://www.dropbox.com/sh/d30965d2t2uzl3c/AADm54qsedWF8OHsh06wDXa0a?dl=0)  
 
 **Complete these readings before next class**  
 [Recommended For You: How machine learning helps you choose what to consume next by Jenifer Wei](https://sitn.hms.harvard.edu/flash/2017/recommended-machine-learning-helps-choose-consume-next/)
