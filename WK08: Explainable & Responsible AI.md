@@ -10,3 +10,6 @@
 **Complete these readings/videso before next class meeting**  
 [Andrew Ng's TED Talk on How AI could empower any business](https://www.ted.com/talks/andrew_ng_how_ai_could_empower_any_business?language=en)  
 [AI Research at JPMorgan Chase with Manuela Veloso](https://www.youtube.com/watch?v=uJ4l0awqAYA&t=1556s)  
+
+**Additional References**  
+[Center for AI & Digital Policy](https://www.caidp.org/)  
