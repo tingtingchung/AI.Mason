@@ -6,6 +6,7 @@
 [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models by Tyna Eloundou, Sam Manning, Pamela Mishkin, and Daniel Rock](https://arxiv.org/abs/2303.10130)  
 
 **Day 1: Explainable & Responsible AI**  
+7-minute team presentations on the following topics (Section 2 teams with two separate listings can have double time)
 Couch your presentation in one or more of these big/sticky issues in AI: [AI Explorables](https://pair.withgoogle.com/explorables/)   
 Teams 1 & 12: [TF Data Validation](https://www.tensorflow.org/tfx/guide/tfdv) and [ML Metadata](https://www.tensorflow.org/tfx/guide/mlmd)  
 Teams 2 & 13: [Monk Skin Tone Scale](https://www.skintone.google/)  
