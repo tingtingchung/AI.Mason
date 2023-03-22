@@ -22,6 +22,7 @@ The presentation should include
 [AI Transformation Playbook by Landing.AI](https://landing.ai/resource/ai-transformation-playbook/)  
 [The ultimate guide to starting AI by Cassie Kozyrkov](https://www.linkedin.com/pulse/ultimate-guide-starting-ai-cassie-kozyrkov/)   
 [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)  
+[The State of Competitive Machine Learning](https://mlcontests.com/state-of-competitive-machine-learning-2022/)  
 
 **[Section 1 Schedule]**  
 - Team 2: [Stable Diffusion](https://stablediffusionweb.com/) 
