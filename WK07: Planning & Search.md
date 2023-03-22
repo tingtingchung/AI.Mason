@@ -6,6 +6,11 @@
 
 **Day 1: [Reinforcement Learning & Planning](https://www.dropbox.com/s/je3r00ft8xfoa2r/06-0%20Reinforcement%20Learning.pptx?dl=0), [Multi-Armed Bandit Lab1](https://colab.research.google.com/drive/1MdxutOmbOOKR9RzrCNI0rBCAFF2G_hHP?usp=sharing)**  
 
+**Complete these readings/videos before next class**  
+[200-year-old math opens up AI's mysterious black box](https://spectrum.ieee.org/black-box-ai)  
+[Human-AI Interaction: Examples in AI and Finances by Manuela Veloso](https://www.youtube.com/watch?v=zD7yQwvvIvM))  
+Each team presents a topic: [TF Responsible AI](https://www.tensorflow.org/responsible_ai)  
+
 **Additional References**  
 [Xing, Z., Pei, J., & Keogh, E. (2010). A brief survey on sequence classification. ACM Sigkdd Explorations Newsletter, 12(1), 40-48.](https://dl.acm.org/doi/pdf/10.1145/1882471.1882478?casa_token=6AYZzZM5eU4AAAAA:lpnX9L33UfFGN-mQZL85Xex6CLjdYTZ-kf3ba4Viotfnyti4jqg3dh2MpySS3oKKAvQLA9gG2v-ZFA)  
 [Borrajo, D., & Veloso, M. (2020). Domain-independent generation and classification of behavior traces. arXiv preprint arXiv:2011.02918.](https://arxiv.org/pdf/2011.02918.pdf)  
