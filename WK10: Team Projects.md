@@ -70,6 +70,10 @@ Topics are first come first serve and will be listed here as claimed when taken.
     [Kaur, S., Brugere, I., Stefanucci, A., Nourbakhsh, A., Shah, S., & Veloso, M. (2021). Parameterized Explanations for Investor/Company Matching. arXiv preprint arXiv:2111.01911.](https://arxiv.org/abs/2111.01911)  
 - Federated Learning  
     [Distributed differential privacy for federated learning](https://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html)
+- Data
+    [Unbiggen AI by Andrew Ng](https://spectrum.ieee.org/andrew-ng-data-centric-ai)  
+    [Why is it time for data-centric artificial intelligence](https://mitsloan.mit.edu/ideas-made-to-matter/why-its-time-data-centric-artificial-intelligence)  
+    [Cool Vendors in Data-Centric AI](https://www.gartner.com/doc/reprints?id=1-2C7YMC4Z&ct=230109&st=sb)  
 - AI applications in HR  
 - AI applications in Marketing  
 - AI applications in Sales 
