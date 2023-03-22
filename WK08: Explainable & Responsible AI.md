@@ -1,7 +1,6 @@
 **WK08: Explainable & Responsible AI**  
 **Day 0: Explainable AI**  
-[200-year-old math opens up AI's mysterious black box](https://spectrum.ieee.org/black-box-ai)  
-[Human-AI Interaction: Examples in AI and Finances by Manuela Veloso](https://www.youtube.com/watch?v=zD7yQwvvIvM))  
+
 
 
 **Day 1: Responsible AI**  
