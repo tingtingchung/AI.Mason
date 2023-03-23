@@ -37,7 +37,8 @@ Topics are first come first serve and will be listed here as claimed when taken.
 - [Kaggle Models](https://www.kaggle.com/discussions/product-feedback/391200?utm_medium=email&utm_source=gamma&utm_campaign=models-launch-2023)  
 - [OpenAI Codex](https://openai.com/blog/openai-codex/)  
 - [Transformers](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)  
-     [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch by Sebastian Raschka](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html?mibextid=Zxz2cZ)
+     [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch by Sebastian Raschka](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html?mibextid=Zxz2cZ)  
+     [Hugging Face](https://huggingface.co/)  
 - Graph Neural Networks
 - Synthetic data  
     [Synthetic Data at JP Morgan](https://www.jpmorgan.com/synthetic-data)  
