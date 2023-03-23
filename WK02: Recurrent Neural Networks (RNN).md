@@ -37,6 +37,7 @@ Team 9 & 18: Regressor Loss/Metric - Cosine_similarity
 **Day 1: [Lab1-4](https://colab.research.google.com/drive/1lIqfXLyx5fHjrxB8cI0zvXRaHyRQdlQw?usp=sharing), [NN Architectural Details #1](https://www.dropbox.com/s/6gdhnsp4a84y77k/01-2%20NN%20Architectural%20Details%20%231.pptx?dl=0), [Lab2-2](https://colab.research.google.com/drive/1B6sFWxloF93nmiTWOJkkp-unYIuDyScX?usp=sharing), [RNN](https://www.dropbox.com/s/nzja1j0ccd3wbr2/02-0%20RNN.pptx?dl=0)**  
 [Keras Recurrent Layers](https://keras.io/api/layers/recurrent_layers/)  
 [Keras Preprocessing Layers](https://keras.io/api/layers/preprocessing_layers/)  
+[Vector embeddings by Pinecone](https://www.pinecone.io/learn/)  
 
 **Day 2: [James Tucker](https://www.linkedin.com/in/james-m-tucker-7082251b0/) Guest Lecture ([Google Scholar Page](https://scholar.google.com/citations?user=6CtSigQAAAAJ&hl=en))**  
 **Complete these readings/videos before next class**  
