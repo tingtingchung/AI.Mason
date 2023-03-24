@@ -33,6 +33,7 @@ The presentation should include
 - Team 8: [Synthetic Document Generation at JP Morgan](https://arxiv.org/pdf/2111.06016.pdf)  
  
 **[Section 2 Schedule]**  
+- Team 12: [Stitch Fix Algorithm Tour](https://algorithms-tour.stitchfix.com/)   
 
 **Potential Case Study Topics (to be updated over the semester - you are welcome to suggest topics)**  
 Teams within the same section must choose unique topics (No two teams within the same section can have the same topic.)  
