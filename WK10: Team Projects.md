@@ -41,7 +41,8 @@ Topics are first come first serve and will be listed here as claimed when taken.
      [Hugging Face](https://huggingface.co/)  
 - Graph Neural Networks
 - Synthetic data  
-    [Synthetic Data at JP Morgan](https://www.jpmorgan.com/synthetic-data)  
+    [In machine learning, synthetic data can offer real performance improvements](https://news.mit.edu/2022/synthetic-data-ai-improvements-1103)  
+    [Sybhetic Data at JP Morgan](https://www.jpmorgan.com/synthetic-data)  
     [MOSTLY.ai](https://mostly.ai/)
 - Multi-agent decision making
 - AI applications in Finance  
