@@ -26,6 +26,7 @@ The presentation should include
 
 **[Section 1 Schedule]**  
 - Team 2: [Stable Diffusion](https://stablediffusionweb.com/) 
+- Team 3: Synthetic Data
 - Team 4: [ChatGPT](https://openai.com/blog/chatgpt/) vs. [GPTZero](https://gptzero.me/)  
         [ChatGPT2 coded in TF](https://github.com/openai/gpt-2/blob/master/src/model.py)  
 - Team 5: [PyTorch](https://pytorch.org/) vs. Tensorflow  
