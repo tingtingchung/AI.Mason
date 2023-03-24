@@ -19,7 +19,7 @@ Teams 8 & 17: [Language Interpretability Tool](https://pair-code.github.io/lit/)
 Teams 9 & 17: [Explainable AI](https://cloud.google.com/explainable-ai)  
 Teams 10 & 18: [TF Federated](https://www.tensorflow.org/federated)  
 Teams 11 & 13: [Model Card ToolKit](https://www.tensorflow.org/responsible_ai/model_card_toolkit/guide) and 
-[Model Cards](https://github.com/tingtingchung/AI.Mason/edit/main/WK08:%20Explainable%20&%20Responsible%20AI.md)    
+[Model Cards](https://modelcards.withgoogle.com/about)   
 
 **Complete these readings/videso before next class meeting**  
 
