@@ -31,7 +31,7 @@ The presentation should include
         [ChatGPT2 coded in TF](https://github.com/openai/gpt-2/blob/master/src/model.py)  
 - Team 5: [PyTorch](https://pytorch.org/) vs. Tensorflow  
 - Team 8: [Synthetic Document Generation at JP Morgan](https://arxiv.org/pdf/2111.06016.pdf)  
- 
+- Team 9: AI applications in Marketing 
 **[Section 2 Schedule]**  
 - Team 12: AI in supply chain/e-commerce: [Stitch Fix Algorithm Tour](https://algorithms-tour.stitchfix.com/)   
 
@@ -80,8 +80,7 @@ Topics are first come first serve and will be listed here as claimed when taken.
     [Unbiggen AI by Andrew Ng](https://spectrum.ieee.org/andrew-ng-data-centric-ai)  
     [Why is it time for data-centric artificial intelligence](https://mitsloan.mit.edu/ideas-made-to-matter/why-its-time-data-centric-artificial-intelligence)  
     [Cool Vendors in Data-Centric AI](https://www.gartner.com/doc/reprints?id=1-2C7YMC4Z&ct=230109&st=sb)  
-- AI applications in HR  
-- AI applications in Marketing  
+- AI applications in HR   
 - AI applications in Sales 
 - AI applications in Manufacturing  
     [Landing.ai](https://landing.ai/)  
