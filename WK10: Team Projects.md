@@ -31,7 +31,10 @@ The presentation should include
         [ChatGPT2 coded in TF](https://github.com/openai/gpt-2/blob/master/src/model.py)  
 - Team 5: [PyTorch](https://pytorch.org/) vs. Tensorflow  
 - Team 8: [Synthetic Document Generation at JP Morgan](https://arxiv.org/pdf/2111.06016.pdf)  
-- Team 9: AI applications in Marketing 
+- Team 9: AI applications in Marketing  
+- Team 10: AI applicaitions in Agriculture  
+  [Nguyen, A. H., Holt, J. P., Knauer, M. T., Abner, V. A., Lobaton, E. J., & Young, S. N. (2023). Towards rapid weight assessment of finishing pigs using a handheld, mobile RGB-D camera. Biosystems Engineering, 226, 155-168.](https://www.sciencedirect.com/science/article/pii/S1537511023000107?dgcid=coauthor)  
+  
 **[Section 2 Schedule]**  
 - Team 12: AI in supply chain/e-commerce: [Stitch Fix Algorithm Tour](https://algorithms-tour.stitchfix.com/)   
 
@@ -86,8 +89,6 @@ Topics are first come first serve and will be listed here as claimed when taken.
     [Landing.ai](https://landing.ai/)  
 - AI applications in Healthcare  
   [NEJM AI](https://ai.nejm.org/)   
-- AI applicaitions in Agriculture  
-  [Nguyen, A. H., Holt, J. P., Knauer, M. T., Abner, V. A., Lobaton, E. J., & Young, S. N. (2023). Towards rapid weight assessment of finishing pigs using a handheld, mobile RGB-D camera. Biosystems Engineering, 226, 155-168.](https://www.sciencedirect.com/science/article/pii/S1537511023000107?dgcid=coauthor)  
 - Any other topic that interests your team - Get instructor approval first
 
 *You must use at least two sources from the following sites for preparing your presentation*  
