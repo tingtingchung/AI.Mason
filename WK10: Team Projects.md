@@ -37,6 +37,7 @@ The presentation should include
   
 **[Section 2 Schedule]**  
 - Team 12: AI in supply chain/e-commerce: [Stitch Fix Algorithm Tour](https://algorithms-tour.stitchfix.com/)   
+- Team 15: Synthetic Data
 
 **Potential Case Study Topics (to be updated over the semester - you are welcome to suggest topics)**  
 Teams within the same section must choose unique topics (No two teams within the same section can have the same topic.)  
