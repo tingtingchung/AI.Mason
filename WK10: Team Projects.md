@@ -23,6 +23,7 @@ The presentation should include
 [The ultimate guide to starting AI by Cassie Kozyrkov](https://www.linkedin.com/pulse/ultimate-guide-starting-ai-cassie-kozyrkov/)   
 [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)  
 [The State of Competitive Machine Learning](https://mlcontests.com/state-of-competitive-machine-learning-2022/)  
+[The state of AI in 2022 - and a half decade in review by McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2022-and-a-half-decade-in-review)  
 
 **[Section 1 Schedule]**  
 - Team 2: [Stable Diffusion](https://stablediffusionweb.com/) 
