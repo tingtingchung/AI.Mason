@@ -26,19 +26,28 @@ The presentation should include
 [The state of AI in 2022 - and a half decade in review by McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2022-and-a-half-decade-in-review)  
 
 **[Section 1 Schedule]**  
+- Team 1:
 - Team 2: [Stable Diffusion](https://stablediffusionweb.com/) 
 - Team 3: Synthetic Data
 - Team 4: [ChatGPT](https://openai.com/blog/chatgpt/) vs. [GPTZero](https://gptzero.me/)  
         [ChatGPT2 coded in TF](https://github.com/openai/gpt-2/blob/master/src/model.py)  
 - Team 5: [PyTorch](https://pytorch.org/) vs. Tensorflow  
+- Team 6:  
+- Team 7:  
 - Team 8: [Synthetic Document Generation at JP Morgan](https://arxiv.org/pdf/2111.06016.pdf)  
 - Team 9: AI applications in Marketing  
 - Team 10: AI applicaitions in Agriculture  
   [Nguyen, A. H., Holt, J. P., Knauer, M. T., Abner, V. A., Lobaton, E. J., & Young, S. N. (2023). Towards rapid weight assessment of finishing pigs using a handheld, mobile RGB-D camera. Biosystems Engineering, 226, 155-168.](https://www.sciencedirect.com/science/article/pii/S1537511023000107?dgcid=coauthor)  
-  
+- Team 11:  
+
 **[Section 2 Schedule]**  
 - Team 12: AI in supply chain/e-commerce: [Stitch Fix Algorithm Tour](https://algorithms-tour.stitchfix.com/)   
+- Team 13:  
+- Team 14: AI applications in HR   
 - Team 15: Synthetic Data
+- Team 16:  
+- Team 17:  
+- Team 18:  
 
 **Potential Case Study Topics (to be updated over the semester - you are welcome to suggest topics)**  
 Teams within the same section must choose unique topics (No two teams within the same section can have the same topic.)  
@@ -85,7 +94,6 @@ Topics are first come first serve and will be listed here as claimed when taken.
     [Unbiggen AI by Andrew Ng](https://spectrum.ieee.org/andrew-ng-data-centric-ai)  
     [Why is it time for data-centric artificial intelligence](https://mitsloan.mit.edu/ideas-made-to-matter/why-its-time-data-centric-artificial-intelligence)  
     [Cool Vendors in Data-Centric AI](https://www.gartner.com/doc/reprints?id=1-2C7YMC4Z&ct=230109&st=sb)  
-- AI applications in HR   
 - AI applications in Sales 
 - AI applications in Manufacturing  
     [Landing.ai](https://landing.ai/)  
