@@ -18,7 +18,7 @@ Teams 7 & 16: [What-If Tool](https://pair-code.github.io/what-if-tool/)
 Teams 8 & 17: [Language Interpretability Tool](https://pair-code.github.io/lit/)  
 Teams 9 & 17: [Explainable AI](https://cloud.google.com/explainable-ai)  
 Teams 10 & 18: [TF Federated](https://www.tensorflow.org/federated)  
-Team 11 & [Team 13](https://docs.google.com/presentation/d/1nn6iSp21PM3Sb7pxTrPukVJOwR6zL_NJH-nUsO3Ac1A/edit?usp=sharing): [Model Cards](https://modelcards.withgoogle.com/about) and [Model Card ToolKit](https://www.tensorflow.org/responsible_ai/model_card_toolkit/guide)  
+[Team 11](https://docs.google.com/presentation/d/1xlOC8-kbWUzK6xyZyCgLfT89PJqOKVH4MxaervAW6t8/edit?usp=sharing) & [Team 13](https://docs.google.com/presentation/d/1nn6iSp21PM3Sb7pxTrPukVJOwR6zL_NJH-nUsO3Ac1A/edit?usp=sharing): [Model Cards](https://modelcards.withgoogle.com/about) and [Model Card ToolKit](https://www.tensorflow.org/responsible_ai/model_card_toolkit/guide)  
 
 **Complete these readings/videso before next class meeting**  
 
