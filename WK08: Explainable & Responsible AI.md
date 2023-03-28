@@ -12,7 +12,7 @@ Teams 1 & 12: [TF Data Validation](https://www.tensorflow.org/tfx/guide/tfdv) an
 Teams 2 & 13: [Monk Skin Tone Scale](https://www.skintone.google/)  
 Teams 3 & 14: [TF Model Remediation](https://www.tensorflow.org/responsible_ai/model_remediation)  
 Teams 4 & 15: [TF Privacy](https://www.tensorflow.org/responsible_ai/privacy/guide) and [TF Privacy Tests](https://blog.tensorflow.org/2020/06/introducing-new-privacy-testing-library.html?_gl=1*1p30nlg*_ga*MTIwMTc0NTIyOS4xNjc1NjIzNDYw*_ga_W0YLR4190T*MTY3OTUxMzk0My43My4xLjE2Nzk1MTQ2NDkuMC4wLjA.)  
-Teams 5 & 15: [Fairness Indicators](https://www.tensorflow.org/responsible_ai/fairness_indicators/guide)  
+[Team 5](https://wmedu-my.sharepoint.com/:p:/r/personal/clbryant_wm_edu/Documents/Fairness%20Indicators.pptx?d=w1ac05e5748cb48c1be5b7821efc37deb&csf=1&web=1&e=Wuhbwn) & Team 15: [Fairness Indicators](https://www.tensorflow.org/responsible_ai/fairness_indicators/guide)  
 Teams 6 & 16: [TF Model Analysis](https://www.tensorflow.org/tfx/model_analysis/install)  
 Teams 7 & 16: [What-If Tool](https://pair-code.github.io/what-if-tool/)  
 Teams 8 & 17: [Language Interpretability Tool](https://pair-code.github.io/lit/)  
