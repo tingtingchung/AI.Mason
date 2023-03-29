@@ -8,7 +8,7 @@
 **Day 1: Explainable & Responsible AI**  
 6-minute team presentations on the following topics (Section 2 teams with two separate listings can have double time)
 Couch your presentation in one or more of these big/sticky issues in AI: [AI Explorables](https://pair.withgoogle.com/explorables/)   
-Team 1 & Team 12: [TF Data Validation](https://www.tensorflow.org/tfx/guide/tfdv) and [ML Metadata](https://www.tensorflow.org/tfx/guide/mlmd)  
+[Team 1](https://docs.google.com/presentation/d/14wT5sJl8HauU52SKWNoyIdnQ5MhzsyC8jV166WCyOZE/edit?usp=sharing) & Team 12: [TF Data Validation](https://www.tensorflow.org/tfx/guide/tfdv) and [ML Metadata](https://www.tensorflow.org/tfx/guide/mlmd)  
 Team 2 & [Team 13](https://docs.google.com/presentation/d/1nn6iSp21PM3Sb7pxTrPukVJOwR6zL_NJH-nUsO3Ac1A/edit?usp=sharing): [Monk Skin Tone Scale](https://www.skintone.google/)  
 Team 3 & Team 14: [TF Model Remediation](https://www.tensorflow.org/responsible_ai/model_remediation)  
 Team 4 & Team 15: [TF Privacy](https://www.tensorflow.org/responsible_ai/privacy/guide) and [TF Privacy Tests](https://blog.tensorflow.org/2020/06/introducing-new-privacy-testing-library.html?_gl=1*1p30nlg*_ga*MTIwMTc0NTIyOS4xNjc1NjIzNDYw*_ga_W0YLR4190T*MTY3OTUxMzk0My43My4xLjE2Nzk1MTQ2NDkuMC4wLjA.)  
