@@ -16,7 +16,7 @@ Team 2 & [Team 13](https://docs.google.com/presentation/d/1nn6iSp21PM3Sb7pxTrPuk
 Team 6 & Team 16: [TF Model Analysis](https://www.tensorflow.org/tfx/model_analysis/install)  
 Team 7 & Team 16: [What-If Tool](https://pair-code.github.io/what-if-tool/)  
 [Team 8](https://docs.google.com/presentation/d/1WE2VO-3jzkIlGASpMAFqSegi2pShTDmISOtb8B2ln-w/edit#slide=id.p) & Team 17: [Language Interpretability Tool](https://pair-code.github.io/lit/)  
-Team 9 & Team 17: [Explainable AI](https://cloud.google.com/explainable-ai)  
+[Team 9](https://docs.google.com/presentation/d/1rWuquVf-fJl5ooOWFzEU78_47Df7rGrtBMbbg8pZ1ak/edit?usp=sharing) & Team 17: [Explainable AI](https://cloud.google.com/explainable-ai)  
 Team 10 & [Team 18](https://docs.google.com/presentation/d/1UDwCFNaUP3y3I-V99uI4NcsbKGJLkG2CAZ28tOxnh5k/edit#slide=id.p): [TF Federated](https://www.tensorflow.org/federated)  
 [Team 11](https://docs.google.com/presentation/d/1xlOC8-kbWUzK6xyZyCgLfT89PJqOKVH4MxaervAW6t8/edit?usp=sharing) & [Team 13](https://docs.google.com/presentation/d/1nn6iSp21PM3Sb7pxTrPukVJOwR6zL_NJH-nUsO3Ac1A/edit?usp=sharing): [Model Cards](https://modelcards.withgoogle.com/about) and [Model Card ToolKit](https://www.tensorflow.org/responsible_ai/model_card_toolkit/guide)  
 
