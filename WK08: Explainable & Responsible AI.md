@@ -15,7 +15,7 @@ Team 4 & Team 15: [TF Privacy](https://www.tensorflow.org/responsible_ai/privacy
 [Team 5](https://wmedu-my.sharepoint.com/:p:/r/personal/clbryant_wm_edu/Documents/Fairness%20Indicators.pptx?d=w1ac05e5748cb48c1be5b7821efc37deb&csf=1&web=1&e=fJwp5U) & Team 15: [Fairness Indicators](https://www.tensorflow.org/responsible_ai/fairness_indicators/guide)  
 Team 6 & Team 16: [TF Model Analysis](https://www.tensorflow.org/tfx/model_analysis/install)  
 Team 7 & Team 16: [What-If Tool](https://pair-code.github.io/what-if-tool/)  
-Team 8 & Team 17: [Language Interpretability Tool](https://pair-code.github.io/lit/)  
+[Team 8](https://docs.google.com/presentation/d/1WE2VO-3jzkIlGASpMAFqSegi2pShTDmISOtb8B2ln-w/edit#slide=id.p) & Team 17: [Language Interpretability Tool](https://pair-code.github.io/lit/)  
 Team 9 & Team 17: [Explainable AI](https://cloud.google.com/explainable-ai)  
 Team 10 & [Team 18](https://docs.google.com/presentation/d/1UDwCFNaUP3y3I-V99uI4NcsbKGJLkG2CAZ28tOxnh5k/edit#slide=id.p): [TF Federated](https://www.tensorflow.org/federated)  
 [Team 11](https://docs.google.com/presentation/d/1xlOC8-kbWUzK6xyZyCgLfT89PJqOKVH4MxaervAW6t8/edit?usp=sharing) & [Team 13](https://docs.google.com/presentation/d/1nn6iSp21PM3Sb7pxTrPukVJOwR6zL_NJH-nUsO3Ac1A/edit?usp=sharing): [Model Cards](https://modelcards.withgoogle.com/about) and [Model Card ToolKit](https://www.tensorflow.org/responsible_ai/model_card_toolkit/guide)  
