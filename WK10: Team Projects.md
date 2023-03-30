@@ -46,7 +46,7 @@ The presentation should include
 - Team 14: AI applications in HR   
 - Team 15: Synthetic Data
 - Team 16:  
-- Team 17:  
+- Team 17: [Case Study: YouTube's recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)   
 - Team 18:  
 
 **Potential Case Study Topics (to be updated over the semester - you are welcome to suggest topics)**  
@@ -85,7 +85,6 @@ Topics are first come first serve and will be listed here as claimed when taken.
     [Data Mining Problems in Retail](https://highlyscalable.wordpress.com/2015/03/10/data-mining-problems-in-retail/)  
 - Recommendation Systems
     [Case Study: How Netflix's Recommendation System Works](https://help.netflix.com/en/node/100639#:~:text=We%20estimate%20the%20likelihood%20that,preferences%20on%20our%20service%2C%20and)  
-    [Case Study: YouTube's recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)  
     [Case Study: The history of Amazon's recommendation algorithm](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm)  
     [Case Study: How Netflix's Recommendation System Works](https://help.netflix.com/en/node/100639#:~:text=We%20estimate%20the%20likelihood%20that,preferences%20on%20our%20service%2C%20and)  
     [Kaur, S., Brugere, I., Stefanucci, A., Nourbakhsh, A., Shah, S., & Veloso, M. (2021). Parameterized Explanations for Investor/Company Matching. arXiv preprint arXiv:2111.01911.](https://arxiv.org/abs/2111.01911)  
