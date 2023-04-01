@@ -84,6 +84,7 @@ Topics are first come first serve and will be listed here as claimed when taken.
     [Stitch Fix Algorithm Tour](https://algorithms-tour.stitchfix.com/)   
     [Data Mining Problems in Retail](https://highlyscalable.wordpress.com/2015/03/10/data-mining-problems-in-retail/)  
 - Recommendation Systems
+    [Case Study: Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)  
     [Case Study: How Netflix's Recommendation System Works](https://help.netflix.com/en/node/100639#:~:text=We%20estimate%20the%20likelihood%20that,preferences%20on%20our%20service%2C%20and)  
     [Case Study: The history of Amazon's recommendation algorithm](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm)  
     [Case Study: How Netflix's Recommendation System Works](https://help.netflix.com/en/node/100639#:~:text=We%20estimate%20the%20likelihood%20that,preferences%20on%20our%20service%2C%20and)  
