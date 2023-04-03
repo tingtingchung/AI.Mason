@@ -26,28 +26,34 @@ The presentation should include
 [The state of AI in 2022 - and a half decade in review by McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2022-and-a-half-decade-in-review)  
 
 **[Section 1 Schedule]**  
-- Team 1:
-- Team 2: [Stable Diffusion](https://stablediffusionweb.com/) 
-- Team 3: Synthetic Data
-- Team 4: [ChatGPT](https://openai.com/blog/chatgpt/) vs. [GPTZero](https://gptzero.me/)  
+4/12/2023
+8:00am Team 1:
+8:15am Team 2: [Stable Diffusion](https://stablediffusionweb.com/) 
+8:30am Team 3: Synthetic Data
+8:45am Team 4: [ChatGPT](https://openai.com/blog/chatgpt/) vs. [GPTZero](https://gptzero.me/)  
         [ChatGPT2 coded in TF](https://github.com/openai/gpt-2/blob/master/src/model.py)  
-- Team 5: [PyTorch](https://pytorch.org/) vs. Tensorflow  
-- Team 6:  
-- Team 7:  
-- Team 8: [Synthetic Document Generation at JP Morgan](https://arxiv.org/pdf/2111.06016.pdf)  
-- Team 9: AI applications in Marketing  
-- Team 10: AI applicaitions in Agriculture  
+9:00am Team 5: [PyTorch](https://pytorch.org/) vs. Tensorflow  
+9:15am Team 6:  
+
+4/17/2023
+8:00am Team 7:  
+8:15am Team 8: [Synthetic Document Generation at JP Morgan](https://arxiv.org/pdf/2111.06016.pdf)  
+8:30am Team 9: AI applications in Marketing  
+8:45am Team 10: AI applicaitions in Agriculture  
   [Nguyen, A. H., Holt, J. P., Knauer, M. T., Abner, V. A., Lobaton, E. J., & Young, S. N. (2023). Towards rapid weight assessment of finishing pigs using a handheld, mobile RGB-D camera. Biosystems Engineering, 226, 155-168.](https://www.sciencedirect.com/science/article/pii/S1537511023000107?dgcid=coauthor)  
-- Team 11:  
+9:00 Team 11:  
 
 **[Section 2 Schedule]**  
-- Team 12: AI in supply chain/e-commerce: [Stitch Fix Algorithm Tour](https://algorithms-tour.stitchfix.com/)   
-- Team 13:  
-- Team 14: AI applications in HR   
-- Team 15: Synthetic Data
-- Team 16:  
-- Team 17: [Case Study: YouTube's recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)   
-- Team 18:  
+4/12/2023
+8:00am Team 12: AI in supply chain/e-commerce: [Stitch Fix Algorithm Tour](https://algorithms-tour.stitchfix.com/)   
+8:15am Team 13:  
+8:30am Team 14: AI applications in HR   
+8:45am Team 15: Synthetic Data
+
+4/17/2023
+8:00am Team 16:  
+8:15am Team 17: [Case Study: YouTube's recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)   
+8:30am Team 18:  
 
 **Potential Case Study Topics (to be updated over the semester - you are welcome to suggest topics)**  
 Teams within the same section must choose unique topics (No two teams within the same section can have the same topic.)  
