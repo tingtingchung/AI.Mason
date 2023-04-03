@@ -27,8 +27,8 @@ The presentation should include
 
 **[Section 1 Schedule]**  
 4/12/2023  
-8:00am Team 1:
-8:15am Team 2: [Stable Diffusion](https://stablediffusionweb.com/) 
+8:00am Team 1:  
+8:15am Team 2: [Stable Diffusion](https://stablediffusionweb.com/)  
 8:30am Team 3: Synthetic Data
 8:45am Team 4:  
 > [ChatGPT](https://openai.com/blog/chatgpt/) vs. [GPTZero](https://gptzero.me/)  
