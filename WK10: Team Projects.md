@@ -1,6 +1,8 @@
 **AI.TP instructions**  
 At the end of the semester, each team will complete a case study and give a 15-min presentation.
 The case study should be about one or more business applications of AI that we may or may not have covered in class.
+The content of the presentation must go above and beyond what has been presented in the course already.
+For example, if you present a recommender system, explore and explain aspects of recommenders that we have not studied already.
 Be as specific as you can when defining the scope of your case study.  
 The presentation should include  
 1. [2 min] Problem statement - What problem are you trying to solve in this case study? And how is it relevant to what's being discussed this week?  
