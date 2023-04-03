@@ -52,7 +52,9 @@ The presentation should include
 
 4/17/2023  
 8:00am Team 16:  
-8:15am Team 17: [Case Study: YouTube's recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)   
+8:15am Team 17: 
+  [Case Study: YouTube's recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)  
+  [Deep Neural Networks for YouTube Recommendations](https://dl.acm.org/doi/abs/10.1145/2959100.2959190)  
 8:30am Team 18:  
 
 **Potential Case Study Topics (to be updated over the semester - you are welcome to suggest topics)**  
