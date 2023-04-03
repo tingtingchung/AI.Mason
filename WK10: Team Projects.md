@@ -33,6 +33,7 @@ The presentation should include
 8:45am Team 4:  
 > [ChatGPT](https://openai.com/blog/chatgpt/) vs. [GPTZero](https://gptzero.me/)  
 > [ChatGPT2 coded in TF](https://github.com/openai/gpt-2/blob/master/src/model.py)  
+
 9:00am Team 5: [PyTorch](https://pytorch.org/) vs. Tensorflow  
 9:15am Team 6:  
 
@@ -42,6 +43,7 @@ The presentation should include
 8:30am Team 9: AI applications in Marketing  
 8:45am Team 10: AI applicaitions in Agriculture  
 > [Nguyen, A. H., Holt, J. P., Knauer, M. T., Abner, V. A., Lobaton, E. J., & Young, S. N. (2023). Towards rapid weight assessment of finishing pigs using a handheld, mobile RGB-D camera. Biosystems Engineering, 226, 155-168.](https://www.sciencedirect.com/science/article/pii/S1537511023000107?dgcid=coauthor)  
+
 9:00 Team 11:  
 
 **[Section 2 Schedule]**  
@@ -56,6 +58,7 @@ The presentation should include
 8:15am Team 17:  
 > [Case Study: YouTube's recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)  
 > [Deep Neural Networks for YouTube Recommendations](https://dl.acm.org/doi/abs/10.1145/2959100.2959190)  
+
 8:30am Team 18:  
 
 **Potential Case Study Topics (to be updated over the semester - you are welcome to suggest topics)**  
