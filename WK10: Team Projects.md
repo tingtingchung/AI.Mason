@@ -26,7 +26,7 @@ The presentation should include
 [The state of AI in 2022 - and a half decade in review by McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2022-and-a-half-decade-in-review)  
 
 **[Section 1 Schedule]**  
-4/12/2023
+4/12/2023  
 8:00am Team 1:
 8:15am Team 2: [Stable Diffusion](https://stablediffusionweb.com/) 
 8:30am Team 3: Synthetic Data
@@ -35,7 +35,7 @@ The presentation should include
 9:00am Team 5: [PyTorch](https://pytorch.org/) vs. Tensorflow  
 9:15am Team 6:  
 
-4/17/2023
+4/17/2023  
 8:00am Team 7:  
 8:15am Team 8: [Synthetic Document Generation at JP Morgan](https://arxiv.org/pdf/2111.06016.pdf)  
 8:30am Team 9: AI applications in Marketing  
@@ -44,13 +44,13 @@ The presentation should include
 9:00 Team 11:  
 
 **[Section 2 Schedule]**  
-4/12/2023
+4/12/2023  
 8:00am Team 12: AI in supply chain/e-commerce: [Stitch Fix Algorithm Tour](https://algorithms-tour.stitchfix.com/)   
 8:15am Team 13:  
 8:30am Team 14: AI applications in HR   
 8:45am Team 15: Synthetic Data
 
-4/17/2023
+4/17/2023  
 8:00am Team 16:  
 8:15am Team 17: [Case Study: YouTube's recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)   
 8:30am Team 18:  
