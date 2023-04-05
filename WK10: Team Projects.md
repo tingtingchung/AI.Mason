@@ -52,7 +52,7 @@ The presentation should include
 4/12/2023  
 8:00am Team 12: AI in supply chain/e-commerce:  [Stitch Fix Algorithm Tour](https://algorithms-tour.stitchfix.com/)   
 8:15am Team 13:  
-8:30am Team 14: AI applications in HR   
+8:30am Team 14: AI applications in HR: [Algorithmic Management: The Role of AI in Managing Workforces](https://sloanreview.mit.edu/article/algorithmic-management-the-role-of-ai-in-managing-workforces/)
 8:45am Team 15: Synthetic Data
 
 4/17/2023  
