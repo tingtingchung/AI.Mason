@@ -51,7 +51,7 @@ The presentation should include
 **[Section 2 Schedule]**  
 4/12/2023  
 8:00am Team 12: AI in supply chain/e-commerce:  [Stitch Fix Algorithm Tour](https://algorithms-tour.stitchfix.com/)   
-8:15am Team 13:  
+8:15am Team 13: [Case Study: Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 8:30am Team 14: AI applications in HR: [Algorithmic Management: The Role of AI in Managing Workforces](https://sloanreview.mit.edu/article/algorithmic-management-the-role-of-ai-in-managing-workforces/)  
 8:45am Team 15: Synthetic Data
 
@@ -97,8 +97,7 @@ Topics are first come first serve and will be listed here as claimed when taken.
 - AI applications in E-commerce/Spply Chain/Operations Management (warehouse, inventory, transportation, etc)  
     [Stitch Fix Algorithm Tour](https://algorithms-tour.stitchfix.com/)   
     [Data Mining Problems in Retail](https://highlyscalable.wordpress.com/2015/03/10/data-mining-problems-in-retail/)  
-- Recommendation Systems
-    [Case Study: Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)  
+- Recommendation Systems  
     [Case Study: How Netflix's Recommendation System Works](https://help.netflix.com/en/node/100639#:~:text=We%20estimate%20the%20likelihood%20that,preferences%20on%20our%20service%2C%20and)  
     [Case Study: The history of Amazon's recommendation algorithm](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm)  
     [Case Study: How Netflix's Recommendation System Works](https://help.netflix.com/en/node/100639#:~:text=We%20estimate%20the%20likelihood%20that,preferences%20on%20our%20service%2C%20and)  
