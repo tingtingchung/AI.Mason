@@ -56,12 +56,12 @@ The presentation should include
 8:45am Team 15: Synthetic Data
 
 4/17/2023  
-8:00am Team 16:  
+8:00am Team 16: [Data Mining Problems in Retail](https://highlyscalable.wordpress.com/2015/03/10/data-mining-problems-in-retail/) 
 8:15am Team 17:  
 > [Case Study: YouTube's recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)  
 > [Deep Neural Networks for YouTube Recommendations](https://dl.acm.org/doi/abs/10.1145/2959100.2959190)  
 
-8:30am Team 18:  
+8:30am Team 18: Federated Learning - [Distributed differential privacy for federated learning](https://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html)  
 
 **Potential Case Study Topics (to be updated over the semester - you are welcome to suggest topics)**  
 Teams within the same section must choose unique topics (No two teams within the same section can have the same topic.)  
@@ -94,16 +94,13 @@ Topics are first come first serve and will be listed here as claimed when taken.
     [Sun, Ting, and Miklos A. Vasarhelyi. "Deep Learning and the Future of Auditing: How an Evolving Technology Could Transform Analysis and Improve Judgment." CPA Journal 87, no. 6 (2017).](https://www-proquest-com.proxy.wm.edu/docview/2213055096?pq-origsite=gscholar&fromopenview=true)  
     [Sun, T. (2019). Applying deep learning to audit procedures: An illustrative framework. Accounting Horizons, 33(3), 89-109.](https://publications.aaahq.org/accounting-horizons/article-abstract/33/3/89/2426/Applying-Deep-Learning-to-Audit-Procedures-An?redirectedFrom=fulltext)  
     [Other research by Marco Schreyer](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en)  
-- AI applications in E-commerce/Spply Chain/Operations Management (warehouse, inventory, transportation, etc)  
-    [Stitch Fix Algorithm Tour](https://algorithms-tour.stitchfix.com/)   
-    [Data Mining Problems in Retail](https://highlyscalable.wordpress.com/2015/03/10/data-mining-problems-in-retail/)  
+- AI applications in E-commerce/Spply Chain/Operations Management (warehouse, inventory, transportation, etc)   
 - Recommendation Systems  
     [Case Study: How Netflix's Recommendation System Works](https://help.netflix.com/en/node/100639#:~:text=We%20estimate%20the%20likelihood%20that,preferences%20on%20our%20service%2C%20and)  
     [Case Study: The history of Amazon's recommendation algorithm](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm)  
     [Case Study: How Netflix's Recommendation System Works](https://help.netflix.com/en/node/100639#:~:text=We%20estimate%20the%20likelihood%20that,preferences%20on%20our%20service%2C%20and)  
     [Kaur, S., Brugere, I., Stefanucci, A., Nourbakhsh, A., Shah, S., & Veloso, M. (2021). Parameterized Explanations for Investor/Company Matching. arXiv preprint arXiv:2111.01911.](https://arxiv.org/abs/2111.01911)  
-- Federated Learning  
-    [Distributed differential privacy for federated learning](https://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html)
+
 - Data-Centric AI  
     [Unbiggen AI by Andrew Ng](https://spectrum.ieee.org/andrew-ng-data-centric-ai)  
     [Why is it time for data-centric artificial intelligence](https://mitsloan.mit.edu/ideas-made-to-matter/why-its-time-data-centric-artificial-intelligence)  
