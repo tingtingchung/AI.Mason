@@ -46,12 +46,12 @@ The presentation should include
 8:45am Team 10: AI applicaitions in Agriculture  
 > [Nguyen, A. H., Holt, J. P., Knauer, M. T., Abner, V. A., Lobaton, E. J., & Young, S. N. (2023). Towards rapid weight assessment of finishing pigs using a handheld, mobile RGB-D camera. Biosystems Engineering, 226, 155-168.](https://www.sciencedirect.com/science/article/pii/S1537511023000107?dgcid=coauthor)  
 
-9:00 Team 11:  
+9:00 Team 11: [Case Study: Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)   
 
 **[Section 2 Schedule]**  
 4/12/2023  
 8:00am Team 12: AI in supply chain/e-commerce:  [Stitch Fix Algorithm Tour](https://algorithms-tour.stitchfix.com/)   
-8:15am Team 13: [Case Study: Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
+8:15am Team 13: [Case Study: Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)  
 8:30am Team 14: AI applications in HR: [Algorithmic Management: The Role of AI in Managing Workforces](https://sloanreview.mit.edu/article/algorithmic-management-the-role-of-ai-in-managing-workforces/)  
 8:45am Team 15: Synthetic Data
 
