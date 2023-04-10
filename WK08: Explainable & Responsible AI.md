@@ -4,6 +4,7 @@
 **Complete these readings/videos before next class meeting**  
 [DOD adopts 5 principles of artificial intelligence principles](https://www.defense.gov/News/News-Stories/Article/Article/2094085/dod-adopts-5-principles-of-artificial-intelligence-ethics/#.Y_l9b-fnkIY.linkedin)  
 [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models by Tyna Eloundou, Sam Manning, Pamela Mishkin, and Daniel Rock](https://arxiv.org/abs/2303.10130)  
+[Equality of Odds by Amazon Machine Learning University](https://mlu-explain.github.io/equality-of-odds/)  
 
 **Day 1: Explainable & Responsible AI**  
 6-minute team presentations on the following topics (Section 2 teams with two separate listings can have double time)
