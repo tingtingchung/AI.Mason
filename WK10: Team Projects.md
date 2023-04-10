@@ -60,7 +60,7 @@ The presentation should include
 > [Deep Neural Networks for YouTube Recommendations](https://dl.acm.org/doi/abs/10.1145/2959100.2959190)  
 
 10:02am Team 18: Federated Learning - [Distributed differential privacy for federated learning](https://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html)  
-10:18am Team 8: [Synthetic Document Generation at JP Morgan](https://arxiv.org/pdf/2111.06016.pdf) 
+10:18am Team 8: [Synthetic Document Generation at JP Morgan](https://arxiv.org/pdf/2111.06016.pdf)  
 10:34am Team 1: [Case Study: The history of Amazon's recommendation algorithm](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm)   
 
 **Potential Case Study Topics (to be updated over the semester - you are welcome to suggest topics)**  
