@@ -29,14 +29,13 @@ The presentation should include
 
 **[Section 1 Schedule]**  
 4/12/2023  
-8:00am Team 1: [Case Study: The history of Amazon's recommendation algorithm](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm)   
-8:16am Team 2: [Stable Diffusion](https://stablediffusionweb.com/)  
-8:32am Team 3: Synthetic Data
-8:48am Team 4:  
+8:00am Team 2: [Stable Diffusion](https://stablediffusionweb.com/)  
+8:16am Team 3: Synthetic Data
+8:32am Team 4:  
 > [ChatGPT](https://openai.com/blog/chatgpt/) vs. [GPTZero](https://gptzero.me/)  
 > [ChatGPT2 coded in TF](https://github.com/openai/gpt-2/blob/master/src/model.py)  
 
-9:04am Team 5: [PyTorch](https://pytorch.org/) vs. Tensorflow  
+8:48am Team 5: [PyTorch](https://pytorch.org/) vs. Tensorflow  
 
 4/17/2023  
 8:00am Team 6: [OpenAI Multi-Agent Hide-and-Seek](https://openai.com/research/emergent-tool-use)   
@@ -49,19 +48,20 @@ The presentation should include
 
 **[Section 2 Schedule]**  
 4/12/2023  
-8:00am Team 12: AI in supply chain/e-commerce:  [Stitch Fix Algorithm Tour](https://algorithms-tour.stitchfix.com/)   
-8:16am Team 13: [Case Study: Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)  
-8:32am Team 14: AI applications in HR: [Algorithmic Management: The Role of AI in Managing Workforces](https://sloanreview.mit.edu/article/algorithmic-management-the-role-of-ai-in-managing-workforces/)  
-8:48am Team 15: Synthetic Data
+9:30am Team 12: AI in supply chain/e-commerce:  [Stitch Fix Algorithm Tour](https://algorithms-tour.stitchfix.com/)   
+9:46am Team 13: [Case Study: Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)  
+10:02am Team 14: AI applications in HR: [Algorithmic Management: The Role of AI in Managing Workforces](https://sloanreview.mit.edu/article/algorithmic-management-the-role-of-ai-in-managing-workforces/)  
+10:18am Team 15: Synthetic Data
 
 4/17/2023  
-8:00am Team 16: [Data Mining Problems in Retail](https://highlyscalable.wordpress.com/2015/03/10/data-mining-problems-in-retail/) 
-8:16am Team 17:  
+9:30am Team 16: [Data Mining Problems in Retail](https://highlyscalable.wordpress.com/2015/03/10/data-mining-problems-in-retail/) 
+9:46am Team 17:  
 > [Case Study: YouTube's recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)  
 > [Deep Neural Networks for YouTube Recommendations](https://dl.acm.org/doi/abs/10.1145/2959100.2959190)  
 
-8:32am Team 18: Federated Learning - [Distributed differential privacy for federated learning](https://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html)  
-8:48am Team 8: [Synthetic Document Generation at JP Morgan](https://arxiv.org/pdf/2111.06016.pdf) 
+10:02am Team 18: Federated Learning - [Distributed differential privacy for federated learning](https://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html)  
+10:18am Team 8: [Synthetic Document Generation at JP Morgan](https://arxiv.org/pdf/2111.06016.pdf) 
+10:34am Team 1: [Case Study: The history of Amazon's recommendation algorithm](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm)   
 
 **Potential Case Study Topics (to be updated over the semester - you are welcome to suggest topics)**  
 Teams within the same section must choose unique topics (No two teams within the same section can have the same topic.)  
