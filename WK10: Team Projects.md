@@ -29,7 +29,7 @@ The presentation should include
 
 **[Section 1 Schedule]**  
 4/12/2023  
-8:00am Team 1:  
+8:00am Team 1: [Case Study: The history of Amazon's recommendation algorithm](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm)   
 8:15am Team 2: [Stable Diffusion](https://stablediffusionweb.com/)  
 8:30am Team 3: Synthetic Data
 8:45am Team 4:  
@@ -96,8 +96,6 @@ Topics are first come first serve and will be listed here as claimed when taken.
     [Other research by Marco Schreyer](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en)  
 - AI applications in E-commerce/Spply Chain/Operations Management (warehouse, inventory, transportation, etc)   
 - Recommendation Systems  
-    [Case Study: How Netflix's Recommendation System Works](https://help.netflix.com/en/node/100639#:~:text=We%20estimate%20the%20likelihood%20that,preferences%20on%20our%20service%2C%20and)  
-    [Case Study: The history of Amazon's recommendation algorithm](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm)  
     [Case Study: How Netflix's Recommendation System Works](https://help.netflix.com/en/node/100639#:~:text=We%20estimate%20the%20likelihood%20that,preferences%20on%20our%20service%2C%20and)  
     [Kaur, S., Brugere, I., Stefanucci, A., Nourbakhsh, A., Shah, S., & Veloso, M. (2021). Parameterized Explanations for Investor/Company Matching. arXiv preprint arXiv:2111.01911.](https://arxiv.org/abs/2111.01911)  
 
