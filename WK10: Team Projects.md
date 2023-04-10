@@ -39,7 +39,7 @@ The presentation should include
 9:04am Team 5: [PyTorch](https://pytorch.org/) vs. Tensorflow  
 
 4/17/2023  
-8:00am Team 6:  
+8:00am Team 6: [OpenAI Multi-Agent Hide-and-Seek](https://openai.com/research/emergent-tool-use)   
 8:16am Team 7: [Case Study: Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)  
 8:32am Team 9: AI applications in Marketing  
 8:48am Team 10: AI applicaitions in Agriculture  
