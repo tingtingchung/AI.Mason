@@ -3,6 +3,7 @@ Today we will wrap up RNN discussions
 [Regularization: Playground Exercise](https://developers.google.com/machine-learning/crash-course/regularization-for-sparsity/playground-exercise)  
 [BERT Preprocessing](https://www.tensorflow.org/text/guide/bert_preprocessing_guide)  
 [Classifying text with BERT](https://www.tensorflow.org/text/tutorials/classify_text_with_bert)  
+[ImageNet classification with deep convolutional neural networks](https://dl.acm.org/doi/abs/10.1145/3065386)  
 
 **Complete these readings/videos before next class**  
 [Chapter 10.3 Convolutional Neural NetworkNetworks, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
