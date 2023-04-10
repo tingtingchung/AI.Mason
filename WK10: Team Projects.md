@@ -46,7 +46,7 @@ The presentation should include
 8:45am Team 10: AI applicaitions in Agriculture  
 > [Nguyen, A. H., Holt, J. P., Knauer, M. T., Abner, V. A., Lobaton, E. J., & Young, S. N. (2023). Towards rapid weight assessment of finishing pigs using a handheld, mobile RGB-D camera. Biosystems Engineering, 226, 155-168.](https://www.sciencedirect.com/science/article/pii/S1537511023000107?dgcid=coauthor)  
 
-9:00 Team 11: [Case Study: Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)   
+9:00 Team 11: [OpenAI Codex](https://openai.com/blog/openai-codex/)  
 
 **[Section 2 Schedule]**  
 4/12/2023  
@@ -67,7 +67,6 @@ The presentation should include
 Teams within the same section must choose unique topics (No two teams within the same section can have the same topic.)  
 Topics are first come first serve and will be listed here as claimed when taken.  
 - [Kaggle Models](https://www.kaggle.com/discussions/product-feedback/391200?utm_medium=email&utm_source=gamma&utm_campaign=models-launch-2023)  
-- [OpenAI Codex](https://openai.com/blog/openai-codex/)  
 - [Transformers](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)  
      [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch by Sebastian Raschka](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html?mibextid=Zxz2cZ)  
      [Hugging Face](https://huggingface.co/)  
