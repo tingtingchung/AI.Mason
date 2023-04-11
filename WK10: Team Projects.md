@@ -30,7 +30,7 @@ The presentation should include
 **[Section 1 Schedule]**  
 4/12/2023  
 8:00am Team 2: [Stable Diffusion](https://stablediffusionweb.com/)  
-8:16am Team 3: Synthetic Data
+8:16am Team 3: Synthetic Data  
 8:32am Team 4:  
 > [ChatGPT](https://openai.com/blog/chatgpt/) vs. [GPTZero](https://gptzero.me/)  
 > [ChatGPT2 coded in TF](https://github.com/openai/gpt-2/blob/master/src/model.py)  
