@@ -54,7 +54,7 @@ The presentation should include
 10:18am Team 15: Synthetic Data
 
 4/17/2023  
-9:30am Team 16: [Data Mining Problems in Retail](https://highlyscalable.wordpress.com/2015/03/10/data-mining-problems-in-retail/) 
+9:30am Team 16: [Data Mining Problems in Retail](https://highlyscalable.wordpress.com/2015/03/10/data-mining-problems-in-retail/)  
 9:46am Team 17:  
 > [Case Study: YouTube's recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)  
 > [Deep Neural Networks for YouTube Recommendations](https://dl.acm.org/doi/abs/10.1145/2959100.2959190)  
