@@ -75,7 +75,8 @@ Topics are first come first serve and will be listed here as claimed when taken.
     [In machine learning, synthetic data can offer real performance improvements](https://news.mit.edu/2022/synthetic-data-ai-improvements-1103)  
     [Sybhetic Data at JP Morgan](https://www.jpmorgan.com/synthetic-data)  
     [MOSTLY.ai](https://mostly.ai/)
-- Multi-agent decision making
+- Multi-agent simulation
+    [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442): You can watch the simulation [here](https://lnkd.in/eUNPPNyC), and switch between AI characters by clicking on them  
 - AI applications in Finance  
     [Manuela Veloso, Tucker Balch, Daniel Borrajo, Prashant Reddy, Sameena Shah, Artificial intelligence research in finance: discussion and examples, Oxford Review of Economic Policy, Volume 37, Issue 3, Autumn 2021, Pages 564–584, https://doi.org/10.1093/oxrep/grab019](https://academic.oup.com/oxrep/article-abstract/37/3/564/6374680)  
     [How Northwestern Mutual Embraces AI](https://sloanreview.mit.edu/article/how-northwestern-mutual-embraces-ai/?utm_source=linkedin&utm_medium=social&utm_campaign=sm-direct)  
