@@ -9,7 +9,7 @@ If you send your presentation link to the instructor, it can be added to the lis
 
 Teams 1 & 12: sklearn.preprocessing - For numeric values and categorical values  
 Teams 2 & 12: sklearn.impute  
-[Team 3](https://www.dropbox.com/s/hjha10pov641lr1/AI%20Team%203%20Gradient%20Descent.pptx?dl=0) & [Team 13](gssbusinessgithub/MSBA_Team13_TP1_AI: Team 13 Presentation on Stochastic Gradient Descent for AI course): Optimizer - stochastic gradient descent  
+[Team 3](https://www.dropbox.com/s/hjha10pov641lr1/AI%20Team%203%20Gradient%20Descent.pptx?dl=0) & [Team 13](https://github.com/gssbusinessgithub/MSBA_Team13_TP1_AI): Optimizer - stochastic gradient descent  
 [Team 4](https://github.com/shs7777/MSBA-Section-1-Team-4/blob/main/AI_Team4_adam.pptx) & 14: Optimizer - adam  
 [Team 5](https://wmedu-my.sharepoint.com/:p:/g/personal/clwall_wm_edu/ETmfFK9ua_RPlwMPteGp7mUBxJ9yoOAxL3gxT1Cs4YGHFg?e=W7GxTb) & 15: Optimier - RMSprop  
 Team 6 & 16: Classifier Loss/Metric - SparseCategoricalAccuracy  
