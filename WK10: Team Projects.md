@@ -73,7 +73,7 @@ Topics are first come first serve and will be listed here as claimed when taken.
 - Graph Neural Networks
 - Synthetic data  
     [In machine learning, synthetic data can offer real performance improvements](https://news.mit.edu/2022/synthetic-data-ai-improvements-1103)  
-    [Sybhetic Data at JP Morgan](https://www.jpmorgan.com/synthetic-data)  
+    [Synthetic Data at JP Morgan](https://www.jpmorgan.com/synthetic-data)  
     [MOSTLY.ai](https://mostly.ai/)
 - Multi-agent simulation  
     [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442): You can watch the simulation [here](https://lnkd.in/eUNPPNyC), and switch between AI characters by clicking on them  
