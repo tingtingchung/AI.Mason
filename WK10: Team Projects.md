@@ -79,6 +79,7 @@ Topics are first come first serve and will be listed here as claimed when taken.
     [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442): You can watch the simulation [here](https://lnkd.in/eUNPPNyC), and switch between AI characters by clicking on them  
 - AI applications in Finance  
     [Manuela Veloso, Tucker Balch, Daniel Borrajo, Prashant Reddy, Sameena Shah, Artificial intelligence research in finance: discussion and examples, Oxford Review of Economic Policy, Volume 37, Issue 3, Autumn 2021, Pages 564–584, https://doi.org/10.1093/oxrep/grab019](https://academic.oup.com/oxrep/article-abstract/37/3/564/6374680)  
+    [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)  
     [How Northwestern Mutual Embraces AI](https://sloanreview.mit.edu/article/how-northwestern-mutual-embraces-ai/?utm_source=linkedin&utm_medium=social&utm_campaign=sm-direct)  
     [ICAIF conference proceedings](https://dl.acm.org/conference/icaif)  
     [Manuela Veloso's research](http://www.cs.cmu.edu/~mmv/Veloso.html)  
