@@ -59,7 +59,10 @@ The presentation should include
 > [Case Study: YouTube's recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)  
 > [Deep Neural Networks for YouTube Recommendations](https://dl.acm.org/doi/abs/10.1145/2959100.2959190)  
 
-10:02am Team 18: Federated Learning - [Distributed differential privacy for federated learning](https://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html)  
+10:02am Team 18: Federated Learning - 
+> [Distributed differential privacy for federated learning](https://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html)  
+> [Konečný, J., McMahan, H. B., Yu, F. X., Richtárik, P., Suresh, A. T., & Bacon, D. (2016). Federated learning: Strategies for improving communication efficiency. arXiv preprint arXiv:1610.05492.](https://arxiv.org/abs/1610.05492)
+   
 10:18am Team 8: [Synthetic Document Generation at JP Morgan](https://arxiv.org/pdf/2111.06016.pdf)  
 10:34am Team 1: [Case Study: The history of Amazon's recommendation algorithm](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm)   
 
