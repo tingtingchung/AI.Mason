@@ -29,57 +29,63 @@ The presentation should include
 
 **[Section 1 Schedule]**  
 4/12/2023  
-8:00am [Team 2](https://github.com/kbarlow01/StableDiffusion ): [Stable Diffusion](https://stablediffusionweb.com/)  
+8:00am [Team 2](https://github.com/kbarlow01/StableDiffusion ): 
 8:16am Team 3: Synthetic Data  
 8:32am [Team 4](https://github.com/shs7777/MSBA-Section-1-Team-4/blob/main/ChatGPT%20vs%20GPTZero%20Presentation.pptx):    
 > [ChatGPT](https://openai.com/blog/chatgpt/) vs. [GPTZero](https://gptzero.me/)  
 > [ChatGPT2 coded in TF](https://github.com/openai/gpt-2/blob/master/src/model.py)  
 
-8:48am [Team 5](https://github.com/caitlin0806/Team5/tree/master/AI%20Final%20Project): [PyTorch](https://pytorch.org/) vs. Tensorflow  
+8:48am [Team 5](https://github.com/caitlin0806/Team5/tree/master/AI%20Final%20Project)
 
 4/17/2023  
 8:00am Team 6: [OpenAI Multi-Agent Hide-and-Seek](https://openai.com/research/emergent-tool-use)   
-8:16am Team 7: [Case Study: Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)  
-8:32am Team 9: AI applications in Marketing  
-8:48am Team 10: AI applicaitions in Agriculture  
-> [Nguyen, A. H., Holt, J. P., Knauer, M. T., Abner, V. A., Lobaton, E. J., & Young, S. N. (2023). Towards rapid weight assessment of finishing pigs using a handheld, mobile RGB-D camera. Biosystems Engineering, 226, 155-168.](https://www.sciencedirect.com/science/article/pii/S1537511023000107?dgcid=coauthor)  
+8:16am Team 7: 
+8:32am Team 9:   
+8:48am Team 10: 
 
 9:04 Team 11: [OpenAI Codex](https://openai.com/blog/openai-codex/)  
 
 **[Section 2 Schedule]**  
 4/12/2023  
-9:30am Team 12: AI in supply chain/e-commerce:  [Stitch Fix Algorithm Tour](https://algorithms-tour.stitchfix.com/)   
-9:46am [Team 13](https://github.com/gssbusinessgithub/MSBA_Team13_TP2_ML2): [Case Study: Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)  
-10:02am Team 14: AI applications in HR: [Algorithmic Management: The Role of AI in Managing Workforces](https://sloanreview.mit.edu/article/algorithmic-management-the-role-of-ai-in-managing-workforces/)  
+9:30am Team 12: 
+9:46am [Team 13](https://github.com/gssbusinessgithub/MSBA_Team13_TP2_ML2): 
+10:02am Team 14: 
 10:18am [Team 15](https://github.com/MSBA-Team15/ai-finalpresentation): Synthetic Data
 
 4/17/2023  
-9:30am Team 16: [Data Mining Problems in Retail](https://highlyscalable.wordpress.com/2015/03/10/data-mining-problems-in-retail/)  
+9:30am Team 16: 
 9:46am Team 17:  
-> [Case Study: YouTube's recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)  
-> [Deep Neural Networks for YouTube Recommendations](https://dl.acm.org/doi/abs/10.1145/2959100.2959190)  
+
 
 10:02am Team 18: Federated Learning - 
-> [Distributed differential privacy for federated learning](https://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html)  
-> [Konečný, J., McMahan, H. B., Yu, F. X., Richtárik, P., Suresh, A. T., & Bacon, D. (2016). Federated learning: Strategies for improving communication efficiency. arXiv preprint arXiv:1610.05492.](https://arxiv.org/abs/1610.05492)
    
-10:18am Team 8: [Synthetic Document Generation at JP Morgan](https://arxiv.org/pdf/2111.06016.pdf)  
-10:34am Team 1: [Case Study: The history of Amazon's recommendation algorithm](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm)   
+10:18am Team 8: 
+10:34am Team 1: 
 
 **Potential Case Study Topics (to be updated over the semester - you are welcome to suggest topics)**  
 Teams within the same section must choose unique topics (No two teams within the same section can have the same topic.)  
 Topics are first come first serve and will be listed here as claimed when taken.  
+- [PyTorch](https://pytorch.org/) vs. Tensorflow
+- Federated Learning
+  > [Distributed differential privacy for federated learning](https://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html)  
+> [Konečný, J., McMahan, H. B., Yu, F. X., Richtárik, P., Suresh, A. T., & Bacon, D. (2016). Federated learning: Strategies for improving communication efficiency. arXiv preprint arXiv:1610.05492.](https://arxiv.org/abs/1610.05492)
+- [Generative AI for Images or Videos]
+  [Stable Diffusion](https://stablediffusionweb.com/)  
 - [Kaggle Models](https://www.kaggle.com/discussions/product-feedback/391200?utm_medium=email&utm_source=gamma&utm_campaign=models-launch-2023)  
 - [Transformers](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)  
      [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch by Sebastian Raschka](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html?mibextid=Zxz2cZ)  
      [Hugging Face](https://huggingface.co/)  
 - Graph Neural Networks
+- [Case Study: Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)  
 - Synthetic data  
     [In machine learning, synthetic data can offer real performance improvements](https://news.mit.edu/2022/synthetic-data-ai-improvements-1103)  
     [Synthetic Data at JP Morgan](https://www.jpmorgan.com/synthetic-data)  
     [MOSTLY.ai](https://mostly.ai/)
 - Multi-agent simulation  
     [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442): You can watch the simulation [here](https://lnkd.in/eUNPPNyC), and switch between AI characters by clicking on them  
+- AI in supply chain/e-commerce:  [Stitch Fix Algorithm Tour](https://algorithms-tour.stitchfix.com/)   
+- AI applicaitions in Agriculture  
+- [Nguyen, A. H., Holt, J. P., Knauer, M. T., Abner, V. A., Lobaton, E. J., & Young, S. N. (2023). Towards rapid weight assessment of finishing pigs using a handheld, mobile RGB-D camera. Biosystems Engineering, 226, 155-168.](https://www.sciencedirect.com/science/article/pii/S1537511023000107?dgcid=coauthor)  
 - AI applications in Finance  
     [Manuela Veloso, Tucker Balch, Daniel Borrajo, Prashant Reddy, Sameena Shah, Artificial intelligence research in finance: discussion and examples, Oxford Review of Economic Policy, Volume 37, Issue 3, Autumn 2021, Pages 564–584, https://doi.org/10.1093/oxrep/grab019](https://academic.oup.com/oxrep/article-abstract/37/3/564/6374680)  
     [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)  
@@ -92,24 +98,28 @@ Topics are first come first serve and will be listed here as claimed when taken.
     [ICAPS Workshop on Planning for Financial Services (FinPlan 2021)](https://icaps21.icaps-conference.org/workshops/FinPlan/)  
     [ICAPS Workshop on Planning for Financial Services (FinPlan 2020)](https://icaps20subpages.icaps-conference.org/workshops/finplan/)  
     [Survey Reveals Financial Industry’s Top 4 AI Priorities for 2023](https://blogs.nvidia.com/blog/2023/02/02/financial-industry-ai-survey/)  
+- AI applications in HR: [Algorithmic Management: The Role of AI in Managing Workforces](https://sloanreview.mit.edu/article/algorithmic-management-the-role-of-ai-in-managing-workforces/)  
+- AI applications in Marketing
 - AI applications in Accounting  
     [Schreyer, Marco, Timur Sattarov, Damian Borth, Andreas Dengel, and Bernd Reimer. "Detection of anomalies in large scale accounting data using deep autoencoder networks." arXiv preprint arXiv:1709.05254 (2017).](https://arxiv.org/abs/1709.05254)
     [Schreyer, M., Sattarov, T., & Borth, D. (2022). Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits. ICAIF '22: Proceedings of the Third ACM International Conference on AI in Finance, November 2022, 105–113](https://dl.acm.org/doi/10.1145/3533271.3561674)  
     [Sun, Ting, and Miklos A. Vasarhelyi. "Deep Learning and the Future of Auditing: How an Evolving Technology Could Transform Analysis and Improve Judgment." CPA Journal 87, no. 6 (2017).](https://www-proquest-com.proxy.wm.edu/docview/2213055096?pq-origsite=gscholar&fromopenview=true)  
     [Sun, T. (2019). Applying deep learning to audit procedures: An illustrative framework. Accounting Horizons, 33(3), 89-109.](https://publications.aaahq.org/accounting-horizons/article-abstract/33/3/89/2426/Applying-Deep-Learning-to-Audit-Procedures-An?redirectedFrom=fulltext)  
     [Other research by Marco Schreyer](https://scholar.google.com/citations?user=O6V5YkEAAAAJ&hl=en)  
-- AI applications in E-commerce/Spply Chain/Operations Management (warehouse, inventory, transportation, etc)   
-- Recommendation Systems  
-    [Case Study: How Netflix's Recommendation System Works](https://help.netflix.com/en/node/100639#:~:text=We%20estimate%20the%20likelihood%20that,preferences%20on%20our%20service%2C%20and)  
+- AI applications in E-commerce/Spply Chain/Operations Management (warehouse, inventory, transportation, etc)
+  [Data Mining Problems in Retail](https://highlyscalable.wordpress.com/2015/03/10/data-mining-problems-in-retail/)  
+- Recommendation System
+[Case Study: The history of Amazon's recommendation algorithm](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm)    
+  [Case Study: How Netflix's Recommendation System Works]  (https://help.netflix.com/en/node/100639#:~:text=We%20estimate%20the%20likelihood%20that,preferences%20on%20our%20service%2C%20and)
+  [Case Study: Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
+  > [Case Study: YouTube's recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)  
+> [Deep Neural Networks for YouTube Recommendations](https://dl.acm.org/doi/abs/10.1145/2959100.2959190)  
     [Kaur, S., Brugere, I., Stefanucci, A., Nourbakhsh, A., Shah, S., & Veloso, M. (2021). Parameterized Explanations for Investor/Company Matching. arXiv preprint arXiv:2111.01911.](https://arxiv.org/abs/2111.01911)  
 
-- Data-Centric AI  
-    [Unbiggen AI by Andrew Ng](https://spectrum.ieee.org/andrew-ng-data-centric-ai)  
-    [Why is it time for data-centric artificial intelligence](https://mitsloan.mit.edu/ideas-made-to-matter/why-its-time-data-centric-artificial-intelligence)  
-    [Cool Vendors in Data-Centric AI](https://www.gartner.com/doc/reprints?id=1-2C7YMC4Z&ct=230109&st=sb)  
-- AI applications in Sales 
+
 - AI applications in Manufacturing  
-    [Landing.ai](https://landing.ai/)  
+    [Landing.ai](https://landing.ai/)
+    [Instrumental](https://instrumental.com/)
 - AI applications in Healthcare  
   [NEJM AI](https://ai.nejm.org/)   
 - Any other topic that interests your team - Get instructor approval first
