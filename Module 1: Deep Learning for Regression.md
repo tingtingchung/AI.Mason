@@ -18,7 +18,7 @@
 [20 Pandas Functions for 80% Data Science Tasks](https://www.kaggle.com/code/youssef19/20-pandas-functions-for-80-data-science-tasks?scriptVersionId=118961959) 
 [Regression from Seeing Theory](https://seeing-theory.brown.edu/#secondPage/chapter6)  
 [MLU by Amazon](https://mlu-explain.github.io/)  
-[A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) 
+[A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)  
 For an excellent refresher, review Chapters 1-5 of [ML1 textbook](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
 
 *Optional Fun Stuff*  
