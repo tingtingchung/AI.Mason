@@ -1,4 +1,4 @@
-**Deep Learning for Regression**
+**Deep Learning for Regression**  
 **Class 1: [What is AI](https://www.dropbox.com/s/yhg6vtd6o45aim8/00-0%20AI%20Course%20Introduction.pptx?dl=0)**  
 Complete these readings/videos before next class  
 [Dr. Chung's overview of Google Colab](https://youtu.be/p7VdFVm8TJg)  
@@ -16,6 +16,7 @@ Complete these readings/videos before next class
 [Regression from Seeing Theory](https://seeing-theory.brown.edu/#secondPage/chapter6)  
 [MLU by Amazon](https://mlu-explain.github.io/)  
 [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) 
+For an excellent refresher, review Chapters 1-5 of [ML1 textbook](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
 
 *Optional Fun Stuff*  
 [What is AI (CrashCourse by PBS)](https://www.youtube.com/watch?v=a0_lo_GDcFw&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=2&t=1s) 
@@ -24,7 +25,6 @@ Complete these readings/videos before next class
 **Class 2: [ML Review in Python](https://www.dropbox.com/s/um5nmkdtbrgu7tv/00-2%20ML%20Review%20in%20Python.pptx?dl=0), [Lab1](https://drive.google.com/file/d/1MyKDerbu3qRS02lGPpCrP9CVRCNfNFVM/view?usp=sharing), [Write Function](https://colab.research.google.com/drive/1ja7kUqgJxU7fYLrYbXX-fqEGDl2Saq7b?usp=sharing)**  
 Complete these readings/videos before next class  
 [Browse Tensorflow Guides](https://www.tensorflow.org/guide)  
-For an excellent refresher, review Chapters 1-5 of [ML1 textbook](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
 
 *Optional Fun Stuff*  
 [Neural Networks & Deep Learning (CrashCourse by PBS)](https://www.youtube.com/watch?v=oV3ZY6tJiA0&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=4)
