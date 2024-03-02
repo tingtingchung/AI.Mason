@@ -1,6 +1,6 @@
 **Deep Learning for Regression**  
 **Class 1: [What is AI](https://www.dropbox.com/s/yhg6vtd6o45aim8/00-0%20AI%20Course%20Introduction.pptx?dl=0)**  
-Complete these readings/videos before next class  
+**Complete these readings/videos before next class**  
 [Dr. Chung's overview of Google Colab](https://youtu.be/p7VdFVm8TJg)  
 [A Brief History of AI, AITopics](https://aitopics.org/misc/brief-history)  
 [Linear Algebra by TensorFlow](https://youtu.be/LlKAna21fLE)  
@@ -12,7 +12,7 @@ Complete these readings/videos before next class
 [Dr. Chung's Single Neuron Simulator](https://docs.google.com/spreadsheets/d/1KDGiwAF2GStEZc2WUgbJ7CE7NHktZhAVpcRNulHfqpw/edit?usp=sharing) and [tutorial video](https://www.youtube.com/watch?v=r9WOZs42Evw&list=PLjomhJShbk6RectVgKBsbhGZ5KCACyvKq&index=3)  
 [Chapter 10.1 Single Layer NN, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
 
-*Optional References*
+*Optional References*  
 [Welcome to Colab](https://colab.research.google.com/drive/https:/colab.research.google.com/drive/1LfDI7cDOmnbsYAfwqu9l4h3FQSG8dJrz)  
 [Overview of Colab Features](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)  
 [20 Pandas Functions for 80% Data Science Tasks](https://www.kaggle.com/code/youssef19/20-pandas-functions-for-80-data-science-tasks?scriptVersionId=118961959) 
