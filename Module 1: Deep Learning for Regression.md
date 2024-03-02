@@ -1,3 +1,4 @@
+**Deep Learning for Regression**
 **Class 1: [What is AI](https://www.dropbox.com/s/yhg6vtd6o45aim8/00-0%20AI%20Course%20Introduction.pptx?dl=0)**  
 Complete these readings/videos before next class  
 [Dr. Chung's overview of Google Colab](https://youtu.be/p7VdFVm8TJg)  
