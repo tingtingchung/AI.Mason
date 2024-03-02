@@ -65,6 +65,7 @@ The presentation should include
 **Potential Case Study Topics (to be updated over the semester - you are welcome to suggest topics)**  
 Teams within the same section must choose unique topics (No two teams within the same section can have the same topic.)  
 Topics are first come first serve and will be listed here as claimed when taken.  
+- [TF Responsible AI](https://www.tensorflow.org/responsible_ai) 
 - [PyTorch](https://pytorch.org/) vs. Tensorflow
 - Federated Learning
   > [Distributed differential privacy for federated learning](https://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html)  
@@ -115,7 +116,6 @@ Topics are first come first serve and will be listed here as claimed when taken.
   > [Case Study: YouTube's recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)  
 > [Deep Neural Networks for YouTube Recommendations](https://dl.acm.org/doi/abs/10.1145/2959100.2959190)  
     [Kaur, S., Brugere, I., Stefanucci, A., Nourbakhsh, A., Shah, S., & Veloso, M. (2021). Parameterized Explanations for Investor/Company Matching. arXiv preprint arXiv:2111.01911.](https://arxiv.org/abs/2111.01911)  
-
 
 - AI applications in Manufacturing  
     [Landing.ai](https://landing.ai/)
