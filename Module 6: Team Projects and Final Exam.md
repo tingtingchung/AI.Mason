@@ -1,4 +1,6 @@
-**AI.TP instructions**  
+**Module 6: Team Projects & Final Exam**
+
+**Team Project instructions**  
 At the end of the semester, each team will complete a case study and give a 15-min presentation.
 The case study should be about one or more business applications of AI that we may or may not have covered in class.
 The content of the presentation must go above and beyond what has been presented in the course already.
