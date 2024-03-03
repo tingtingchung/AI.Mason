@@ -34,6 +34,7 @@ For an excellent refresher, review Chapters 1-5 of [ML1 textbook](https://hastie
 [The Keras Functional API](https://www.tensorflow.org/guide/keras/functional) 
 [Chapter 10.2 Multi-layer NN, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) 
 [Dr. Chung's TF/Keras DL Model Template](https://docs.google.com/document/d/1S1nml6eqTolm0V40A8coF2jm8ut8D0bWs4HB-VU0uyM/edit#)  
+[Model Evaluation: Overfit and underfit by TF](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit)  
 
 *Optional References*  
 [Chapter 1, Using neural nets to recognize handwritten digits, Neural Networks and Deep Learning by Nielsen](http://neuralnetworksanddeeplearning.com/chap1.html)  
