@@ -8,7 +8,6 @@
 [Linear Algebra by TensorFlow](https://youtu.be/LlKAna21fLE)  
 [Python & NumPy for Deep Learning by DeepMind](https://colab.research.google.com/github/deepmind/educational/blob/master/colabs/summer_schools/intro_to_python_numpy_for_deep_learning.ipynb)  
 [10 minutes to pandas](https://pandas.pydata.org/docs/user_guide/10min.html)   
-[Perceptron with SKLearn](https://scikit-learn.org/stable/modules/linear_model.html#perceptron)  
 [Model Evaluation: Overfit and underfit by TF](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit)  
 [Case Study: Zillow Home Value Index Methodology (Zestimate)](https://www.zillow.com/research/methodology-neural-zhvi-32128/)  
 [Dr. Chung's Single Neuron Simulator](https://docs.google.com/spreadsheets/d/1KDGiwAF2GStEZc2WUgbJ7CE7NHktZhAVpcRNulHfqpw/edit?usp=sharing) and [tutorial video](https://www.youtube.com/watch?v=r9WOZs42Evw&list=PLjomhJShbk6RectVgKBsbhGZ5KCACyvKq&index=3)  
@@ -22,6 +21,7 @@
 [MLU by Amazon](https://mlu-explain.github.io/)  
 [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)  
 For an excellent refresher, review Chapters 1-5 of [ML1 textbook](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
+[Perceptron with SKLearn](https://scikit-learn.org/stable/modules/linear_model.html#perceptron)  
 
 *Optional Fun Stuff*  
 [What is AI (CrashCourse by PBS)](https://www.youtube.com/watch?v=a0_lo_GDcFw&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=2&t=1s) 
