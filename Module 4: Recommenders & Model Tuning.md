@@ -1,4 +1,4 @@
-**Module 4: Hyperparameter Tuning & Recommenders**  
+**Module 4: Recommenders & Model Tuning**  
 
 **Class 8: Model Tuning**  
 [Model Tuning Section 1](https://docs.google.com/presentation/d/12gmakH0jbw_nMogmHY9aPWcK4pfX78mAir0WaBrGzcc/edit?usp=sharing), [Model Tuning Section 2](https://docs.google.com/presentation/d/1i-ShNcrNBSpqSNjzbp4jC9l_tyQnm9BRxUI_G07HwBg/edit?usp=sharing)**   
