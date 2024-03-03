@@ -8,7 +8,6 @@
 [Linear Algebra by TensorFlow](https://youtu.be/LlKAna21fLE)  
 [Python & NumPy for Deep Learning by DeepMind](https://colab.research.google.com/github/deepmind/educational/blob/master/colabs/summer_schools/intro_to_python_numpy_for_deep_learning.ipynb)  
 [10 minutes to pandas](https://pandas.pydata.org/docs/user_guide/10min.html)   
-[Model Evaluation: Overfit and underfit by TF](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit)  
 [Case Study: Zillow Home Value Index Methodology (Zestimate)](https://www.zillow.com/research/methodology-neural-zhvi-32128/)  
 [Dr. Chung's Single Neuron Simulator](https://docs.google.com/spreadsheets/d/1KDGiwAF2GStEZc2WUgbJ7CE7NHktZhAVpcRNulHfqpw/edit?usp=sharing) and [tutorial video](https://www.youtube.com/watch?v=r9WOZs42Evw&list=PLjomhJShbk6RectVgKBsbhGZ5KCACyvKq&index=3)  
 [Chapter 10.1 Single Layer NN, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
