@@ -1,6 +1,6 @@
 **Module 2: Deep Learning for Classification & Vision**  
 
-**Class 3: Deep Learning for Classification**
+**Class 3: Deep Learning for Classification**  
 [M2-1 Classification](https://www.dropbox.com/scl/fi/1jdkhx8f3kq11f94igggi/M2-1-classification.pptx?rlkey=2e3u73vhu4cxch4lvkzkcsqx3&dl=0)  
 [M2-2 Optimization](https://www.dropbox.com/scl/fi/d7ly6t4qij4xehzyfesff/M2-2-optimization.pptx?rlkey=9fov84v2wtrryrhm1xirl849n&dl=0)  
 [M2-3 Activation Functions](https://www.dropbox.com/scl/fi/b8uzwf5uvdgrnrhldeh0j/M2-3-activation-functions.pptx?rlkey=ma5lztjv8mknzqrt66xr3n3wm&dl=0)  
@@ -18,7 +18,7 @@
 [Yann Lecun's TED Talk on Deep learning, neural networks and the future of AI](https://www.ted.com/talks/yann_lecun_deep_learning_neural_networks_and_the_future_of_ai)  
 [ImageNet classification with deep convolutional neural networks](https://dl.acm.org/doi/abs/10.1145/3065386)  
 
-**Class 4: Vision**
+**Class 4: Vision**  
 [Fei-Fei Li's TED Talk: How we teach computers to understand pictures](https://youtu.be/40riCqvRoMs)  
 [Dr. Chung's TF Keras CNN Model Template](https://docs.google.com/document/d/1gw1SanV6caqE4-iZAn3TO3tZ4poCYL3yvPZbidMqCxw/edit?usp=sharing)  
 [M3-1 Representing Images Digitally](https://www.dropbox.com/scl/fi/w3u3mwvhk0y4u939zdgrr/M3-1-representing-images-digitally.pptx?rlkey=tewbfa6pvk6einac6qq5ushmj&dl=0)  
@@ -36,7 +36,7 @@
 *Optional Fun Stuff*  
 [Backpropagation & Optimization by CrashCourse AI](https://www.pbs.org/video/training-neural-networks-4-mq025r/)  
 
-**Class 5: Vision**
+**Class 5: Vision**  
 [M3-4 CNN3A: Convolution](https://www.dropbox.com/scl/fi/n7t8fi27nu3tadcn0i0wj/M3-4-CNN3A-conv.pptx?rlkey=eazdb831tp0w4umi40sl28rku&dl=0)  
 [M3-5 CNN3B: Pooling](https://www.dropbox.com/scl/fi/xnj81rtqx1bp0r0ie3eup/M3-5-CNN3B-pooling.pptx?rlkey=dyb24vnsgtqxs54p6r5b36y5b&dl=0)  
 [M3-6 CNN3C: Putting Everything Together](https://www.dropbox.com/scl/fi/85qk7ooo1fp4vybhpmknc/M3-6-CNN3C-putting-everything-together.pptx?rlkey=ga0uyp2ib4x4ty9j4guiq8voo&dl=0)  
