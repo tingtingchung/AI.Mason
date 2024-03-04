@@ -43,7 +43,7 @@ For an excellent refresher of regression, review Chapter 3 of [ML1 + ML2 textboo
 
 **Class 2: Deep Learning for Regression with Tensorflow**  
 [M1-5 Tensorflow](https://www.dropbox.com/scl/fi/jwbo2yp5ckbtujr85t9ar/M1-5-TF.pptx?rlkey=nvl6dw261ku4jc5ggmnceta76&dl=0)  
-[M1-5 Tensorflow for Regression](https://www.dropbox.com/scl/fi/kqixuk77sxzh744wm8zf1/M1-6-TF-for-regression.pptx?rlkey=7iz4gy1sjqb127tc5s270skty&dl=0)  
+[M1-6 Tensorflow for Regression](https://www.dropbox.com/scl/fi/kqixuk77sxzh744wm8zf1/M1-6-TF-for-regression.pptx?rlkey=7iz4gy1sjqb127tc5s270skty&dl=0)  
 [Colab: Deep Learning with Tensorflow](https://colab.research.google.com/drive/1fCEu0cIj8raD1o5fqLSLL9j7pgVcCZJ0)  
 [NN Playground by Tensorflow](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56945&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)  
 [Colab: Deep Learning for Regression with Tensorboard](https://colab.research.google.com/drive/1AG5jwdCNAZTO9U8ZgHF7vYRPHKpn88YL?usp=sharing)  
@@ -51,7 +51,7 @@ For an excellent refresher of regression, review Chapter 3 of [ML1 + ML2 textboo
 [Dr. Chung's TF/Keras DL Model Template](https://docs.google.com/document/d/1S1nml6eqTolm0V40A8coF2jm8ut8D0bWs4HB-VU0uyM/edit#)  
 
 **Complete these readings/videos before next class**    
-[Chapter 10.2 Multi-layer NN, ISLP](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
+[Chapter 10.2 Multi-layer NN, ISLP](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
 [Model Evaluation: Overfit and underfit by TF](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit)  
 
 *Optional References*  
