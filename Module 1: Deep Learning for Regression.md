@@ -7,10 +7,10 @@
 [M1-3 Dr. Chung's Single Neuron Simulator](https://docs.google.com/spreadsheets/d/1KDGiwAF2GStEZc2WUgbJ7CE7NHktZhAVpcRNulHfqpw/edit?usp=sharing) and [tutorial video](https://www.youtube.com/watch?v=r9WOZs42Evw&list=PLjomhJShbk6RectVgKBsbhGZ5KCACyvKq&index=3)  
 [M1-4 Linear Regression Review](https://www.dropbox.com/scl/fi/vf0dzuagmc0k3s7mtojhw/M1-4-regression-review.pptx?rlkey=544llky6vnijzahvv7736tj3h&dl=0)  
 
-**Review these Colabs before next class**
-[linear regression review](https://colab.research.google.com/drive/1vKXdFFfMwA92GkTQdN7PAvs5LOMRRrFb?usp=drive_link)
-[Pandas review](https://drive.google.com/file/d/10Tl_-KXy4JdZTYiZZTHFUdYy276PFbga/view?usp=sharing)
-[Numpy review](https://drive.google.com/file/d/10S-7uh4CvtdCB2YJLF-eDcnVJ8y4l9gV/view?usp=sharing)
+**Review these Colabs before next class**  
+[linear regression review](https://colab.research.google.com/drive/1vKXdFFfMwA92GkTQdN7PAvs5LOMRRrFb?usp=drive_link)  
+[Pandas review](https://drive.google.com/file/d/10Tl_-KXy4JdZTYiZZTHFUdYy276PFbga/view?usp=sharing)  
+[Numpy review](https://drive.google.com/file/d/10S-7uh4CvtdCB2YJLF-eDcnVJ8y4l9gV/view?usp=sharing)  
 [Python functions review](https://colab.research.google.com/drive/1sTsh0ICGwa_sku9oCR8v3MnK0IqYauMn?usp=drive_link)  
 
 **Complete these readings/videos before next class**  
@@ -40,22 +40,22 @@ For an excellent refresher, review Chapters 1-5 of [ML1 textbook](https://hastie
 [What is AI (CrashCourse by PBS)](https://www.youtube.com/watch?v=a0_lo_GDcFw&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=2&t=1s) 
 [Supervised Learning (CrashCourse by PBS)](https://www.youtube.com/watch?v=4qVRBYAdLAo&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=3)  
 
-**Class 2: Deep Learning for Regression with Tensorflow**
+**Class 2: Deep Learning for Regression with Tensorflow**  
 [M1-5 Tensorflow](https://www.dropbox.com/scl/fi/jwbo2yp5ckbtujr85t9ar/M1-5-TF.pptx?rlkey=nvl6dw261ku4jc5ggmnceta76&dl=0)  
 [M1-5 Tensorflow for Regression](https://www.dropbox.com/scl/fi/kqixuk77sxzh744wm8zf1/M1-6-TF-for-regression.pptx?rlkey=7iz4gy1sjqb127tc5s270skty&dl=0)  
 [Colab: Deep Learning with Tensorflow](https://colab.research.google.com/drive/1fCEu0cIj8raD1o5fqLSLL9j7pgVcCZJ0)  
-[NN Playground by Tensorflow](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56945&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) 
+[NN Playground by Tensorflow](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56945&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)  
 [Colab: Deep Learning for Regression with Tensorboard](https://colab.research.google.com/drive/1AG5jwdCNAZTO9U8ZgHF7vYRPHKpn88YL?usp=sharing)  
 [Draw your own NN model with NN-SVG](http://alexlenail.me/NN-SVG/index.html)  
 [Dr. Chung's TF/Keras DL Model Template](https://docs.google.com/document/d/1S1nml6eqTolm0V40A8coF2jm8ut8D0bWs4HB-VU0uyM/edit#)  
 
 **Complete these readings/videos before next class**    
-[Chapter 10.2 Multi-layer NN, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) 
+[Chapter 10.2 Multi-layer NN, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
 [Model Evaluation: Overfit and underfit by TF](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit)  
 
 *Optional References*  
 [Chapter 1, Using neural nets to recognize handwritten digits, Neural Networks and Deep Learning by Nielsen](http://neuralnetworksanddeeplearning.com/chap1.html)  
-[Browse Tensorflow Guides](https://www.tensorflow.org/guide)
+[Browse Tensorflow Guides](https://www.tensorflow.org/guide)  
 [LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. nature, 521(7553), 436-444.](https://s3.us-east-2.amazonaws.com/hkg-website-assets/static/pages/files/DeepLearning.pdf)  
 [Gradient Descent on Khan Academy](https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/optimizing-multivariable-functions/a/what-is-gradient-descent)  
 [Training & Evaluation with built-in Methods](https://www.tensorflow.org/guide/keras/train_and_evaluate)  
