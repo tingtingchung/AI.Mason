@@ -14,11 +14,11 @@
 [Python functions review](https://colab.research.google.com/drive/1sTsh0ICGwa_sku9oCR8v3MnK0IqYauMn?usp=drive_link)  
 
 **Complete these readings/videos before next class**  
-[Chapter 10.1 Single Layer NN, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) 
+[Chapter 10.1 Single Layer NN, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
 [Case Study: Zillow Home Value Index Methodology (Zestimate)](https://www.zillow.com/research/methodology-neural-zhvi-32128/)  
 [A Brief History of AI, AITopics](https://aitopics.org/misc/brief-history)  
 [The Sequential Model](https://www.tensorflow.org/guide/keras/sequential_model)  
-[The Keras Functional API](https://www.tensorflow.org/guide/keras/functional) 
+[The Keras Functional API](https://www.tensorflow.org/guide/keras/functional)  
 
 **Complete these review materials as needed**  
 [Linear Algebra by TensorFlow](https://youtu.be/LlKAna21fLE)  
@@ -37,7 +37,7 @@ For an excellent refresher of regression, review Chapter 3 of [ML1 + ML2 textboo
 [Perceptron with SKLearn](https://scikit-learn.org/stable/modules/linear_model.html#perceptron)  
 
 *Optional Fun Stuff*  
-[What is AI (CrashCourse by PBS)](https://www.youtube.com/watch?v=a0_lo_GDcFw&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=2&t=1s) 
+[What is AI (CrashCourse by PBS)](https://www.youtube.com/watch?v=a0_lo_GDcFw&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=2&t=1s)  
 [Supervised Learning (CrashCourse by PBS)](https://www.youtube.com/watch?v=4qVRBYAdLAo&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=3)  
 
 **Class 2: Deep Learning for Regression with Tensorflow**  
