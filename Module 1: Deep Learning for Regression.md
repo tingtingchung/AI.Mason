@@ -54,8 +54,8 @@ For an excellent refresher of regression, review Chapter 3 of [ML1 + ML2 textboo
 
 **Complete these readings/videos before next class**    
 [Chapter 10.2 Multi-layer NN, ISLP](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
-[Model Evaluation: Overfit and underfit by TF](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit)  
 [What is backpropagation really doing? by 3Blue1Brown](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=1s)  
+[Model Evaluation: Overfit and underfit by TF](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit)  
 [Wilber, J. (2022, June). ROC & AUC. MLU-Explain.](https://mlu-explain.github.io/roc-auc/)  
 
 *Optional References*  
