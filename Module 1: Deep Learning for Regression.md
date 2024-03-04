@@ -14,7 +14,7 @@
 [Python functions review](https://colab.research.google.com/drive/1sTsh0ICGwa_sku9oCR8v3MnK0IqYauMn?usp=drive_link)  
 
 **Complete these readings/videos before next class**  
-[Chapter 10.1 Single Layer NN, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
+[Chapter 10.1 Single Layer NN, ISLP]([https://hastie.su.domains/ISLR2/ISLRv2_website.pdf](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html))  
 [Case Study: Zillow Home Value Index Methodology (Zestimate)](https://www.zillow.com/research/methodology-neural-zhvi-32128/)  
 [A Brief History of AI, AITopics](https://aitopics.org/misc/brief-history)  
 [The Sequential Model](https://www.tensorflow.org/guide/keras/sequential_model)  
@@ -24,7 +24,7 @@
 [Linear Algebra by TensorFlow](https://youtu.be/LlKAna21fLE)  
 [Python & NumPy for Deep Learning by DeepMind](https://colab.research.google.com/github/deepmind/educational/blob/master/colabs/summer_schools/intro_to_python_numpy_for_deep_learning.ipynb)  
 [10 minutes to pandas](https://pandas.pydata.org/docs/user_guide/10min.html)  
-For an excellent refresher of regression, review Chapter 3 of [ML1 + ML2 textbook](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
+For an excellent refresher of regression, review Chapter 3 of [ML1 + ML2 textbook](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
 
 *Optional References*  
 [Dr. Chung's overview of Google Colab](https://youtu.be/p7VdFVm8TJg) 
@@ -50,7 +50,7 @@ For an excellent refresher of regression, review Chapter 3 of [ML1 + ML2 textboo
 [Dr. Chung's TF/Keras DL Model Template](https://docs.google.com/document/d/1S1nml6eqTolm0V40A8coF2jm8ut8D0bWs4HB-VU0uyM/edit#)  
 
 **Complete these readings/videos before next class**    
-[Chapter 10.2 Multi-layer NN, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
+[Chapter 10.2 Multi-layer NN, ISLP]([https://hastie.su.domains/ISLR2/ISLRv2_website.pdf](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
 [Model Evaluation: Overfit and underfit by TF](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit)  
 
 *Optional References*  
