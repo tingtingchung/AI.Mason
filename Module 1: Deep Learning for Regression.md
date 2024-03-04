@@ -15,6 +15,7 @@
 
 **Complete these readings/videos before next class**  
 [Chapter 10.1 Single Layer NN, ISLP]([https://hastie.su.domains/ISLR2/ISLRv2_website.pdf](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html))  
+[Neural Networks by MLU-Explain](https://mlu-explain.github.io/neural-networks/)  
 [Case Study: Zillow Home Value Index Methodology (Zestimate)](https://www.zillow.com/research/methodology-neural-zhvi-32128/)  
 [A Brief History of AI, AITopics](https://aitopics.org/misc/brief-history)  
 [The Sequential Model](https://www.tensorflow.org/guide/keras/sequential_model)  
@@ -30,7 +31,7 @@ For an excellent refresher of regression, review Chapter 3 of [ML1 + ML2 textboo
 [Dr. Chung's overview of Google Colab](https://youtu.be/p7VdFVm8TJg) 
 [Welcome to Colab](https://colab.research.google.com/drive/https:/colab.research.google.com/drive/1LfDI7cDOmnbsYAfwqu9l4h3FQSG8dJrz)  
 [Overview of Colab Features](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)  
-[20 Pandas Functions for 80% Data Science Tasks](https://www.kaggle.com/code/youssef19/20-pandas-functions-for-80-data-science-tasks?scriptVersionId=118961959) 
+[20 Pandas Functions for 80% Data Science Tasks](https://www.kaggle.com/code/youssef19/20-pandas-functions-for-80-data-science-tasks?scriptVersionId=118961959)  
 [Regression from Seeing Theory](https://seeing-theory.brown.edu/#secondPage/chapter6)  
 [MLU by Amazon](https://mlu-explain.github.io/)  
 [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)  
