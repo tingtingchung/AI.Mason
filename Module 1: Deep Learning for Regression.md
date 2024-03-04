@@ -51,7 +51,7 @@ For an excellent refresher of regression, review Chapter 3 of [ML1 + ML2 textboo
 [Dr. Chung's TF/Keras DL Model Template](https://docs.google.com/document/d/1S1nml6eqTolm0V40A8coF2jm8ut8D0bWs4HB-VU0uyM/edit#)  
 
 **Complete these readings/videos before next class**    
-[Chapter 10.2 Multi-layer NN, ISLP]([https://hastie.su.domains/ISLR2/ISLRv2_website.pdf](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
+[Chapter 10.2 Multi-layer NN, ISLP](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
 [Model Evaluation: Overfit and underfit by TF](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit)  
 
 *Optional References*  
