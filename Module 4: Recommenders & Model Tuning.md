@@ -9,6 +9,9 @@ The in-class exercise is based on [Deep Learning Tuning Playbook](https://github
 [Collaborative filtering](https://developers.google.com/machine-learning/crash-course/embeddings/motivation-from-collaborative-filtering)
 [Recommenders Tutorial by Tensorflow](https://www.tensorflow.org/recommenders/examples/basic_retrieval)  
 
+[Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)  
+[Keras Tuner](https://www.tensorflow.org/tutorials/keras/keras_tuner) 
+
 *Optional References*  
 [Recommended For You: How machine learning helps you choose what to consume next by Jenifer Wei](https://sitn.hms.harvard.edu/flash/2017/recommended-machine-learning-helps-choose-consume-next/)
 [Case Study: YouTube's recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)  
