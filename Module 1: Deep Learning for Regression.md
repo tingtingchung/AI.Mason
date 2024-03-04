@@ -1,6 +1,6 @@
 **Deep Learning for Regression**  
 
-**Class 1: [Course Intro](hhttps://www.dropbox.com/scl/fi/jfzmyx2l4ma6quiumjv6d/M1-1-AI-Course-Introduction.pptx?rlkey=4x0bxciqyu49hxf95cvrravq1&dl=0)**  
+**Class 1: [Course Intro](https://www.dropbox.com/scl/fi/jfzmyx2l4ma6quiumjv6d/M1-1-AI-Course-Introduction.pptx?rlkey=4x0bxciqyu49hxf95cvrravq1&dl=0)**  
 
 **Complete these readings/videos before next class**  
 [Dr. Chung's overview of Google Colab](https://youtu.be/p7VdFVm8TJg)  
