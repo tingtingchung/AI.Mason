@@ -15,12 +15,11 @@ The presentation should include
 *Note: Time estimates are suggestions only. Do what you need to do to deliver an engaging and compelling story!
 
 **Grading Rubric (more details available in Blackboard assignment)**  
-**1. Problem Statement (10%):** Clear, concise, accurate and focused statement of the problem being solved.  
-**2. Research Paper Discussion (30%):** Clear, accurate and thoughtful critiques of relevant paper(s) that focus on key concepts, strengths or weaknesses.  
+**1. Problem Statement (15%):** Clear, concise, accurate and focused statement of the problem being solved.  
+**2. Research Paper Discussion (35%):** Clear, accurate and thoughtful critiques of relevant paper(s) that focus on key concepts, strengths or weaknesses.  
 **3. Technical Demo (35%):** Thoughtful and comprehensive solution that addresses the problem statement in a logical manner and issues identified in the critiques. Proper data processing and exploration and clear rationale for algorithm choices.  
-**4. Explainability/Responsibility (10%):** Comprehensive, clear, and focused explanation of the data exploration and processing work, rationale for the algorithm choices, and documentation of your code, based on this Machine Learning Reproducibility Checklist. Be sure to document rationale for WHY you perform certain tasks/made certain decisions, and not just WHAT you did.  
-**5. Presentation (10%):** Clear, well rehearsed, concise, and engaging presentation with laser focus on key topics, key issues and key elements of the solution. Free of errors. Think about how to make your presentation interesting: [Why lectures are like blind dates by Nicolas Coles](https://www.nature.com/articles/d41586-022-01798-6)   
-**6. References (5%):** List the research paper(s) and sources you have used for this project in APA style.  
+**4. Presentation (10%):** Clear, well rehearsed, concise, and engaging presentation with laser focus on key topics, key issues and key elements of the solution. Free of errors. Think about how to make your presentation interesting: [Why lectures are like blind dates by Nicolas Coles](https://www.nature.com/articles/d41586-022-01798-6)   
+**5. References (5%):** List the research paper(s) and sources you have used for this project in APA style.  
 
 **Before picking your topic read these first:**  
 [AI Transformation Playbook by Landing.AI](https://landing.ai/resource/ai-transformation-playbook/)  
@@ -29,49 +28,19 @@ The presentation should include
 [The State of Competitive Machine Learning](https://mlcontests.com/state-of-competitive-machine-learning-2022/)  
 [The state of AI in 2022 - and a half decade in review by McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2022-and-a-half-decade-in-review)  
 
-**[Section 1 Schedule]**  
-4/12/2023  
-8:00am [Team 2](https://github.com/kbarlow01/StableDiffusion ): 
-8:16am Team 3: Synthetic Data  
-8:32am [Team 4](https://github.com/shs7777/MSBA-Section-1-Team-4/blob/main/ChatGPT%20vs%20GPTZero%20Presentation.pptx):    
-> [ChatGPT](https://openai.com/blog/chatgpt/) vs. [GPTZero](https://gptzero.me/)  
-> [ChatGPT2 coded in TF](https://github.com/openai/gpt-2/blob/master/src/model.py)  
-
-8:48am [Team 5](https://github.com/caitlin0806/Team5/tree/master/AI%20Final%20Project)
-
-4/17/2023  
-8:00am Team 6: [OpenAI Multi-Agent Hide-and-Seek](https://openai.com/research/emergent-tool-use)   
-8:16am Team 7: 
-8:32am Team 9:   
-8:48am Team 10: 
-
-9:04 Team 11: [OpenAI Codex](https://openai.com/blog/openai-codex/)  
-
-**[Section 2 Schedule]**  
-4/12/2023  
-9:30am Team 12: 
-9:46am [Team 13](https://github.com/gssbusinessgithub/MSBA_Team13_TP2_ML2): 
-10:02am Team 14: 
-10:18am [Team 15](https://github.com/MSBA-Team15/ai-finalpresentation): Synthetic Data
-
-4/17/2023  
-9:30am Team 16: 
-9:46am Team 17:  
-
-
-10:02am Team 18: Federated Learning - 
-   
-10:18am Team 8: 
-10:34am Team 1: 
-
+**[Section 1 Schedule: TBD]**  
+  
+**[Section 2 Schedule: TBD]**  
+ 
 **Potential Case Study Topics (to be updated over the semester - you are welcome to suggest topics)**  
 Teams within the same section must choose unique topics (No two teams within the same section can have the same topic.)  
 Topics are first come first serve and will be listed here as claimed when taken.  
-- [TF Responsible AI](https://www.tensorflow.org/responsible_ai) 
+
 - [PyTorch](https://pytorch.org/) vs. Tensorflow
 - Federated Learning
   > [Distributed differential privacy for federated learning](https://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html)  
 > [Konečný, J., McMahan, H. B., Yu, F. X., Richtárik, P., Suresh, A. T., & Bacon, D. (2016). Federated learning: Strategies for improving communication efficiency. arXiv preprint arXiv:1610.05492.](https://arxiv.org/abs/1610.05492)
+> [TF Federated](https://www.tensorflow.org/federated)  
 - [Generative AI for Images or Videos]
   [Stable Diffusion](https://stablediffusionweb.com/)  
 - [Kaggle Models](https://www.kaggle.com/discussions/product-feedback/391200?utm_medium=email&utm_source=gamma&utm_campaign=models-launch-2023)  
@@ -101,7 +70,9 @@ Topics are first come first serve and will be listed here as claimed when taken.
     [ICAPS Workshop on Planning for Financial Services (FinPlan 2021)](https://icaps21.icaps-conference.org/workshops/FinPlan/)  
     [ICAPS Workshop on Planning for Financial Services (FinPlan 2020)](https://icaps20subpages.icaps-conference.org/workshops/finplan/)  
     [Survey Reveals Financial Industry’s Top 4 AI Priorities for 2023](https://blogs.nvidia.com/blog/2023/02/02/financial-industry-ai-survey/)  
-- AI applications in HR: [Algorithmic Management: The Role of AI in Managing Workforces](https://sloanreview.mit.edu/article/algorithmic-management-the-role-of-ai-in-managing-workforces/)  
+- AI applications in HR: 
+    [Algorithmic Management: The Role of AI in Managing Workforces](https://sloanreview.mit.edu/article/algorithmic-management-the-role-of-ai-in-managing-workforces/)
+    [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models by Tyna Eloundou, Sam Manning, Pamela Mishkin, and Daniel Rock](https://arxiv.org/abs/2303.10130)  
 - AI applications in Marketing
 - AI applications in Accounting  
     [Schreyer, Marco, Timur Sattarov, Damian Borth, Andreas Dengel, and Bernd Reimer. "Detection of anomalies in large scale accounting data using deep autoencoder networks." arXiv preprint arXiv:1709.05254 (2017).](https://arxiv.org/abs/1709.05254)
@@ -126,35 +97,33 @@ Topics are first come first serve and will be listed here as claimed when taken.
   [NEJM AI](https://ai.nejm.org/)   
 - Any other topic that interests your team - Get instructor approval first
 
-===========================================================
-**Module 6: Team Projects & Final Exam**  
+- AI Bias:
+      [Equality of Odds by Amazon Machine Learning University](https://mlu-explain.github.io/equality-of-odds/)  
+      [Monk Skin Tone Scale](https://www.skintone.google/)
+      [TF Data Validation](https://www.tensorflow.org/tfx/guide/tfdv)
+      [TF Model Remediation](https://www.tensorflow.org/responsible_ai/model_remediation)
+      [Fairness Indicators](https://www.tensorflow.org/responsible_ai/fairness_indicators/guide)
+      [TF Model Analysis](https://www.tensorflow.org/tfx/model_analysis/install)  
+      [What-If Tool](https://pair-code.github.io/what-if-tool/)
+  
+- AI Privacy:
+      [TF Privacy](https://www.tensorflow.org/responsible_ai/privacy/guide)
+      [TF Privacy Tests](https://blog.tensorflow.org/2020/06/introducing-new-privacy-testing-library.html?_gl=1*1p30nlg*_ga*MTIwMTc0NTIyOS4xNjc1NjIzNDYw*_ga_W0YLR4190T*MTY3OTUxMzk0My43My4xLjE2Nzk1MTQ2NDkuMC4wLjA.)
+  
+- AI Responsibility:
+      [AI Explorables](https://pair.withgoogle.com/explorables/)
+      [TF Responsible AI](https://www.tensorflow.org/responsible_ai) 
 
-**Class 13: Potential Project Topics**  
-1. AI Bias:[Equality of Odds by Amazon Machine Learning University](https://mlu-explain.github.io/equality-of-odds/)  
-
-2. Labor issues in AI
-[GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models by Tyna Eloundou, Sam Manning, Pamela Mishkin, and Daniel Rock](https://arxiv.org/abs/2303.10130)  
-
-3. Sticky issues in AI: [AI Explorables](https://pair.withgoogle.com/explorables/)   
-[Team 1](https://docs.google.com/presentation/d/14wT5sJl8HauU52SKWNoyIdnQ5MhzsyC8jV166WCyOZE/edit?usp=sharing) & [Team 12](https://docs.google.com/presentation/d/1Mmd8y61k5_l_lq2NDGNmlh-9QvFWJ57jkTgyLtmMtHU/edit?usp=sharing): [TF Data Validation](https://www.tensorflow.org/tfx/guide/tfdv) and [ML Metadata](https://www.tensorflow.org/tfx/guide/mlmd)  
-Team 2 & [Team 13](https://docs.google.com/presentation/d/1nn6iSp21PM3Sb7pxTrPukVJOwR6zL_NJH-nUsO3Ac1A/edit?usp=sharing): [Monk Skin Tone Scale](https://www.skintone.google/)  
-[Team 3](https://www.dropbox.com/s/ne2u0mmn8f5fyx1/AI%20Team%203%20Model%20Remediation.pptx?dl=0) & [Team 14](https://wmedu-my.sharepoint.com/:p:/g/personal/cmstanga_wm_edu/ERWKpBkgR21JvVzjejKF-HABMGC9MkBL6GoeftLQR8x6PA?e=Qo0MzC): [TF Model Remediation](https://www.tensorflow.org/responsible_ai/model_remediation)  
-[Team 4](https://docs.google.com/presentation/d/1PmLTV6uxd2QMAxnPkRRzmXG7lfKGQAqZ/edit#slide=id.p1) & Team 15: [TF Privacy](https://www.tensorflow.org/responsible_ai/privacy/guide) and [TF Privacy Tests](https://blog.tensorflow.org/2020/06/introducing-new-privacy-testing-library.html?_gl=1*1p30nlg*_ga*MTIwMTc0NTIyOS4xNjc1NjIzNDYw*_ga_W0YLR4190T*MTY3OTUxMzk0My43My4xLjE2Nzk1MTQ2NDkuMC4wLjA.)  
-[Team 5](https://wmedu-my.sharepoint.com/:p:/g/personal/clbryant_wm_edu/EVdewBrLSMFIvlt4Ie_DfesBwGn5K6R0r6ipc4nD6GS-Sg?e=YDK9Wn) & Team 15: [Fairness Indicators](https://www.tensorflow.org/responsible_ai/fairness_indicators/guide)  
-Team 6 & Team 16: [TF Model Analysis](https://www.tensorflow.org/tfx/model_analysis/install)  
-Team 7 & Team 16: [What-If Tool](https://pair-code.github.io/what-if-tool/)  
-[Team 8](https://docs.google.com/presentation/d/1WE2VO-3jzkIlGASpMAFqSegi2pShTDmISOtb8B2ln-w/edit#slide=id.p) & Team 17: [Language Interpretability Tool](https://pair-code.github.io/lit/)  
-[Team 9](https://docs.google.com/presentation/d/1rWuquVf-fJl5ooOWFzEU78_47Df7rGrtBMbbg8pZ1ak/edit?usp=sharing) & Team 17: [Explainable AI](https://cloud.google.com/explainable-ai)  
-[Team 10](https://wmedu-my.sharepoint.com/:p:/g/personal/ladoby_wm_edu/EdfHRBFCofhNggxo-XzfxvYB8rj88MzqboT1SjOiNa7Wjg?e=iZZaFx) & [Team 18](https://docs.google.com/presentation/d/1UDwCFNaUP3y3I-V99uI4NcsbKGJLkG2CAZ28tOxnh5k/edit#slide=id.p): [TF Federated](https://www.tensorflow.org/federated)  
-[Team 11](https://docs.google.com/presentation/d/1xlOC8-kbWUzK6xyZyCgLfT89PJqOKVH4MxaervAW6t8/edit?usp=sharing) & [Team 13](https://docs.google.com/presentation/d/1nn6iSp21PM3Sb7pxTrPukVJOwR6zL_NJH-nUsO3Ac1A/edit?usp=sharing): [Model Cards](https://modelcards.withgoogle.com/about) and [Model Card ToolKit](https://www.tensorflow.org/responsible_ai/model_card_toolkit/guide)  
-
+- AI Explanability:
+      [Language Interpretability Tool](https://pair-code.github.io/lit/)
+      [Explainable AI](https://cloud.google.com/explainable-ai)
+      [Model Cards](https://modelcards.withgoogle.com/about)
+      [Model Card ToolKit](https://www.tensorflow.org/responsible_ai/model_card_toolkit/guide)  
+ 
 *Optional References*  
 [Center for AI & Digital Policy](https://www.caidp.org/)  
  
 =====================================================================================
-
-
-
 *You must use at least two sources from the following sites for preparing your presentation*  
 -[Tensorflow Hub](https://www.tensorflow.org/hub)  
 -[Manuela Veloso's publications](http://www.cs.cmu.edu/~mmv/Veloso.html)  
