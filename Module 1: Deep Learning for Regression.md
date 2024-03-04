@@ -20,10 +20,11 @@
 [The Sequential Model](https://www.tensorflow.org/guide/keras/sequential_model)  
 [The Keras Functional API](https://www.tensorflow.org/guide/keras/functional) 
 
-**Complete these review materials as needed**
+**Complete these review materials as needed**  
 [Linear Algebra by TensorFlow](https://youtu.be/LlKAna21fLE)  
 [Python & NumPy for Deep Learning by DeepMind](https://colab.research.google.com/github/deepmind/educational/blob/master/colabs/summer_schools/intro_to_python_numpy_for_deep_learning.ipynb)  
-[10 minutes to pandas](https://pandas.pydata.org/docs/user_guide/10min.html) 
+[10 minutes to pandas](https://pandas.pydata.org/docs/user_guide/10min.html)  
+For an excellent refresher of regression, review Chapter 3 of [ML1 + ML2 textbook](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
 
 *Optional References*  
 [Dr. Chung's overview of Google Colab](https://youtu.be/p7VdFVm8TJg) 
@@ -33,7 +34,6 @@
 [Regression from Seeing Theory](https://seeing-theory.brown.edu/#secondPage/chapter6)  
 [MLU by Amazon](https://mlu-explain.github.io/)  
 [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)  
-For an excellent refresher, review Chapters 1-5 of [ML1 textbook](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
 [Perceptron with SKLearn](https://scikit-learn.org/stable/modules/linear_model.html#perceptron)  
 
 *Optional Fun Stuff*  
