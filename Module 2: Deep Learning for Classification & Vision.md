@@ -6,6 +6,7 @@
 [M2-3 Activation Functions](https://www.dropbox.com/scl/fi/b8uzwf5uvdgrnrhldeh0j/M2-3-activation-functions.pptx?rlkey=ma5lztjv8mknzqrt66xr3n3wm&dl=0)  
 [M2-4 Keras Model Compilation](https://www.dropbox.com/scl/fi/g0gwzqubs4mvn44ox68oe/M2-4-keras-model-compilation.pptx?rlkey=hx3o9fopm1uamzf93kso3zvjt&dl=0)  
 [M2-5 Keras Model Loss & Metrics](https://www.dropbox.com/scl/fi/wmaxv99ypylde1s24eu8u/M2-5-keras-model-loss-and-metrics.pptx?rlkey=ruxf7tywqy0nh60zsish9o221&dl=0)  
+
 **Complete these readings/videos before next class**  
 [Regularization: Playground Exercise](https://developers.google.com/machine-learning/crash-course/regularization-for-sparsity/playground-exercise)  
 [Chapter 10.3 Convolutional Neural NetworkNetworks, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
