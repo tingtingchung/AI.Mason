@@ -5,11 +5,14 @@
 [M2-2 Optimization](https://www.dropbox.com/scl/fi/d7ly6t4qij4xehzyfesff/M2-2-optimization.pptx?rlkey=9fov84v2wtrryrhm1xirl849n&dl=0)  
 [M2-3 Activation Functions](https://www.dropbox.com/scl/fi/b8uzwf5uvdgrnrhldeh0j/M2-3-activation-functions.pptx?rlkey=ma5lztjv8mknzqrt66xr3n3wm&dl=0)  
 [M2-4 Keras Model Compilation](https://www.dropbox.com/scl/fi/g0gwzqubs4mvn44ox68oe/M2-4-keras-model-compilation.pptx?rlkey=hx3o9fopm1uamzf93kso3zvjt&dl=0)  
-[M2-5 Keras Model Loss & Metrics](https://www.dropbox.com/scl/fi/wmaxv99ypylde1s24eu8u/M2-5-keras-model-loss-and-metrics.pptx?rlkey=ruxf7tywqy0nh60zsish9o221&dl=0)  
+[M2-5 Keras Model Loss & Metrics](https://www.dropbox.com/scl/fi/wmaxv99ypylde1s24eu8u/M2-5-keras-model-loss-and-metrics.pptx?rlkey=ruxf7tywqy0nh60zsish9o221&dl=0) 
+[Colab: to_categorical() vs. get_dummies()](https://colab.research.google.com/drive/1-_2u9jQ4d-yL1QVu4oH4UVRjZW11ZxZe)  
+[Colab: Deep Learning Classifier with Tensorflow](https://colab.research.google.com/drive/1szq7Vy4ZsUBNzR398lkLbAQKm3LRfqoS)   
 
 **Complete these readings/videos before next class**  
+[Chapter 10.3 Convolutional Neural NetworkNetworks, ISLP](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html) 
 [Regularization: Playground Exercise](https://developers.google.com/machine-learning/crash-course/regularization-for-sparsity/playground-exercise)  
-[Chapter 10.3 Convolutional Neural NetworkNetworks, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  
+[Thain, N., Pearce, A., Snoek, J., & Pushkarna, M. (2022, March). Are model predictions probabilities?. PAIR.](https://pair.withgoogle.com/explorables/uncertainty-calibration/) 
 [Yann Lecun's MNIST site](http://yann.lecun.com/exdb/mnist/)  
 
 *Optional Fun Stuff*  
@@ -17,7 +20,7 @@
 
 *Optional References*  
 [Yann Lecun's TED Talk on Deep learning, neural networks and the future of AI](https://www.ted.com/talks/yann_lecun_deep_learning_neural_networks_and_the_future_of_ai)  
-[ImageNet classification with deep convolutional neural networks](https://dl.acm.org/doi/abs/10.1145/3065386)  
+[ImageNet classification with deep convolutional neural networks](https://dl.acm.org/doi/abs/10.1145/3065386)   
 
 **Class 4: Vision**  
 [Fei-Fei Li's TED Talk: How we teach computers to understand pictures](https://youtu.be/40riCqvRoMs)  
@@ -43,7 +46,7 @@
 [M3-6 CNN3C: Putting Everything Together](https://www.dropbox.com/scl/fi/85qk7ooo1fp4vybhpmknc/M3-6-CNN3C-putting-everything-together.pptx?rlkey=ga0uyp2ib4x4ty9j4guiq8voo&dl=0)  
 
 **Complete these readings/videos before next class**  
-[Chapter 10.4 & 10.5 Recurrent Neural Networks, ISLR2](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)   
+[Chapter 10.4 & 10.5 Recurrent Neural Networks, ISLP](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html) 
 [Sparse Matrix Format in Tensorflow](https://www.tensorflow.org/api_docs/python/tf/sparse/SparseTensor)  
 [Masking & Padding in Keras](https://www.tensorflow.org/guide/keras/masking_and_padding#:~:text=Padding%20is%20a%20special%20form,pad%20or%20truncate%20some%20sequences.)  
 
