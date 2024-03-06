@@ -14,7 +14,7 @@
 [Python functions review](https://colab.research.google.com/drive/1sTsh0ICGwa_sku9oCR8v3MnK0IqYauMn?usp=drive_link)  
 
 **Complete these readings/videos before next class**  
-[Chapter 10.1 Single Layer NN, ISLP]([https://hastie.su.domains/ISLR2/ISLRv2_website.pdf](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html))  
+[Chapter 10.1 Single Layer NN, ISLP](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
 [Neural Networks by MLU-Explain](https://mlu-explain.github.io/neural-networks/)  
 [Case Study: Zillow Home Value Index Methodology (Zestimate)](https://www.zillow.com/research/methodology-neural-zhvi-32128/)  
 [A Brief History of AI, AITopics](https://aitopics.org/misc/brief-history)  
