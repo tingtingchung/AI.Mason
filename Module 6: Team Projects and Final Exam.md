@@ -59,9 +59,10 @@ Topics are first come first serve and will be listed here as claimed when taken.
 - Graph Neural Networks
 - [Case Study: Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)  
 - Synthetic data  
-    [In machine learning, synthetic data can offer real performance improvements](https://news.mit.edu/2022/synthetic-data-ai-improvements-1103)  
-    [Synthetic Data at JP Morgan](https://www.jpmorgan.com/synthetic-data)  
-    [MOSTLY.ai](https://mostly.ai/)
+  [Potluru, V. K., Borrajo, D., Coletta, A., Dalmasso, N., El-Laham, Y., Fons, E., Ghassemi, M., Gopalakrishnan, S., Gosai, V., Kreačić, E., Mani, G., Obitayo, S., Paramanand, D., Raman, N., Solonin, M., Sood, S., Vyetrenko, S., Zhu, H., Veloso, M., & Balch, T. (2023). Synthetic Data Applications in Finance (arXiv:2401.00081). arXiv.](https://doi.org/10.48550/arXiv.2401.00081)  
+  [In machine learning, synthetic data can offer real performance improvements](https://news.mit.edu/2022/synthetic-data-ai-improvements-1103)  
+  [Synthetic Data at JP Morgan](https://www.jpmorgan.com/synthetic-data)  
+  [MOSTLY.ai](https://mostly.ai/)
 - Multi-agent simulation  
     [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442): You can watch the simulation [here](https://lnkd.in/eUNPPNyC), and switch between AI characters by clicking on them  
 - AI in supply chain/e-commerce:  [Stitch Fix Algorithm Tour](https://algorithms-tour.stitchfix.com/)   
