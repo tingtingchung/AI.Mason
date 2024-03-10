@@ -68,7 +68,7 @@ Topics are first come first serve and will be listed here as claimed when taken.
 - AI applicaitions in Agriculture  
 - [Nguyen, A. H., Holt, J. P., Knauer, M. T., Abner, V. A., Lobaton, E. J., & Young, S. N. (2023). Towards rapid weight assessment of finishing pigs using a handheld, mobile RGB-D camera. Biosystems Engineering, 226, 155-168.](https://www.sciencedirect.com/science/article/pii/S1537511023000107?dgcid=coauthor)  
 - AI applications in Finance  
-  [Financial Machine Learning by Bryan Kelly & Dacheng Xiu](https://www.clcoding.com/2024/02/financial-machine-learning-foundations.html)  
+  [Financial Machine Learning by Bryan Kelly & Dacheng Xiu](https://bfi.uchicago.edu/wp-content/uploads/2023/07/BFI_WP_2023-100.pdf)  
   [Manuela Veloso, Tucker Balch, Daniel Borrajo, Prashant Reddy, Sameena Shah, Artificial intelligence research in finance: discussion and examples, Oxford Review of Economic Policy, Volume 37, Issue 3, Autumn 2021, Pages 564–584, https://doi.org/10.1093/oxrep/grab019](https://academic.oup.com/oxrep/article-abstract/37/3/564/6374680)  
     [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)  
     [How Northwestern Mutual Embraces AI](https://sloanreview.mit.edu/article/how-northwestern-mutual-embraces-ai/?utm_source=linkedin&utm_medium=social&utm_campaign=sm-direct)  
