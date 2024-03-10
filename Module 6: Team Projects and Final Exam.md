@@ -81,10 +81,10 @@ Topics are first come first serve and will be listed here as claimed when taken.
     [ICAPS Workshop on Planning for Financial Services (FinPlan 2021)](https://icaps21.icaps-conference.org/workshops/FinPlan/)  
     [ICAPS Workshop on Planning for Financial Services (FinPlan 2020)](https://icaps20subpages.icaps-conference.org/workshops/finplan/)  
     [Survey Reveals Financial Industry’s Top 4 AI Priorities for 2023](https://blogs.nvidia.com/blog/2023/02/02/financial-industry-ai-survey/)  
-- AI applications in HR: 
+- AI applications in HR:  
     [Algorithmic Management: The Role of AI in Managing Workforces](https://sloanreview.mit.edu/article/algorithmic-management-the-role-of-ai-in-managing-workforces/)
     [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models by Tyna Eloundou, Sam Manning, Pamela Mishkin, and Daniel Rock](https://arxiv.org/abs/2303.10130)  
-- AI applications in Marketing
+- AI applications in Marketing: Initial AI success all started in Marketing - think Google search, online ads, and Amazon recommendations.  
 - AI applications in Accounting  
     [Schreyer, Marco, Timur Sattarov, Damian Borth, Andreas Dengel, and Bernd Reimer. "Detection of anomalies in large scale accounting data using deep autoencoder networks." arXiv preprint arXiv:1709.05254 (2017).](https://arxiv.org/abs/1709.05254)
     [Schreyer, M., Sattarov, T., & Borth, D. (2022). Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits. ICAIF '22: Proceedings of the Third ACM International Conference on AI in Finance, November 2022, 105–113](https://dl.acm.org/doi/10.1145/3533271.3561674)  
@@ -94,20 +94,17 @@ Topics are first come first serve and will be listed here as claimed when taken.
 - AI applications in E-commerce/Spply Chain/Operations Management (warehouse, inventory, transportation, etc)
   [Data Mining Problems in Retail](https://highlyscalable.wordpress.com/2015/03/10/data-mining-problems-in-retail/)  
 - Recommendation System
-[Case Study: The history of Amazon's recommendation algorithm](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm)    
+  [Case Study: The history of Amazon's recommendation algorithm](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm)    
   [Case Study: How Netflix's Recommendation System Works]  (https://help.netflix.com/en/node/100639#:~:text=We%20estimate%20the%20likelihood%20that,preferences%20on%20our%20service%2C%20and)
   [Case Study: Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
   [Case Study: YouTube's recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)
   [Deep Neural Networks for YouTube Recommendations](https://dl.acm.org/doi/abs/10.1145/2959100.2959190)
   [Kaur, S., Brugere, I., Stefanucci, A., Nourbakhsh, A., Shah, S., & Veloso, M. (2021). Parameterized Explanations for Investor/Company Matching. arXiv preprint arXiv:2111.01911.](https://arxiv.org/abs/2111.01911)  
-
 - AI applications in Manufacturing  
     [Landing.ai](https://landing.ai/)
     [Instrumental](https://instrumental.com/)
 - AI applications in Healthcare  
   [NEJM AI](https://ai.nejm.org/)   
-- Any other topic that interests your team - Get instructor approval first
-
 - AI Bias:
       [Equality of Odds by Amazon Machine Learning University](https://mlu-explain.github.io/equality-of-odds/)  
       [Monk Skin Tone Scale](https://www.skintone.google/)
@@ -116,21 +113,19 @@ Topics are first come first serve and will be listed here as claimed when taken.
       [Fairness Indicators](https://www.tensorflow.org/responsible_ai/fairness_indicators/guide)
       [TF Model Analysis](https://www.tensorflow.org/tfx/model_analysis/install)  
       [What-If Tool](https://pair-code.github.io/what-if-tool/)
-  
 - AI Privacy:
       [TF Privacy](https://www.tensorflow.org/responsible_ai/privacy/guide)
       [TF Privacy Tests](https://blog.tensorflow.org/2020/06/introducing-new-privacy-testing-library.html?_gl=1*1p30nlg*_ga*MTIwMTc0NTIyOS4xNjc1NjIzNDYw*_ga_W0YLR4190T*MTY3OTUxMzk0My43My4xLjE2Nzk1MTQ2NDkuMC4wLjA.)
-  
 - AI Responsibility:
       [AI Explorables](https://pair.withgoogle.com/explorables/)
       [TF Responsible AI](https://www.tensorflow.org/responsible_ai) 
-
 - AI Explanability:
       [Language Interpretability Tool](https://pair-code.github.io/lit/)
       [Explainable AI](https://cloud.google.com/explainable-ai)
       [Model Cards](https://modelcards.withgoogle.com/about)
       [Model Card ToolKit](https://www.tensorflow.org/responsible_ai/model_card_toolkit/guide)  
- 
+ - Any other topic that interests your team - Get instructor approval first
+
 *Optional References*  
 [Center for AI & Digital Policy](https://www.caidp.org/)  
  
