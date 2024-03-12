@@ -22,7 +22,7 @@ Explore the MNIST dataset with [Know Your Data](https://knowyourdata.withgoogle.
 *Optional Fun Stuff*  
 [Natural Language Processing by CrashCourse AI](https://www.pbs.org/video/natural-language-processing-7-eroyod/)  
 
-**Class 7: LSTM & LLM** 
+**Class 7: LSTM & LLM**  
 [M3-5 LSTM](https://www.dropbox.com/scl/fi/oqfg9tax1ydr11oxxl1gp/M3-5-LSTM.pptx?rlkey=g9sqqbaiil7h0m3fdbltsef35&dl=0)  
 [Colab: RNN + LSTM for IMDB sentiment analysis](https://colab.research.google.com/drive/1YSOMgbXHJrOnGS7Vjtob9-etAxHjF_0_?usp=sharing)  
 
