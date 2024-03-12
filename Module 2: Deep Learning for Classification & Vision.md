@@ -17,7 +17,6 @@
 [Keras Convolutional Layers](https://keras.io/api/layers/convolution_layers/)  
 [Keras Pooling Layers](https://keras.io/api/layers/convolution_layers/)  
 
-
 *Optional Fun Stuff*  
 [Training Neural Networks by CrashCourse AI](https://www.pbs.org/video/training-neural-networks-4-mq025r/)  
 [Michael Littman and Charles Isbell's overfitting song](https://www.youtube.com/watch?v=DQWI1kvmwRg&list=PLrpsa0hmc1hxDIJZnB0umnmCvofPGj6IA)  
@@ -56,6 +55,8 @@
 [Chapter 10.4 & 10.5 Recurrent Neural Networks, ISLP](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
 [TF Word Embeddings](https://www.tensorflow.org/text/guide/word_embeddings)  
 [TF Tokenizers](https://www.tensorflow.org/text/guide/tokenizers)  
+[Keras Recurrent Layers](https://keras.io/api/layers/recurrent_layers/)  
+[Keras Preprocessing Layers](https://keras.io/api/layers/preprocessing_layers/)  
 [Sparse Matrix Format in Tensorflow](https://www.tensorflow.org/api_docs/python/tf/sparse/SparseTensor)  
 [Masking & Padding in Keras](https://www.tensorflow.org/guide/keras/masking_and_padding#:~:text=Padding%20is%20a%20special%20form,pad%20or%20truncate%20some%20sequences.)  
 
