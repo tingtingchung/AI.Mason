@@ -57,6 +57,7 @@
 [TF Tokenizers](https://www.tensorflow.org/text/guide/tokenizers)  
 [Keras Recurrent Layers](https://keras.io/api/layers/recurrent_layers/)  
 [Keras Preprocessing Layers](https://keras.io/api/layers/preprocessing_layers/)  
+[Keras TextVectorization Layer](https://keras.io/api/layers/preprocessing_layers/text/text_vectorization/)  
 [Sparse Matrix Format in Tensorflow](https://www.tensorflow.org/api_docs/python/tf/sparse/SparseTensor)  
 [Masking & Padding in Keras](https://www.tensorflow.org/guide/keras/masking_and_padding#:~:text=Padding%20is%20a%20special%20form,pad%20or%20truncate%20some%20sequences.)  
 
