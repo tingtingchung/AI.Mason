@@ -29,7 +29,7 @@ Class ends for both sections
 [M4-2 Vector Similarity](https://www.dropbox.com/scl/fi/ey8ld5oa9y71ge05ut9tq/M4-2-vector-similarity.pptx?rlkey=kh01oofgmqtbssbd34gt797tu&dl=0)  
 [M4-3 Candidate Generation](https://www.dropbox.com/scl/fi/p6ud2kwdeecujzm8tg9t2/M4-3-candidate-generation.pptx?rlkey=6bx5ujtkyl82geraa3yd3n0ur&dl=0)  
 
-**Complete these readings/videos before next class meeting** 
+**Complete these readings/videos before next class meeting**  
 [Reinfrocement Learning by MLU](https://mlu-explain.github.io/reinforcement-learning/)  
 [TF Reinforcement Learning](https://www.tensorflow.org/agents/tutorials/0_intro_rl)  
 [TF Introduction to Multi-Armed Bandits](https://www.tensorflow.org/agents/tutorials/intro_bandit)  
