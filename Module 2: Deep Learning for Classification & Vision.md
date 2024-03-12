@@ -47,7 +47,9 @@
 [M3-6 CNN3C: Putting Everything Together](https://www.dropbox.com/scl/fi/85qk7ooo1fp4vybhpmknc/M3-6-CNN3C-putting-everything-together.pptx?rlkey=ga0uyp2ib4x4ty9j4guiq8voo&dl=0)  
 
 **Complete these readings/videos before next class**  
-[Chapter 10.4 & 10.5 Recurrent Neural Networks, ISLP](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html) 
+[Chapter 10.4 & 10.5 Recurrent Neural Networks, ISLP](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
+[TF Word Embeddings](https://www.tensorflow.org/text/guide/word_embeddings)  
+[TF Tokenizers](https://www.tensorflow.org/text/guide/tokenizers)  
 [Sparse Matrix Format in Tensorflow](https://www.tensorflow.org/api_docs/python/tf/sparse/SparseTensor)  
 [Masking & Padding in Keras](https://www.tensorflow.org/guide/keras/masking_and_padding#:~:text=Padding%20is%20a%20special%20form,pad%20or%20truncate%20some%20sequences.)  
 
