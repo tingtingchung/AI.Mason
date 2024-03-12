@@ -27,11 +27,12 @@ Explore the MNIST dataset with [Know Your Data](https://knowyourdata.withgoogle.
 [Colab: RNN + LSTM for IMDB sentiment analysis](https://colab.research.google.com/drive/1YSOMgbXHJrOnGS7Vjtob9-etAxHjF_0_?usp=sharing)  
 
 **Complete these readings/videos before next class**  
-Chapter 10.6: When to Use Deep Learning
-Chapter 10.7.2: Regularization and Stochastic Gradient Descent (focusing on regularization only—we read SGD previously)
-Chapter 10.7.3: Dropout Learning
-Chapter 10.7.4: Network Tuning
-Chapter 10.8: Interpolation and Double Descent
+[ISLP:](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html) 
+> Chapter 10.6: When to Use Deep Learning
+> Chapter 10.7.2: Regularization and Stochastic Gradient Descent (focusing on regularization only—we read SGD previously)
+> Chapter 10.7.3: Dropout Learning
+> Chapter 10.7.4: Network Tuning
+> Chapter 10.8: Interpolation and Double Descent
 [Godbole, V., Dahl, G. E., Gilmer, J., Shallue, C. J., & Nado, Z. (n.d.) Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)  
 [Keras Tuner](https://www.tensorflow.org/tutorials/keras/keras_tuner)  
 
