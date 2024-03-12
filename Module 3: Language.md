@@ -32,7 +32,8 @@ Explore the MNIST dataset with [Know Your Data](https://knowyourdata.withgoogle.
 > Chapter 10.7.2: Regularization and Stochastic Gradient Descent (focusing on regularization only—we read SGD previously)  
 > Chapter 10.7.3: Dropout Learning  
 > Chapter 10.7.4: Network Tuning  
-> Chapter 10.8: Interpolation and Double Descent  
+> Chapter 10.8: Interpolation and Double Descent
+
 [Godbole, V., Dahl, G. E., Gilmer, J., Shallue, C. J., & Nado, Z. (n.d.) Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)  
 [Keras Tuner](https://www.tensorflow.org/tutorials/keras/keras_tuner)  
 Wilber, J., & Werness, B. (2021, January). [The bias variance tradeoff](https://mlu-explain.github.io/bias-variance/). MLU-Explain.  
