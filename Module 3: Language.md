@@ -26,5 +26,9 @@ Explore the MNIST dataset with [Know Your Data](https://knowyourdata.withgoogle.
 [M3-5 LSTM](https://www.dropbox.com/scl/fi/oqfg9tax1ydr11oxxl1gp/M3-5-LSTM.pptx?rlkey=g9sqqbaiil7h0m3fdbltsef35&dl=0)  
 [Colab: RNN + LSTM for IMDB sentiment analysis](https://colab.research.google.com/drive/1YSOMgbXHJrOnGS7Vjtob9-etAxHjF_0_?usp=sharing)  
 
+**Complete these readings/videos before next class**  
+[Godbole, V., Dahl, G. E., Gilmer, J., Shallue, C. J., & Nado, Z. (n.d.) Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)  
+[Keras Tuner](https://www.tensorflow.org/tutorials/keras/keras_tuner)  
+
 *Optional References*  
 In May 2023, a William & Mary MSBA student team won first place in the CSBS Data Analytics Competition with an LSTM model under Dr. Chung's supervision! Their competition paper is available to read online [here](https://www.csbs.org/data-analytics-competition)  
