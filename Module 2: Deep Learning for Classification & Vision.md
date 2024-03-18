@@ -35,6 +35,9 @@
 [M3-2 CNN1: Xs](https://www.dropbox.com/scl/fi/bueecft6bfhhcy45kpgzx/M3-2-CNN1-Xs.pptx?rlkey=s6axruxee5priz7zcrvjn7wec&dl=0)  
 [M3-3 CNN2: Y](https://www.dropbox.com/scl/fi/hoyes1kx6rp07cj41i0n7/M3-3-CNN2-Y.pptx?rlkey=xuo9v6m9dgq9t1znv6wbaxu2q&dl=0)  
 
+[Colab: Featuring Images Digitally](https://colab.research.google.com/drive/1pCNbMNdl1ph6FieYeGGsvXDRYzIPxaxB?usp=sharing)  
+[Colab: MNIST with Dense Layers](https://colab.research.google.com/drive/1UpkFhSpWIBNahzRro5aHdZCTZ32mEfl8?usp=sharing)  
+
 **Complete these readings/videos before next class**  
 [Explore image datasets with Know your Data from Google](https://knowyourdata.withgoogle.com/)  
 [Preprocessing Data with Scikit Learn](https://scikit-learn.org/stable/modules/preprocessing.html)  
@@ -49,8 +52,10 @@
 **Class 5: Vision**  
 [M3-4 CNN3A: Convolution](https://www.dropbox.com/scl/fi/n7t8fi27nu3tadcn0i0wj/M3-4-CNN3A-conv.pptx?rlkey=eazdb831tp0w4umi40sl28rku&dl=0)  
 [M3-5 CNN3B: Pooling](https://www.dropbox.com/scl/fi/xnj81rtqx1bp0r0ie3eup/M3-5-CNN3B-pooling.pptx?rlkey=dyb24vnsgtqxs54p6r5b36y5b&dl=0)  
-[M3-6 CNN3C: Putting Everything Together](https://www.dropbox.com/scl/fi/85qk7ooo1fp4vybhpmknc/M3-6-CNN3C-putting-everything-together.pptx?rlkey=ga0uyp2ib4x4ty9j4guiq8voo&dl=0)  
+[M3-6 CNN3C: Putting Everything Together](https://www.dropbox.com/scl/fi/85qk7ooo1fp4vybhpmknc/M3-6-CNN3C-putting-everything-together.pptx?rlkey=ga0uyp2ib4x4ty9j4guiq8voo&dl=0)   
 [Andrew Ng on how AI can power any business](https://www.ted.com/talks/andrew_ng_how_ai_could_empower_any_business?language=en)  
+
+[Colab: MNIST with CNN](https://colab.research.google.com/drive/15Udjs_HjIopW0R18f9lzznXnk63tzeX8) 
 
 **Complete these readings/videos before next class**  
 [Chapter 10.4 & 10.5 Recurrent Neural Networks, ISLP](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
