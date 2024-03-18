@@ -25,7 +25,7 @@
 [Linear Algebra by TensorFlow](https://youtu.be/LlKAna21fLE)  
 [Python & NumPy for Deep Learning by DeepMind](https://colab.research.google.com/github/deepmind/educational/blob/master/colabs/summer_schools/intro_to_python_numpy_for_deep_learning.ipynb)  
 [10 minutes to pandas](https://pandas.pydata.org/docs/user_guide/10min.html)  
-For an excellent refresher of regression, review Chapter 3 of [ML1 + ML2 textbook](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
+For an excellent refresher of regression, review Chapter 3 of [ISLP](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
 [Tensorflow2 quickstart for beginners](https://www.tensorflow.org/tutorials/quickstart/beginner)  
 
 *Optional References*  
