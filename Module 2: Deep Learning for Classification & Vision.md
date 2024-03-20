@@ -31,6 +31,7 @@
 **Class 4: Vision**  
 [Fei-Fei Li's TED Talk: How we teach computers to understand pictures](https://youtu.be/40riCqvRoMs)  
 [Yann Lecun's CNN demo from 1989](https://www.youtube.com/watch?v=FwFduRA_L6Q)  
+[2018 ACM Turing Award for Bengio, Lecun & Hinton](https://www.youtube.com/watch?v=HzilDIhWhrE)  
 [Dr. Chung's TF Keras CNN Model Template](https://docs.google.com/document/d/1gw1SanV6caqE4-iZAn3TO3tZ4poCYL3yvPZbidMqCxw/edit?usp=sharing)  
 [M3-1 Representing Images Digitally](https://www.dropbox.com/scl/fi/w3u3mwvhk0y4u939zdgrr/M3-1-representing-images-digitally.pptx?rlkey=tewbfa6pvk6einac6qq5ushmj&dl=0)  
 [M3-2 CNN1: Xs](https://www.dropbox.com/scl/fi/bueecft6bfhhcy45kpgzx/M3-2-CNN1-Xs.pptx?rlkey=s6axruxee5priz7zcrvjn7wec&dl=0)  
