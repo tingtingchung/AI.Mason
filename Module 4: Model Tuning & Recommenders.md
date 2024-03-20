@@ -1,7 +1,9 @@
 **Module 4: Model Tuning & Recommenders**  
 
 **Class 8: Model Tuning**  
-Each team gives a 5-minute presention on an assigned section of [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)  
+Each team gives a 5-minute presention on an assigned section of [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook) or ISLP Chapter 10  
+[Section 1 Presentation Slidedeck](https://docs.google.com/presentation/d/1DAmNFyZ7ziWouuuOI78TOhNqbMiv_vhvCB7xNfLnzho/edit#slide=id.g25d859ad28c_0_99)  
+[Section 2 Presentation Slidedeck](https://docs.google.com/presentation/d/1F-WdhWQLmLSCG0hH-JhvftF6R5MJi19KKi3f88NbsKY/edit#slide=id.g2c49a5fe2c4_0_55)  
 
 **Class 9: Mid-term Exam & Guest Speaker**  
 8:30-10:20am: Mid-term Exam in Brinkley (both sections)  
