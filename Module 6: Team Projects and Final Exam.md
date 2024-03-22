@@ -41,14 +41,14 @@ Team 8:
 Team 9:  
 Team 10:  
 **[Section 2 Schedule: TBD]**  
-Team 11:
-Team 12: 
-Team 13:
-Team 14:
-Team 15:
-Team 16: AI Applications in Finance
-Team 17:
-Team 18: Synthetic Data
+Team 11:  
+Team 12:  
+Team 13:  
+Team 14:  
+Team 15:  
+Team 16: AI Applications in Finance  
+Team 17:  
+Team 18: Synthetic Data  
 
 **Potential Case Study Topics (to be updated over the semester - you are welcome to suggest topics)**  
 Teams within the same section must choose unique topics (No two teams within the same section can have the same topic.)  
