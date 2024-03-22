@@ -30,14 +30,23 @@ The presentation should include
 [The state of AI in 2022 - and a half decade in review by McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2022-and-a-half-decade-in-review)  
 
 **[Section 1 Schedule: TBD]**  
-  
+Team 1:  
+Team 2:  
+Team 3:  
+Team 4:  
+Team 5:  
+Team 6:  
+Team 7:  
+Team 8:  
+Team 9:  
+Team 10:  
 **[Section 2 Schedule: TBD]**  
 Team 11:
 Team 12: 
 Team 13:
 Team 14:
 Team 15:
-Team 16:
+Team 16: AI Applications in Finance
 Team 17:
 Team 18: Synthetic Data
 
