@@ -6,6 +6,7 @@
 [M2-3 Activation Functions](https://www.dropbox.com/scl/fi/b8uzwf5uvdgrnrhldeh0j/M2-3-activation-functions.pptx?rlkey=ma5lztjv8mknzqrt66xr3n3wm&dl=0)  
 [M2-4 Keras Model Compilation](https://www.dropbox.com/scl/fi/g0gwzqubs4mvn44ox68oe/M2-4-keras-model-compilation.pptx?rlkey=hx3o9fopm1uamzf93kso3zvjt&dl=0)  
 [M2-5 Keras Model Loss & Metrics](https://www.dropbox.com/scl/fi/wmaxv99ypylde1s24eu8u/M2-5-keras-model-loss-and-metrics.pptx?rlkey=ruxf7tywqy0nh60zsish9o221&dl=0)  
+
 [Colab: to_categorical() vs. get_dummies()](https://colab.research.google.com/drive/1-_2u9jQ4d-yL1QVu4oH4UVRjZW11ZxZe)  
 [Colab: Deep Learning Classifier with Tensorflow](https://colab.research.google.com/drive/1szq7Vy4ZsUBNzR398lkLbAQKm3LRfqoS)   
 
@@ -37,7 +38,7 @@
 [M3-2 CNN1: Xs](https://www.dropbox.com/scl/fi/bueecft6bfhhcy45kpgzx/M3-2-CNN1-Xs.pptx?rlkey=s6axruxee5priz7zcrvjn7wec&dl=0)  
 [M3-3 CNN2: Y](https://www.dropbox.com/scl/fi/hoyes1kx6rp07cj41i0n7/M3-3-CNN2-Y.pptx?rlkey=xuo9v6m9dgq9t1znv6wbaxu2q&dl=0)  
 
-[Colab: Featuring Images Digitally](https://colab.research.google.com/drive/1pCNbMNdl1ph6FieYeGGsvXDRYzIPxaxB?usp=sharing)  
+[Colab: Featurizing Images Digitally](https://colab.research.google.com/drive/1pCNbMNdl1ph6FieYeGGsvXDRYzIPxaxB?usp=sharing)  
 [Colab: MNIST with Dense Layers](https://colab.research.google.com/drive/1UpkFhSpWIBNahzRro5aHdZCTZ32mEfl8?usp=sharing)  
 
 **Complete these readings/videos before next class**  
