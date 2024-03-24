@@ -8,7 +8,6 @@
 [Dr. Chung's TF Keras RNN Model Template](https://docs.google.com/document/d/1uPGD60oGgf40YOzyid0SfaTYNBtkSRlGvhud8ALB6tA/edit?usp=sharing)  
 
 **Complete these readings/videos before next class**  
-Explore the MNIST dataset with [Know Your Data](https://knowyourdata.withgoogle.com/) from Google.  
 [Keras LSTM Layer](https://keras.io/api/layers/recurrent_layers/lstm/)  
 [How AI Works by Nir Zicherman](https://every.to/p/how-ai-works?fbclid=IwAR2KWfiKq627x9SxpTpZojaxHSjaA0zcEELySUyEGhD7jbWzcS3vFNyJ4OI)  
 
