@@ -11,6 +11,12 @@ Each team gives a 5-minute presention on an assigned section of [Deep Learning T
 11:30am Pizza!
 Class ends for both sections  
 
+**Guest Speaker Research Presentation for BUAD5742: Artificial Intelligence (MSBA)**  
+**Title: Visual Perspectives on Financial Time Series**  
+**Location: on Zoom in Brinkley, Miller Hall, Mason School of Business, William & Mary**  
+**Speaker: Dr. Zhen Zeng**  
+Dr. Zeng is an AI Research Lead on the AI Research team at J.P. Morgan. Her research interests are novel representations of financial data, computer vision, robotics and LLMs. Her work at J.P. Morgan features time series analysis and prediction with visual representations, and enabling LLM agents for real-world tasks. Before joining J.P. Morgan, she worked in robotics and enabling agents to perceive, understand and make decisions in the physical world through probabilistic modeling and machine learning. She received a Ph.D. in Electrical and Computer Engineering from the University of Michigan. She has won best paper awards in Cognitive Robotics at IEEE International Conference on Robotics and Automation (ICRA) 2020, and Mobile Manipulation in International Conference on Intelligent Robots and Systems (IROS) 2021.
+
 **Complete these readings/videos before next class meeting**  
 [Recommendation Systems, Google's Advanced Course on Machine Learning](https://developers.google.com/machine-learning/recommendation)  
 [Collaborative filtering](https://developers.google.com/machine-learning/crash-course/embeddings/motivation-from-collaborative-filtering)
