@@ -31,7 +31,7 @@ The presentation should include
 
 **[Section 1 Schedule: TBD]**  
 Team 1:  
-Team 2:  
+Team 2: AI Bias
 Team 3:  
 Team 4:  
 Team 5:  
