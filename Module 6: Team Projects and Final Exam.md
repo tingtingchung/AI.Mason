@@ -43,9 +43,9 @@ Team 10:
 **[Section 2 Schedule: TBD]**  
 Team 11:  
 Team 12:  
-Team 13:  
+Team 13: AI Applications in Healthcare
 Team 14:  
-Team 15:  
+Team 15: Recommendation Systems
 Team 16: AI Applications in Finance  
 Team 17:  
 Team 18: Synthetic Data  
