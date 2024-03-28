@@ -34,17 +34,17 @@ Team 1:
 Team 2: AI Bias
 Team 3:  
 Team 4:  
-Team 5:  
+Team 5: AI in supply chain/e-commerce: Stitch Fix Algorithm Tour  
 Team 6:  
 Team 7:  
-Team 8:  
+Team 8: Synthetic Data 
 Team 9:  
-Team 10:  
+Team 10: Recommendation Systems  
 **[Section 2 Schedule: TBD]**  
 Team 11:  
 Team 12:  
 Team 13: AI Applications in Healthcare
-Team 14:  
+Team 14: AI Applications in Agriculture    
 Team 15: Recommendation Systems
 Team 16: AI Applications in Finance  
 Team 17:  
