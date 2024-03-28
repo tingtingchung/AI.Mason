@@ -30,7 +30,7 @@ The presentation should include
 [The state of AI in 2022 - and a half decade in review by McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2022-and-a-half-decade-in-review)  
 
 **[Section 1 Schedule: TBD]**  
-Team 1:  
+Team 1: AI Applications in Healthcare   
 Team 2: AI Bias
 Team 3:  
 Team 4:  
