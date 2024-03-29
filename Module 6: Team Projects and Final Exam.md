@@ -32,14 +32,15 @@ The presentation should include
 **[Section 1 Schedule: TBD]**  
 Team 1: AI Applications in Healthcare   
 Team 2: AI Bias
-Team 3:  
-Team 4:  
-Team 5: AI in supply chain/e-commerce: Stitch Fix Algorithm Tour  
+Team 3: AI Applications in Agriculture  
+Team 4: AI Applications in Manufacturing 
+Team 5: AI in Supply Chain/E-commerce: Stitch Fix Algorithm Tour  
 Team 6:  
 Team 7:  
 Team 8: Synthetic Data 
 Team 9:  
 Team 10: Recommendation Systems  
+
 **[Section 2 Schedule: TBD]**  
 Team 11:  
 Team 12:  
