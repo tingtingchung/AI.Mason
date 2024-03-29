@@ -80,7 +80,10 @@ Topics are first come first serve and will be listed here as claimed when taken.
 - AI applications in Finance  
   [Financial Machine Learning by Bryan Kelly & Dacheng Xiu](https://bfi.uchicago.edu/wp-content/uploads/2023/07/BFI_WP_2023-100.pdf)  
   [Manuela Veloso, Tucker Balch, Daniel Borrajo, Prashant Reddy, Sameena Shah, Artificial intelligence research in finance: discussion and examples, Oxford Review of Economic Policy, Volume 37, Issue 3, Autumn 2021, Pages 564–584, https://doi.org/10.1093/oxrep/grab019](https://academic.oup.com/oxrep/article-abstract/37/3/564/6374680)  
-    [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)  
+    [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
+    [Jiexin Zheng, Ka Chung Ng, Rong Zheng & Kar Yan Tam (2024) The Effects of
+Sentiment Evolution in Financial Texts: A Word Embedding Approach, Journal of Management
+Information Systems, 41:1, 178-205, DOI: 10.1080/07421222.2023.2301176](https://www.tandfonline.com/doi/pdf/10.1080/07421222.2023.2301176?casa_token=n0X-Xw67S0wAAAAA:TwCiDrHsQ04MFcLLVFUOYWKA4exm0_zzdov1lichQjc_H3At4xs2vfeKFiOTIhBJ6VUICvExDwmjRQ)  
     [How Northwestern Mutual Embraces AI](https://sloanreview.mit.edu/article/how-northwestern-mutual-embraces-ai/?utm_source=linkedin&utm_medium=social&utm_campaign=sm-direct)  
     [ICAIF conference proceedings](https://dl.acm.org/conference/icaif)  
     [Manuela Veloso's research](http://www.cs.cmu.edu/~mmv/Veloso.html)  
