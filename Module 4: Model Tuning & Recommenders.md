@@ -5,6 +5,12 @@ Each team gives a 5-minute presention on an assigned section of [Deep Learning T
 [Section 1 Presentation Slidedeck](https://docs.google.com/presentation/d/1DAmNFyZ7ziWouuuOI78TOhNqbMiv_vhvCB7xNfLnzho/edit#slide=id.g25d859ad28c_0_99)  
 [Section 2 Presentation Slidedeck](https://docs.google.com/presentation/d/1F-WdhWQLmLSCG0hH-JhvftF6R5MJi19KKi3f88NbsKY/edit#slide=id.g2c49a5fe2c4_0_55)  
 
+[Midterm Review](https://www.dropbox.com/scl/fi/aeueyhcpxv6yriej3javo/M4-AI-Midterm-Review.pptx?rlkey=y7vcco7hobmd2ytqrtgu83xid&dl=0)  
+[Python Functions](https://www.dropbox.com/scl/fi/x612ydq2eenookvksr7fc/buad5802-m1-review-python-functions-slides.pptx?rlkey=ekmmcqced84nueupsdy0whtk3&dl=0)  
+[Colab: Python Functions](https://colab.research.google.com/drive/1sTsh0ICGwa_sku9oCR8v3MnK0IqYauMn)  
+[Class Inheritance](https://www.dropbox.com/scl/fi/tvowo0e8t7qss5zd6uotz/buad5802-m1-review-class-inheritance-slides.pptx?rlkey=9w3jvxox6e14xsf8sgw8a7b8r&dl=0)  
+[Colab: Class Inheritance](https://colab.research.google.com/drive/1I02aNJpyjd-yoI2JHUsdNlZg13LnYqEf)  
+
 **Class 9: Mid-term Exam & Guest Speaker**  
 8:30-10:20am: Mid-term Exam in Brinkley (both sections)  
 10:30-11:20am Guest Speaker [Zhen Zeng](https://www.linkedin.com/in/zhenzengzz/) on Zoom in Brinkley (both sections)  
