@@ -33,8 +33,8 @@ The presentation should include
 Team 1: AI Applications in Healthcare   
 Team 2: AI Bias
 Team 3: AI Applications in Agriculture  
-Team 4: AI Applications in Manufacturing 
-Team 5: AI in Supply Chain/E-commerce: Stitch Fix Algorithm Tour  
+Team 4: AI Applications in Manufacturing  
+Team 5: AI in Supply Chain/E-commerce: Stitch Fix Algorithm Tour   
 Team 6:  
 Team 7:  
 Team 8: Synthetic Data 
@@ -43,12 +43,12 @@ Team 10: Recommendation Systems
 
 **[Section 2 Schedule: TBD]**  
 Team 11:  
-Team 12:  
+Team 12: Reinforcement Learning   
 Team 13: AI Applications in Healthcare
 Team 14: AI Applications in Agriculture    
 Team 15: Recommendation Systems
 Team 16: AI Applications in Finance  
-Team 17:  
+Team 17: AI Bias  
 Team 18: Synthetic Data  
 
 **Potential Case Study Topics (to be updated over the semester - you are welcome to suggest topics)**  
