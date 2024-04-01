@@ -25,7 +25,7 @@ Dr. Zeng is an AI Research Lead on the AI Research team at J.P. Morgan. Her rese
 
 **Complete these readings/videos before next class meeting**  
 [Recommendation Systems, Google's Advanced Course on Machine Learning](https://developers.google.com/machine-learning/recommendation)  
-[Collaborative filtering](https://developers.google.com/machine-learning/crash-course/embeddings/motivation-from-collaborative-filtering)
+[Collaborative filtering](https://developers.google.com/machine-learning/crash-course/embeddings/motivation-from-collaborative-filtering)  
 [Recommenders Tutorial by Tensorflow](https://www.tensorflow.org/recommenders/examples/basic_retrieval)  
 
 *Optional References*  
