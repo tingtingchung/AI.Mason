@@ -42,7 +42,7 @@ Team 9:
 Team 10: Recommendation Systems  
 
 **[Section 2 Schedule: TBD]**  
-Team 11:  
+Team 11: AI Applications in Marketing 
 Team 12: Reinforcement Learning   
 Team 13: AI Applications in Healthcare
 Team 14: AI Applications in Agriculture    
