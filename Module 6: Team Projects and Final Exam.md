@@ -38,8 +38,7 @@ Team 5: AI in Supply Chain/E-commerce: Stitch Fix Algorithm Tour
 Team 6:  
 Team 7: AI Applications in Marketing   
 Team 8: Synthetic Data 
-Team 9: [AI Applications in Debugging Code](https://arxiv.org/abs/2403.16354 
-https://www.eejournal.com/article/using-generative-ai-for-refactoring-and-debugging-code-cut-debugging-time-in-half/)  
+Team 9: [AI Applications in Debugging Code](https://arxiv.org/abs/2403.16354)  
 Team 10: Recommendation Systems  
 
 **[Section 2 Schedule: TBD]**  
