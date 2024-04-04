@@ -114,29 +114,30 @@ Information Systems, 41:1, 178-205, DOI: 10.1080/07421222.2023.2301176](https://
   [Deep Neural Networks for YouTube Recommendations](https://dl.acm.org/doi/abs/10.1145/2959100.2959190)
   [Kaur, S., Brugere, I., Stefanucci, A., Nourbakhsh, A., Shah, S., & Veloso, M. (2021). Parameterized Explanations for Investor/Company Matching. arXiv preprint arXiv:2111.01911.](https://arxiv.org/abs/2111.01911)  
 - AI applications in Manufacturing  
-    [Landing.ai](https://landing.ai/)
-    [Instrumental](https://instrumental.com/)
+  [Landing.ai](https://landing.ai/)
+  [Instrumental](https://instrumental.com/)
 - AI applications in Healthcare  
   [NEJM AI](https://ai.nejm.org/)   
 - AI Bias:
-      [Equality of Odds by Amazon Machine Learning University](https://mlu-explain.github.io/equality-of-odds/)  
-      [Monk Skin Tone Scale](https://www.skintone.google/)
-      [TF Data Validation](https://www.tensorflow.org/tfx/guide/tfdv)
-      [TF Model Remediation](https://www.tensorflow.org/responsible_ai/model_remediation)
-      [Fairness Indicators](https://www.tensorflow.org/responsible_ai/fairness_indicators/guide)
-      [TF Model Analysis](https://www.tensorflow.org/tfx/model_analysis/install)  
-      [What-If Tool](https://pair-code.github.io/what-if-tool/)
+  [Christian, Brian. The Alignment Problem : Machine Learning and Human Values. New York, NY: W.W. Norton & Company, 2021](https://wm.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991033803050803196&context=L&vid=01COWM_INST:01COWM_WM_NEWUI&lang=en&search_scope=WMCWF&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,the%20alignment%20problem)  
+  [Equality of Odds by Amazon Machine Learning University](https://mlu-explain.github.io/equality-of-odds/)  
+  [Monk Skin Tone Scale](https://www.skintone.google/)
+  [TF Data Validation](https://www.tensorflow.org/tfx/guide/tfdv)
+  [TF Model Remediation](https://www.tensorflow.org/responsible_ai/model_remediation)
+  [Fairness Indicators](https://www.tensorflow.org/responsible_ai/fairness_indicators/guide)
+  [TF Model Analysis](https://www.tensorflow.org/tfx/model_analysis/install)  
+  [What-If Tool](https://pair-code.github.io/what-if-tool/)
 - AI Privacy:
-      [TF Privacy](https://www.tensorflow.org/responsible_ai/privacy/guide)
-      [TF Privacy Tests](https://blog.tensorflow.org/2020/06/introducing-new-privacy-testing-library.html?_gl=1*1p30nlg*_ga*MTIwMTc0NTIyOS4xNjc1NjIzNDYw*_ga_W0YLR4190T*MTY3OTUxMzk0My43My4xLjE2Nzk1MTQ2NDkuMC4wLjA.)
+  [TF Privacy](https://www.tensorflow.org/responsible_ai/privacy/guide)
+  [TF Privacy Tests](https://blog.tensorflow.org/2020/06/introducing-new-privacy-testing-library.html?_gl=1*1p30nlg*_ga*MTIwMTc0NTIyOS4xNjc1NjIzNDYw*_ga_W0YLR4190T*MTY3OTUxMzk0My43My4xLjE2Nzk1MTQ2NDkuMC4wLjA.)
 - AI Responsibility:
-      [AI Explorables](https://pair.withgoogle.com/explorables/)
-      [TF Responsible AI](https://www.tensorflow.org/responsible_ai) 
+  [AI Explorables](https://pair.withgoogle.com/explorables/)
+  [TF Responsible AI](https://www.tensorflow.org/responsible_ai) 
 - AI Explanability:
-      [Language Interpretability Tool](https://pair-code.github.io/lit/)
-      [Explainable AI](https://cloud.google.com/explainable-ai)
-      [Model Cards](https://modelcards.withgoogle.com/about)
-      [Model Card ToolKit](https://www.tensorflow.org/responsible_ai/model_card_toolkit/guide)  
+  [Language Interpretability Tool](https://pair-code.github.io/lit/)
+  [Explainable AI](https://cloud.google.com/explainable-ai)
+  [Model Cards](https://modelcards.withgoogle.com/about)
+  [Model Card ToolKit](https://www.tensorflow.org/responsible_ai/model_card_toolkit/guide)  
  - Any other topic that interests your team - Get instructor approval first
 
 *Optional References*  
