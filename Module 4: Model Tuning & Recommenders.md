@@ -42,7 +42,7 @@ Dr. Zeng is an AI Research Lead on the AI Research team at J.P. Morgan. Her rese
 [M4-1 Recommenders](https://www.dropbox.com/scl/fi/a49gmyg76j4tzsqlyljq8/M4-1-recommenders.pptx?rlkey=xsxk1jao1cooqo3al3lkydbef&dl=0)  
 [M4-2 Vector Similarity](https://www.dropbox.com/scl/fi/ey8ld5oa9y71ge05ut9tq/M4-2-vector-similarity.pptx?rlkey=kh01oofgmqtbssbd34gt797tu&dl=0)  
 [Colab: Vector Similarity](https://colab.research.google.com/drive/179fmYlLamCNObi5hqgRpGgecq-INL2to)  
-[M4-3 Candidate Generation](https://www.dropbox.com/scl/fi/p6ud2kwdeecujzm8tg9t2/M4-3-candidate-generation.pptx?rlkey=6bx5ujtkyl82geraa3yd3n0ur&dl=0) 
+[M4-3 Candidate Generation](https://www.dropbox.com/scl/fi/p6ud2kwdeecujzm8tg9t2/M4-3-candidate-generation.pptx?rlkey=6bx5ujtkyl82geraa3yd3n0ur&dl=0)  
 [Colab: TRFS Recommenders](https://colab.research.google.com/drive/1cshSnohShWywOsKYfUYCFo5U4u2P8f_P?usp=sharing)  
 
 **Complete these readings/videos before next class meeting**  
