@@ -1,6 +1,7 @@
 **Class 11: Reinforcement Learning**  
 [RoboCup](https://www.robocup.org/a_brief_history_of_robocup)  
 [Manuela Veloso & RoboCup](https://www.youtube.com/watch?v=tAd1IeovyY8)  
+[Google DeepMind: Ground-breaking AlphaGo masters the game of Go](https://www.youtube.com/watch?v=SUbqykXVx0A)  
 [M5-1 RL Intro](https://www.dropbox.com/scl/fi/pbxmgn7a4wvvkiysy6atj/M5-1-RL-intro-slides.pptx?rlkey=s7wwc17scgt4sm9gwtqd8kxvz&dl=0)  
 [M5-2 RL Key Concepts](https://www.dropbox.com/scl/fi/ydyp139jeuy7p728r4vmg/M5-2-RL-key-concepts.pptx?rlkey=txrz6uft2sgwom07ag5njekkn&dl=0)  
 [M5-3 Q-Learning](https://www.dropbox.com/scl/fi/tgxt8bnkq1v9xjhqs09hc/M5-3-Q-Learning.pptx?rlkey=w153s1528pzexstj7b0tfwjf0&dl=0)  
