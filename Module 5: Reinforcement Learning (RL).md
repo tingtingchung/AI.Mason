@@ -6,10 +6,11 @@
 [M5-1 RL Intro](https://www.dropbox.com/scl/fi/pbxmgn7a4wvvkiysy6atj/M5-1-RL-intro-slides.pptx?rlkey=s7wwc17scgt4sm9gwtqd8kxvz&dl=0)  
 [M5-2 RL Key Concepts](https://www.dropbox.com/scl/fi/ydyp139jeuy7p728r4vmg/M5-2-RL-key-concepts.pptx?rlkey=txrz6uft2sgwom07ag5njekkn&dl=0)  
 [M5-3 Q-Learning](https://www.dropbox.com/scl/fi/tgxt8bnkq1v9xjhqs09hc/M5-3-Q-Learning.pptx?rlkey=w153s1528pzexstj7b0tfwjf0&dl=0)  
-[M5-4 Multi-Armed Bandit](https://www.dropbox.com/scl/fi/k1a3cb07vz8l0ayhtybje/M5-4-multi-armed-bandit.pptx?rlkey=jdvypkrqeq0q44t6f5l71cyv9&dl=0)  
 
 **Complete this reading before next class meeting**  
-[
+[Bugbee, E., Kamat, A., & Wilber, J. (n.d.).](https://mlu-explain.github.io/reinforcement-learning/)  
+[Introduction to RL and Deep Q Networks by Tensorflow](https://www.tensorflow.org/agents/tutorials/0_intro_rl)  
+[Introduction to Multi-Armed Bandits by Tensorflow](https://www.tensorflow.org/agents/tutorials/intro_bandit)  
 *Optional References*
 [OpenAI Gym](https://openai.com/blog/openai-gym-beta/)
 [Sutton, Richard S. and Barto, Andrew G., Reinforcement Learning: An Introduction, MIT Press, 1998](http://www.incompleteideas.net/book/the-book-2nd.html)  
@@ -23,3 +24,5 @@
 [Reinforcement Learning (sponsored by PBS)](https://www.youtube.com/watch?v=nIgIv4IfJ6s&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=10)  
 
 **Class 12: Reinforcement Learning**  
+[M5-4 Multi-Armed Bandit](https://www.dropbox.com/scl/fi/k1a3cb07vz8l0ayhtybje/M5-4-multi-armed-bandit.pptx?rlkey=jdvypkrqeq0q44t6f5l71cyv9&dl=0)  
+[Colab: Multi-Armed Bamdit](https://colab.research.google.com/drive/1BH2b_rMNcMH-4jalYrvkYBF3-SQMo3LQ?usp=sharing#scrollTo=u69R0qx0Xxnp)  
