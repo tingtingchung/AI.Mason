@@ -8,7 +8,7 @@
 [M5-3 Q-Learning](https://www.dropbox.com/scl/fi/tgxt8bnkq1v9xjhqs09hc/M5-3-Q-Learning.pptx?rlkey=w153s1528pzexstj7b0tfwjf0&dl=0)  
 
 **Complete this reading before next class meeting**  
-[Bugbee, E., Kamat, A., & Wilber, J. (n.d.).](https://mlu-explain.github.io/reinforcement-learning/)  
+[Bugbee, E., Kamat, A., & Wilber, J. (n.d.). Reinforcement learning: A gentle introduction to learning from decisions, MLU-Explain.](https://mlu-explain.github.io/reinforcement-learning/)  
 [Introduction to RL and Deep Q Networks by Tensorflow](https://www.tensorflow.org/agents/tutorials/0_intro_rl)  
 [Introduction to Multi-Armed Bandits by Tensorflow](https://www.tensorflow.org/agents/tutorials/intro_bandit)  
 *Optional References*
