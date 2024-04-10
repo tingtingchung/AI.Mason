@@ -9,10 +9,11 @@
 
 **Complete this reading before next class meeting**  
 [Bugbee, E., Kamat, A., & Wilber, J. (n.d.). Reinforcement learning: A gentle introduction to learning from decisions, MLU-Explain.](https://mlu-explain.github.io/reinforcement-learning/)  
+[Amadio, B. 2020 Multi-Armed Bandits and the Stitch Fix Experimentation Platform](https://multithreaded.stitchfix.com/blog/2020/08/05/bandits/)  
 [Introduction to RL and Deep Q Networks by Tensorflow](https://www.tensorflow.org/agents/tutorials/0_intro_rl)  
 [Introduction to Multi-Armed Bandits by Tensorflow](https://www.tensorflow.org/agents/tutorials/intro_bandit)  
 
-*Optional References*
+*Optional References*  
 [OpenAI Gym](https://openai.com/blog/openai-gym-beta/)
 [Sutton, Richard S. and Barto, Andrew G., Reinforcement Learning: An Introduction, MIT Press, 1998](http://www.incompleteideas.net/book/the-book-2nd.html)  
 [Introduction to Reinforcement Learning by David Silver, DeepMind](https://www.deepmind.com/learning-resources/introduction-to-reinforcement-learning-with-david-silver)  
@@ -24,6 +25,7 @@
 *Optional Fun Stuff*  
 [Reinforcement Learning (sponsored by PBS)](https://www.youtube.com/watch?v=nIgIv4IfJ6s&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=10)  
 [We Need to Talk about AI.](https://www.imdb.com/title/tt7658158/?ref_=nm_flmg_slf_2)  
+
 **Class 12: Reinforcement Learning**  
 [M5-4 Multi-Armed Bandit](https://www.dropbox.com/scl/fi/k1a3cb07vz8l0ayhtybje/M5-4-multi-armed-bandit.pptx?rlkey=jdvypkrqeq0q44t6f5l71cyv9&dl=0)  
 [Colab: Multi-Armed Bamdit](https://colab.research.google.com/drive/1BH2b_rMNcMH-4jalYrvkYBF3-SQMo3LQ?usp=sharing#scrollTo=u69R0qx0Xxnp)  
