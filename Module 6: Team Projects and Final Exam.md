@@ -16,7 +16,7 @@ The presentation should include
 
 **Grading Rubric (more details available in Blackboard assignment)**  
 **1. Problem Statement (15%):** Clear, concise, accurate and focused statement of the problem being solved.  
-**2. Research Paper Discussion (30%):** Clear, accurate and thoughtful critiques of relevant high-quality paper(s) that focus on key concepts, strengths or weaknesses.   
+**2. Research Paper Discussion (30%):** Clear, accurate and thoughtful critiques of relevant high-quality technical paper(s) (not just case studies) that focus on key concepts, strengths or weaknesses.   
 **3. Technical Demo (35%):** Thoughtful and comprehensive solution that addresses the problem statement in a logical manner and issues identified in the critiques. Proper data processing and exploration and clear rationale for algorithm choices.  
 **4. Ethical Discussion (5%):** Focused and thoughtful exploration of key ethical issues in your chosen topic.
 **5. Presentation (10%):** Clear, well rehearsed, concise, and engaging presentation with laser focus on key topics, key issues and key elements of the solution. Free of errors. Think about how to make your presentation interesting: [Why lectures are like blind dates by Nicolas Coles](https://www.nature.com/articles/d41586-022-01798-6)   
