@@ -46,7 +46,7 @@ Team 11: AI Applications in Marketing
 Team 12: Reinforcement Learning   
 Team 13: AI Applications in Healthcare
 Team 14: AI Applications in Agriculture    
-Team 15: Recommendation Systems
+Team 15: Recommendation Systems  
 Team 16: AI Applications in Finance  
 Team 17: AI Bias  
 Team 18: Synthetic Data  
