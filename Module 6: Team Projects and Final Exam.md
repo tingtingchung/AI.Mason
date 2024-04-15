@@ -35,11 +35,11 @@ Team 2: AI Bias
 Team 3: AI Applications in Agriculture  
 Team 4: AI Applications in Manufacturing  
 Team 5: AI in Supply Chain/E-commerce: Stitch Fix Algorithm Tour   
-Team 6: AI in Everyday Life  
-Team 7: AI Applications in Marketing   
-Team 8: Synthetic Data  
-Team 9: [AI Applications in Debugging Code](https://arxiv.org/abs/2403.16354)  
-Team 10: Recommendation Systems  
+10:08 Team 6: AI in Everyday Life  
+10:26 Team 7: AI Applications in Marketing   
+10:45 Team 8: Synthetic Data  
+10:56 Team 9: [AI Applications in Debugging Code](https://arxiv.org/abs/2403.16354)  
+11:11 Team 10: Recommendation Systems  
 
 **[Section 2 Schedule: TBD]**  
 Team 11: AI Applications in Marketing 
@@ -73,6 +73,7 @@ Topics are first come first serve and will be listed here as claimed when taken.
   [In machine learning, synthetic data can offer real performance improvements](https://news.mit.edu/2022/synthetic-data-ai-improvements-1103)  
   [Synthetic Data at JP Morgan](https://www.jpmorgan.com/synthetic-data)  
   [MOSTLY.ai](https://mostly.ai/)
+  [gretel.ai](gretel.ai)  
 - Multi-agent simulation  
     [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442): You can watch the simulation [here](https://lnkd.in/eUNPPNyC), and switch between AI characters by clicking on them  
 - AI in supply chain/e-commerce:  [Stitch Fix Algorithm Tour](https://algorithms-tour.stitchfix.com/)   
