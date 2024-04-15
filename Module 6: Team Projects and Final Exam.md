@@ -8,7 +8,7 @@ For example, if you present a recommender system, explore and explain aspects of
 Be as specific as you can when defining the scope of your case study.  
 The presentation should include  
 1. [2 min] Problem statement - What problem are you trying to solve in this case study? And how is it relevant to what's being discussed this week?  
-2. [5 min] Discussion of at least 1 relevant research paper (not news articles, medium, blog, library documentation, or linkedin posts) that is high quality and from one of research sources listed below.
+2. [5 min] Discussion of at least 1 relevant research paper (not news articles, medium, blog, library documentation, or linkedin posts) that is high quality, less than 3 years old, and from one of research sources listed below.
 3. [5 min] A technical coding demo whenever possible: Build, train and evaluate a model as much as you can. Keep the coding demo as simple as possible to illustrate an essential concept rather than walking through a complete project. You can demo code examples found on the internet, but you must cite the source. If coding demo is not possible, demo different ways to use an AI application (e.g., ChatGPT) for a business problem.  
 4. [2 min] Discussion of ethical concerns.  
 5. [1 min] What's next? Help us envision future developments and concerns.    
