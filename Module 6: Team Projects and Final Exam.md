@@ -56,11 +56,11 @@ Teams within the same section must choose unique topics (No two teams within the
 Topics are first come first serve and will be listed here as claimed when taken.  
 
 - [PyTorch](https://pytorch.org/) vs. Tensorflow
-- Federated Learning
-    [Distributed differential privacy for federated learning](https://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html)
-    [Konečný, J., McMahan, H. B., Yu, F. X., Richtárik, P., Suresh, A. T., & Bacon, D. (2016). Federated learning: Strategies for improving communication efficiency. arXiv preprint arXiv:1610.05492.](https://arxiv.org/abs/1610.05492)
+- Federated Learning  
+    [Distributed differential privacy for federated learning](https://ai.googleblog.com/2023/03/distributed-differential-privacy-for.html)  
+    [Konečný, J., McMahan, H. B., Yu, F. X., Richtárik, P., Suresh, A. T., & Bacon, D. (2016). Federated learning: Strategies for improving communication efficiency. arXiv preprint arXiv:1610.05492.](https://arxiv.org/abs/1610.05492)  
     [TF Federated](https://www.tensorflow.org/federated)  
-- [Generative AI for Images or Videos]
+- [Generative AI for Images or Videos]  
   [Stable Diffusion](https://stablediffusionweb.com/)  
 - [Kaggle Models](https://www.kaggle.com/discussions/product-feedback/391200?utm_medium=email&utm_source=gamma&utm_campaign=models-launch-2023)  
 - [Transformers](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)  
@@ -72,7 +72,7 @@ Topics are first come first serve and will be listed here as claimed when taken.
   [Potluru, V. K., Borrajo, D., Coletta, A., Dalmasso, N., El-Laham, Y., Fons, E., Ghassemi, M., Gopalakrishnan, S., Gosai, V., Kreačić, E., Mani, G., Obitayo, S., Paramanand, D., Raman, N., Solonin, M., Sood, S., Vyetrenko, S., Zhu, H., Veloso, M., & Balch, T. (2023). Synthetic Data Applications in Finance (arXiv:2401.00081). arXiv.](https://doi.org/10.48550/arXiv.2401.00081)  
   [In machine learning, synthetic data can offer real performance improvements](https://news.mit.edu/2022/synthetic-data-ai-improvements-1103)  
   [Synthetic Data at JP Morgan](https://www.jpmorgan.com/synthetic-data)  
-  [MOSTLY.ai](https://mostly.ai/)
+  [MOSTLY.ai](https://mostly.ai/)  
   [gretel.ai](gretel.ai)  
 - Multi-agent simulation  
     [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442): You can watch the simulation [here](https://lnkd.in/eUNPPNyC), and switch between AI characters by clicking on them  
