@@ -8,15 +8,15 @@ For example, if you present a recommender system, explore and explain aspects of
 Be as specific as you can when defining the scope of your case study.  
 The presentation should include  
 1. [2 min] Problem statement - What problem are you trying to solve in this case study? And how is it relevant to what's being discussed this week?  
-2. [5 min] Discussion of at least 1 relevant research paper (not news articles, medium, blog, library documentation, or linkedin posts)
-3. [5 min] A technical coding demo whenever possible: Build, train and evaluate a model as much as you can. Keep the coding demo as simple as possible to illustrate an essential concept rather than walking through a complete project. If coding demo is not possible, demo different ways to use an AI application (e.g., ChatGPT) for a business problem.  
+2. [5 min] Discussion of at least 1 relevant research paper (not news articles, medium, blog, library documentation, or linkedin posts) that is high quality and from one of research sources listed below.
+3. [5 min] A technical coding demo whenever possible: Build, train and evaluate a model as much as you can. Keep the coding demo as simple as possible to illustrate an essential concept rather than walking through a complete project. You can demo code examples found on the internet, but you must cite the source. If coding demo is not possible, demo different ways to use an AI application (e.g., ChatGPT) for a business problem.  
 4. [2 min] Discussion of ethical concerns.  
 5. [1 min] What's next? Help us envision future developments and concerns.    
 *Note: Time estimates are suggestions only. Do what you need to do to deliver an engaging and compelling story!
 
 **Grading Rubric (more details available in Blackboard assignment)**  
 **1. Problem Statement (15%):** Clear, concise, accurate and focused statement of the problem being solved.  
-**2. Research Paper Discussion (30%):** Clear, accurate and thoughtful critiques of relevant paper(s) that focus on key concepts, strengths or weaknesses.  
+**2. Research Paper Discussion (30%):** Clear, accurate and thoughtful critiques of relevant high-quality paper(s) that focus on key concepts, strengths or weaknesses.   
 **3. Technical Demo (35%):** Thoughtful and comprehensive solution that addresses the problem statement in a logical manner and issues identified in the critiques. Proper data processing and exploration and clear rationale for algorithm choices.  
 **4. Ethical Discussion (5%):** Focused and thoughtful exploration of key ethical issues in your chosen topic.
 **5. Presentation (10%):** Clear, well rehearsed, concise, and engaging presentation with laser focus on key topics, key issues and key elements of the solution. Free of errors. Think about how to make your presentation interesting: [Why lectures are like blind dates by Nicolas Coles](https://www.nature.com/articles/d41586-022-01798-6)   
