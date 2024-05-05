@@ -10,6 +10,7 @@
 **Complete these readings/videos before next class**  
 [Keras LSTM Layer](https://keras.io/api/layers/recurrent_layers/lstm/)  
 [How AI Works by Nir Zicherman](https://every.to/p/how-ai-works?fbclid=IwAR2KWfiKq627x9SxpTpZojaxHSjaA0zcEELySUyEGhD7jbWzcS3vFNyJ4OI)  
+[A Word is Worth A Thousand Vectors by Chris Moody at Stitch Fix](https://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)  
 
 *Optional References*  
 [word2vec](https://code.google.com/archive/p/word2vec/)  
