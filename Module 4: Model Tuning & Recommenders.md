@@ -33,6 +33,7 @@ Dr. Zeng is an AI Research Lead on the AI Research team at J.P. Morgan. Her rese
 [Case Study: YouTube's recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)  
 [Case Study: The history of Amazon's recommendation algorithm](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm)  
 [Case Study: How Netflix's Recommendation System Works](https://help.netflix.com/en/node/100639#:~:text=We%20estimate%20the%20likelihood%20that,preferences%20on%20our%20service%2C%20and)  
+[Colab: Item-to-Item collaborative filtering](https://colab.research.google.com/github/nzhinusoftcm/review-on-collaborative-filtering/blob/master/3.Item-basedCollaborativeFiltering.ipynb)  
 
 *Optional Fun Stuff*  
 [How YouTube Knows What You Should Watch](https://www.pbs.org/video/how-youtube-knows-what-you-should-watch-vkyoml/)  
