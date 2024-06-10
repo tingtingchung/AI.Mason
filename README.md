@@ -11,8 +11,8 @@ Dr. Rachel Chung's course materials for AI in the residential MSBA program at Wi
 **References**  
 [Deep Learning by Goodfellow, Bengio and Courville](https://www.deeplearningbook.org/)  
 [Artificial Intelligence: A Modern Approach by Russell and Norvig](https://aima.cs.berkeley.edu/)  
-[Neural Networks and Deep Learning by Mielson](http://neuralnetworksanddeeplearning.com/) 
-[Deep Learning Illustrated by Jon Krohn, Grant Beyleveld, and Aglaé Bassens] (https://www.deeplearningillustrated.com/)  
+[Neural Networks and Deep Learning by Mielson](http://neuralnetworksanddeeplearning.com/)  
+[Deep Learning Illustrated by Jon Krohn, Grant Beyleveld, and Aglaé Bassens](https://www.deeplearningillustrated.com/)  
 
 *Tensorflow*  
 [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)  
