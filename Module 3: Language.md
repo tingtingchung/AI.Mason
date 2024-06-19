@@ -1,6 +1,7 @@
 **Class 6: RNN**  
 [M3-1 Featurizing Documents Digitally](https://www.dropbox.com/scl/fi/5syj8l2q1gl30tuxy5qce/M3-1-featurizing-documents-digitally.pptx?rlkey=nnl9c7yzx9jujhd89rw9xnmcr&dl=0)  
 [Colab: Tokenization](https://colab.research.google.com/drive/16yYaORYT9hU6OC3xZQGzmyuGm9MUHgDq)  
+[Small Language Model Demo](https://www.cs.cmu.edu/~pvirtue/AIS/ngrams/ngrams.html)  
 [M3-2 Embeddings](https://www.dropbox.com/scl/fi/aa3vuov9o105xsrvf4fs6/M3-2-embeddings.pptx?rlkey=0w897if9s4f6fgso1ondx2n93&dl=0)  
 [Tensorflow's Embedding Explorer](https://projector.tensorflow.org/)  
 [M3-3 RNN](https://www.dropbox.com/scl/fi/n29yaptji7s809al1fyq5/M3-3-rnn.pptx?rlkey=cg6he9wjzm0yes64d0lacqqsd&dl=0)  
