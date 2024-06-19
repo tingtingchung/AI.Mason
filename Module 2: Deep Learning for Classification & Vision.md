@@ -40,6 +40,7 @@
 
 [Colab: Featurizing Images Digitally](https://colab.research.google.com/drive/1pCNbMNdl1ph6FieYeGGsvXDRYzIPxaxB?usp=sharing)  
 [Colab: MNIST with Dense Layers](https://colab.research.google.com/drive/1UpkFhSpWIBNahzRro5aHdZCTZ32mEfl8?usp=sharing)  
+[ConvNet Demo](https://cs.stanford.edu/people/karpathy/convnetjs/)  
 
 **Complete these readings/videos before next class**  
 [Explore image datasets with Know your Data from Google](https://knowyourdata.withgoogle.com/)  
