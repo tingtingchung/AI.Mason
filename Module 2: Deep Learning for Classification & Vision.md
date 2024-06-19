@@ -38,9 +38,10 @@
 [M3-2 CNN1: Xs](https://www.dropbox.com/scl/fi/bueecft6bfhhcy45kpgzx/M3-2-CNN1-Xs.pptx?rlkey=s6axruxee5priz7zcrvjn7wec&dl=0)  
 [M3-3 CNN2: Y](https://www.dropbox.com/scl/fi/hoyes1kx6rp07cj41i0n7/M3-3-CNN2-Y.pptx?rlkey=xuo9v6m9dgq9t1znv6wbaxu2q&dl=0)  
 
+[Teachable Machine](https://teachablemachine.withgoogle.com/)  
+[ConvNet Demo](https://cs.stanford.edu/people/karpathy/convnetjs/)  
 [Colab: Featurizing Images Digitally](https://colab.research.google.com/drive/1pCNbMNdl1ph6FieYeGGsvXDRYzIPxaxB?usp=sharing)  
 [Colab: MNIST with Dense Layers](https://colab.research.google.com/drive/1UpkFhSpWIBNahzRro5aHdZCTZ32mEfl8?usp=sharing)  
-[ConvNet Demo](https://cs.stanford.edu/people/karpathy/convnetjs/)  
 
 **Complete these readings/videos before next class**  
 [Explore image datasets with Know your Data from Google](https://knowyourdata.withgoogle.com/)  
