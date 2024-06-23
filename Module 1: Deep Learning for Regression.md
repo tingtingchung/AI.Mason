@@ -10,6 +10,7 @@
 **Review these Colabs before next class**  
 [linear regression review](https://colab.research.google.com/drive/1vKXdFFfMwA92GkTQdN7PAvs5LOMRRrFb?usp=drive_link)  
 [Pandas review](https://drive.google.com/file/d/10Tl_-KXy4JdZTYiZZTHFUdYy276PFbga/view?usp=sharing)  
+[Immersive linear algebra - with interactive figures, in case you need a refresher](https://immersivemath.com/ila/index.html)  
 [Numpy review](https://drive.google.com/file/d/10S-7uh4CvtdCB2YJLF-eDcnVJ8y4l9gV/view?usp=sharing)  
 [Python functions review](https://colab.research.google.com/drive/1sTsh0ICGwa_sku9oCR8v3MnK0IqYauMn?usp=drive_link)  
 
