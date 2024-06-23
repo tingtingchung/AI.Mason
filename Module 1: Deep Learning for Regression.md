@@ -44,7 +44,7 @@ For an excellent refresher of regression, review Chapter 3 of [ISLP](https://has
 [What is AI (CrashCourse by PBS)](https://www.youtube.com/watch?v=a0_lo_GDcFw&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=2&t=1s)  
 [Supervised Learning (CrashCourse by PBS)](https://www.youtube.com/watch?v=4qVRBYAdLAo&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=3)  
 [Henrik Widegren ft Johanna Körner Berglund - A Statistically Significant Love Song](https://www.youtube.com/watch?v=tVx2V75hWRY)  
-[Mark Littman and Charles Isbell's clustering song](https://www.youtube.com/watch?v=MAU0gQXn28s&list=PLrpsa0hmc1hxKEl6PFWBl5Yt2zNNRbbx8&index=11)  
+[Michael Littman and Charles Isbell's clustering song](https://www.youtube.com/watch?v=MAU0gQXn28s&list=PLrpsa0hmc1hxKEl6PFWBl5Yt2zNNRbbx8&index=11)  
 
 **Class 2: Deep Learning for Regression with Tensorflow**  
 [M1-5 Tensorflow](https://www.dropbox.com/scl/fi/jwbo2yp5ckbtujr85t9ar/M1-5-TF.pptx?rlkey=nvl6dw261ku4jc5ggmnceta76&dl=0)  
