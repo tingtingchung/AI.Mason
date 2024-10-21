@@ -78,4 +78,5 @@
 [Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. Advances in neural information processing systems, 30.](https://arxiv.org/abs/1706.03762)
 
 *Optional Fun Stuff*  
+[Real life example of matrix |An image is nothing but a matrix of pixel values.](https://www.youtube.com/watch?v=RDBWWZ7o5sQ)  
 [Cats vs. Dogs? Lets Make an AI to Settle This by CrashCourse AI](https://www.pbs.org/video/cats-vs-dogs-lets-make-an-ai-to-settle-this-lab-19-rp1lwa/)  
