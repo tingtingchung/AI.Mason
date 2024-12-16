@@ -9,6 +9,7 @@ Dr. Rachel Chung's course materials for AI in the residential MSBA program at Wi
 [Module 6: Team Projects & Final Exam](https://github.com/tingtingchung/AI.Mason/blob/main/Module%206%3A%20Team%20Projects%20and%20Final%20Exam.md)     
 
 **References**  
+[Deep Learning by Kelleher](https://mitpress.mit.edu/9780262537551/deep-learning/)  
 [Deep Learning by Goodfellow, Bengio and Courville](https://www.deeplearningbook.org/)  
 [Artificial Intelligence: A Modern Approach by Russell and Norvig](https://aima.cs.berkeley.edu/)  
 [Neural Networks and Deep Learning by Mielson](http://neuralnetworksanddeeplearning.com/)  
