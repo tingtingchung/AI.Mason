@@ -14,7 +14,7 @@ Dr. Rachel Chung's course materials for AI in the residential MSBA program at Wi
 [Artificial Intelligence: A Modern Approach by Russell and Norvig](https://aima.cs.berkeley.edu/)  
 [Neural Networks and Deep Learning by Mielson](http://neuralnetworksanddeeplearning.com/)  
 [Deep Learning Illustrated by Krohn, Beyleveld, and Bassens](https://www.deeplearningillustrated.com/)  
-
+[Why Machines Learn by Anil Ananthaswamy](https://www.penguinrandomhouse.com/books/677608/why-machines-learn-by-anil-ananthaswamy/)  
 *Tensorflow*  
 [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)  
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)  
