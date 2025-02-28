@@ -1,4 +1,4 @@
-**Module 6: Team Projects & Final Exam**
+**Module 6: Team Projects & Final Exam**  
 [TP3 instructions](https://github.com/tingtingchung/AI.Mason/issues/2)  
 **[Section 1 Schedule: TBD]**  
 Team 1:   
