@@ -44,6 +44,7 @@ For an excellent refresher of regression, review Chapter 3 of [ISLP](https://has
 
 *Optional Fun Stuff*  
 [Functions describe the world](https://www.youtube.com/watch?v=PAZTIAfaNr8)  
+[We Are AI Comics #1: What is AI?](https://dataresponsibly.github.io/we-are-ai/)  
 [What is AI (CrashCourse by PBS)](https://www.youtube.com/watch?v=a0_lo_GDcFw&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=2&t=1s)  
 [Supervised Learning (CrashCourse by PBS)](https://www.youtube.com/watch?v=4qVRBYAdLAo&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=3)  
 [Henrik Widegren ft Johanna Körner Berglund - A Statistically Significant Love Song](https://www.youtube.com/watch?v=tVx2V75hWRY)  
@@ -73,6 +74,7 @@ For an excellent refresher of regression, review Chapter 3 of [ISLP](https://has
 [Backpropagation main ideas by Statquest](https://www.youtube.com/watch?v=IN2XmBhILt4&t=3s)  
 
 *Optional Fund Stuff*  
+[We Are AI Comics #2: Learning from Data](https://dataresponsibly.github.io/we-are-ai/comics/vol2_en.pdf)  
 [Neural network comic strip (Google Cloud)](https://cloud.google.com/products/ai/ml-comic-2?fbclid=IwAR3Dj-zu0dHb45b_fzFp6MQsvnUMLs67Tguo4ojdgKQQYrVYqC73ZoZmGPE)  
 [Teachable Machine](https://teachablemachine.withgoogle.com/train)  
 [Neural Networks & Deep Learning (CrashCourse by PBS)](https://www.youtube.com/watch?v=oV3ZY6tJiA0&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=4)  
