@@ -2,13 +2,7 @@
 
 **Class 1: Course Intro & Deep Learning for Regression**  
 [M1-0 Course Intro](https://www.dropbox.com/scl/fi/4ohk3ntbxf949fi84zkw0/M1-0-AI-Course-Introduction.pptx?rlkey=utlxlobdz55bvojmik2vgdmje&dl=0)  
-[M1-1 What is AI](https://www.dropbox.com/scl/fi/epdabsnjn17tih6zwj5mo/M1-1-what-is-AI.pptx?rlkey=fo4j1nq6rznfc6lewg5pps0dr&dl=0)  
-[M1-2 Intro to DL](https://www.dropbox.com/scl/fi/buxnfp6912r6w22a0mc7s/M1-2-intro-to-DL.pptx?rlkey=0kfqdvle480ayw9mi1xigxrtc&dl=0)  
-[M1-3 Dr. Chung's Single Neuron Simulator](https://docs.google.com/spreadsheets/d/1KDGiwAF2GStEZc2WUgbJ7CE7NHktZhAVpcRNulHfqpw/edit?usp=sharing) and [tutorial video](https://www.youtube.com/watch?v=r9WOZs42Evw&list=PLjomhJShbk6RectVgKBsbhGZ5KCACyvKq&index=3)  
 [M1-4 Linear Regression Review](https://www.dropbox.com/scl/fi/vf0dzuagmc0k3s7mtojhw/M1-4-regression-review.pptx?rlkey=544llky6vnijzahvv7736tj3h&dl=0)  
-[Worksheet #01: Single Neuron Simulator](https://docs.google.com/document/d/1OwOPf8GlJUogBxwkSR-cLWm1bSFFK-QE8rMeIw7XLko/edit?tab=t.0) [Solution](https://tinyurl.com/3zkjrdt3)  
-[Worksheet #02: Build Your Own Zestimate](https://docs.google.com/document/d/14Kh6QhBQ8PDSWaOqTvexGKHBkuzvIN5wO9qI3-eCQmk/edit?tab=t.0) [Solution](https://docs.google.com/document/d/15oKhVuBDFglVi1u1W8-P0IYIZyoJdYGyPOG4Q65NJN0/edit?usp=sharing)  
-
 **Review these Colabs before next class**  
 [linear regression review](https://colab.research.google.com/drive/1vKXdFFfMwA92GkTQdN7PAvs5LOMRRrFb?usp=drive_link)  
 [Pandas review](https://drive.google.com/file/d/10Tl_-KXy4JdZTYiZZTHFUdYy276PFbga/view?usp=sharing)  
@@ -51,13 +45,17 @@ For an excellent refresher of regression, review Chapter 3 of [ISLP](https://has
 [Michael Littman and Charles Isbell's clustering song](https://www.youtube.com/watch?v=MAU0gQXn28s&list=PLrpsa0hmc1hxKEl6PFWBl5Yt2zNNRbbx8&index=11)  
 
 **Class 2: Deep Learning for Regression with Tensorflow**  
+[M1-1 What is AI](https://www.dropbox.com/scl/fi/epdabsnjn17tih6zwj5mo/M1-1-what-is-AI.pptx?rlkey=fo4j1nq6rznfc6lewg5pps0dr&dl=0)  
+[M1-2 Intro to DL](https://www.dropbox.com/scl/fi/buxnfp6912r6w22a0mc7s/M1-2-intro-to-DL.pptx?rlkey=0kfqdvle480ayw9mi1xigxrtc&dl=0)  
+[M1-3 Dr. Chung's Single Neuron Simulator](https://docs.google.com/spreadsheets/d/1KDGiwAF2GStEZc2WUgbJ7CE7NHktZhAVpcRNulHfqpw/edit?usp=sharing) and [tutorial video](https://www.youtube.com/watch?v=r9WOZs42Evw&list=PLjomhJShbk6RectVgKBsbhGZ5KCACyvKq&index=3)  
+[Worksheet #01: Single Neuron Simulator](https://docs.google.com/document/d/1OwOPf8GlJUogBxwkSR-cLWm1bSFFK-QE8rMeIw7XLko/edit?tab=t.0) [Solution](https://tinyurl.com/3zkjrdt3)  
+[Worksheet #02: Build Your Own Zestimate](https://docs.google.com/document/d/14Kh6QhBQ8PDSWaOqTvexGKHBkuzvIN5wO9qI3-eCQmk/edit?tab=t.0) [Solution](https://docs.google.com/document/d/15oKhVuBDFglVi1u1W8-P0IYIZyoJdYGyPOG4Q65NJN0/edit?usp=sharing)  
 [M1-5 Tensorflow](https://www.dropbox.com/scl/fi/jwbo2yp5ckbtujr85t9ar/M1-5-TF.pptx?rlkey=nvl6dw261ku4jc5ggmnceta76&dl=0)  
 [M1-6 Tensorflow for Regression](https://www.dropbox.com/scl/fi/kqixuk77sxzh744wm8zf1/M1-6-TF-for-regression.pptx?rlkey=7iz4gy1sjqb127tc5s270skty&dl=0)  
 [Colab: Deep Learning with Tensorflow](https://colab.research.google.com/drive/1fCEu0cIj8raD1o5fqLSLL9j7pgVcCZJ0)  
 [NN Playground by Tensorflow](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56945&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)  
 [Colab: Deep Learning for Regression with Tensorboard](https://colab.research.google.com/drive/1AG5jwdCNAZTO9U8ZgHF7vYRPHKpn88YL?usp=sharing)  
 [Draw your own NN model with NN-SVG](http://alexlenail.me/NN-SVG/index.html)  
-[Dr. Chung's TF/Keras DL Model Template](https://docs.google.com/document/d/1S1nml6eqTolm0V40A8coF2jm8ut8D0bWs4HB-VU0uyM/edit#)  
 
 **Complete these readings/videos before next class**    
 [Chapter 10.2 Multi-layer NN, ISLP](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
