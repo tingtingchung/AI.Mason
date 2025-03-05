@@ -6,7 +6,7 @@
 [M1-2 Intro to DL](https://www.dropbox.com/scl/fi/buxnfp6912r6w22a0mc7s/M1-2-intro-to-DL.pptx?rlkey=0kfqdvle480ayw9mi1xigxrtc&dl=0)  
 [M1-3 Dr. Chung's Single Neuron Simulator](https://docs.google.com/spreadsheets/d/1KDGiwAF2GStEZc2WUgbJ7CE7NHktZhAVpcRNulHfqpw/edit?usp=sharing) and [tutorial video](https://www.youtube.com/watch?v=r9WOZs42Evw&list=PLjomhJShbk6RectVgKBsbhGZ5KCACyvKq&index=3)  
 [M1-4 Linear Regression Review](https://www.dropbox.com/scl/fi/vf0dzuagmc0k3s7mtojhw/M1-4-regression-review.pptx?rlkey=544llky6vnijzahvv7736tj3h&dl=0)  
-[Worksheet #01: Single Neuron Simulator]([https://tinyurl.com/3zkjrdt3](https://docs.google.com/document/d/1OwOPf8GlJUogBxwkSR-cLWm1bSFFK-QE8rMeIw7XLko/edit?tab=t.0)) [Solution](https://tinyurl.com/3zkjrdt3)  
+[Worksheet #01: Single Neuron Simulator](https://tinyurl.com/3zkjrdt3](https://docs.google.com/document/d/1OwOPf8GlJUogBxwkSR-cLWm1bSFFK-QE8rMeIw7XLko/edit?tab=t.0) [Solution](https://tinyurl.com/3zkjrdt3)  
 [Worksheet #02: Build Your Own Zestimate](https://docs.google.com/document/d/14Kh6QhBQ8PDSWaOqTvexGKHBkuzvIN5wO9qI3-eCQmk/edit?tab=t.0) [Solution](https://docs.google.com/document/d/15oKhVuBDFglVi1u1W8-P0IYIZyoJdYGyPOG4Q65NJN0/edit?usp=sharing)  
 
 **Review these Colabs before next class**  
