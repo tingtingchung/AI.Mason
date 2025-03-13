@@ -1,6 +1,6 @@
 **Deep Learning for Regression**  
 
-**Class 1: Course Intro & Deep Learning for Regression**  
+**Class 1: Course Intro & Deep Learning for Regression **  
 [M1-0 Course Intro](https://www.dropbox.com/scl/fi/4ohk3ntbxf949fi84zkw0/M1-0-AI-Course-Introduction.pptx?rlkey=utlxlobdz55bvojmik2vgdmje&dl=0)  
 [M1-4 Linear Regression Review](https://www.dropbox.com/scl/fi/vf0dzuagmc0k3s7mtojhw/M1-4-regression-review.pptx?rlkey=544llky6vnijzahvv7736tj3h&dl=0)  
 **Review these Colabs before next class**  
