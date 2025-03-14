@@ -44,7 +44,6 @@
 [Colab: MNIST with Dense Layers](https://colab.research.google.com/drive/1UpkFhSpWIBNahzRro5aHdZCTZ32mEfl8?usp=sharing)  
 
 **Complete these readings/videos before next class**  
-[Explore image datasets with Know your Data from Google](https://knowyourdata.withgoogle.com/)  
 [Preprocessing Data with Scikit Learn](https://scikit-learn.org/stable/modules/preprocessing.html)  
 [MNIST digit classification dataset by Keras](https://keras.io/api/datasets/mnist/)  
 [Keras Flatten Layer](https://keras.io/api/layers/reshaping_layers/flatten/)  
