@@ -53,6 +53,7 @@ For an excellent refresher of regression, review Chapter 3 of [ISLP](https://has
 [M1-5 Tensorflow](https://www.dropbox.com/scl/fi/jwbo2yp5ckbtujr85t9ar/M1-5-TF.pptx?rlkey=nvl6dw261ku4jc5ggmnceta76&dl=0)  
 [M1-6 Tensorflow for Regression](https://www.dropbox.com/scl/fi/kqixuk77sxzh744wm8zf1/M1-6-TF-for-regression.pptx?rlkey=7iz4gy1sjqb127tc5s270skty&dl=0)  
 [Colab: Deep Learning with Tensorflow](https://colab.research.google.com/drive/1fCEu0cIj8raD1o5fqLSLL9j7pgVcCZJ0)  
+[Worksheet #03: Keras Sequential Model](https://docs.google.com/document/d/1F1bm-ADHncnKlq_dMssktbswUYamL_N5zOs52n8h_BQ/edit?usp=sharing) [Solution](https://docs.google.com/document/d/1-hulZbHPNpVyEsIZJueXaW0HdA4aGA_SYFfOn4hcdqM/edit?usp=sharing)  
 [NN Playground by Tensorflow](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56945&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)  
 [Colab: Deep Learning for Regression with Tensorboard](https://colab.research.google.com/drive/1AG5jwdCNAZTO9U8ZgHF7vYRPHKpn88YL?usp=sharing)  
 [Draw your own NN model with NN-SVG](http://alexlenail.me/NN-SVG/index.html)  
