@@ -2,8 +2,8 @@
 
 **Class 3: Deep Learning for Classification**  
 [M2-1 Classification](https://www.dropbox.com/scl/fi/1jdkhx8f3kq11f94igggi/M2-1-classification.pptx?rlkey=2e3u73vhu4cxch4lvkzkcsqx3&dl=0)  
-[M2-2 Optimization](https://www.dropbox.com/scl/fi/d7ly6t4qij4xehzyfesff/M2-2-optimization.pptx?rlkey=9fov84v2wtrryrhm1xirl849n&dl=0)  
-[M2-3 Activation Functions](https://www.dropbox.com/scl/fi/b8uzwf5uvdgrnrhldeh0j/M2-3-activation-functions.pptx?rlkey=ma5lztjv8mknzqrt66xr3n3wm&dl=0)  
+[M2-2 Optimization](https://www.dropbox.com/scl/fi/wudc9bgdb9gqr7lsaova4/M2-2-optimization.pptx?rlkey=2ceutabjj2pbnj86ktv5b5bc1&dl=0)  
+[M2-3 Activation Functions](https://www.dropbox.com/scl/fi/8clv98zfhn5tsc1fzf1xc/M2-3-activation-functions.pptx?rlkey=165w0kvryhteegc7dnw9qe74w&dl=0)  
 [M2-4 Keras Model Compilation](https://www.dropbox.com/scl/fi/g0gwzqubs4mvn44ox68oe/M2-4-keras-model-compilation.pptx?rlkey=hx3o9fopm1uamzf93kso3zvjt&dl=0)  
 [M2-5 Keras Model Loss & Metrics](https://www.dropbox.com/scl/fi/wmaxv99ypylde1s24eu8u/M2-5-keras-model-loss-and-metrics.pptx?rlkey=ruxf7tywqy0nh60zsish9o221&dl=0)  
 
