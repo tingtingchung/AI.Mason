@@ -10,7 +10,7 @@
 [Colab: to_categorical() vs. get_dummies()](https://colab.research.google.com/drive/1-_2u9jQ4d-yL1QVu4oH4UVRjZW11ZxZe)  
 [Colab: Deep Learning Classifier with Tensorflow](https://colab.research.google.com/drive/1szq7Vy4ZsUBNzR398lkLbAQKm3LRfqoS)   
 
-[Worksheet #04: Classification](https://docs.google.com/document/d/13AZxb0FD0NfvV6xbL0VIYEwjHJ1XWTgCjJ_M19OlMm8/edit?usp=sharing)  
+[Worksheet #04: Classification](https://docs.google.com/document/d/13AZxb0FD0NfvV6xbL0VIYEwjHJ1XWTgCjJ_M19OlMm8/edit?usp=sharing) [Solution](https://docs.google.com/document/d/1nr_4mBpvjd6VhSe8r59UNVpJ1jNWyKUHEL--N191cNk/edit?usp=sharing)    
 [Worksheet #05: Inner Workings of DL Models](https://docs.google.com/document/d/1YzVzi8qYFd_Hx8-oK0Wnv0wrnUqxnrnfIusf8qzIv68/edit?usp=sharing)  
 
 **Complete these readings/videos before next class**  
