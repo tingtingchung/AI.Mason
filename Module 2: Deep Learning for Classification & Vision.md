@@ -43,7 +43,7 @@
 [Teachable Machine](https://teachablemachine.withgoogle.com/)  
 [ConvNet Demo](https://cs.stanford.edu/people/karpathy/convnetjs/)  
 
-[Worksheet #06: Vision](https://docs.google.com/document/d/1U2FTAhxx9We4CIq8OT7Vm_BwiJVe5YErb-PP38MkBUU/edit?usp=sharing) [Solution](https://docs.google.com/document/d/1U2FTAhxx9We4CIq8OT7Vm_BwiJVe5YErb-PP38MkBUU/edit?usp=sharing)  
+[Worksheet #06: Vision](https://docs.google.com/document/d/1U2FTAhxx9We4CIq8OT7Vm_BwiJVe5YErb-PP38MkBUU/edit?usp=sharing) [Solution](https://docs.google.com/document/d/1orr38xR9aKQ8Qun2wse7nfv9VRgG3MuC3_SV7ZgruBE/edit?usp=sharing)  
 [Colab: Featurizing Images Digitally](https://colab.research.google.com/drive/1pCNbMNdl1ph6FieYeGGsvXDRYzIPxaxB?usp=sharing)  
 [Colab: MNIST with Dense Layers](https://colab.research.google.com/drive/1UpkFhSpWIBNahzRro5aHdZCTZ32mEfl8?usp=sharing)  
 
