@@ -25,7 +25,7 @@
 [Real life example of matrix |An image is nothing but a matrix of pixel values.](https://www.youtube.com/watch?v=RDBWWZ7o5sQ)  
 [Cats vs. Dogs? Lets Make an AI to Settle This by CrashCourse AI](https://www.pbs.org/video/cats-vs-dogs-lets-make-an-ai-to-settle-this-lab-19-rp1lwa/) 
 
-Language
+Language  
 **Class 6: RNN**  
 [M3-1 Featurizing Documents Digitally](https://www.dropbox.com/scl/fi/5syj8l2q1gl30tuxy5qce/M3-1-featurizing-documents-digitally.pptx?rlkey=nnl9c7yzx9jujhd89rw9xnmcr&dl=0)  
 [Tiktokenizer](https://tiktokenizer.vercel.app/)  
