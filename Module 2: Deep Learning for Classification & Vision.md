@@ -10,7 +10,7 @@
 [Colab: to_categorical() vs. get_dummies()](https://colab.research.google.com/drive/1-_2u9jQ4d-yL1QVu4oH4UVRjZW11ZxZe)  
 [Colab: Deep Learning Classifier with Tensorflow](https://colab.research.google.com/drive/1szq7Vy4ZsUBNzR398lkLbAQKm3LRfqoS)   
 
-[Worksheet #04: Classification](https://docs.google.com/document/d/13AZxb0FD0NfvV6xbL0VIYEwjHJ1XWTgCjJ_M19OlMm8/edit?usp=sharing) [Solution](https://docs.google.com/document/d/1nr_4mBpvjd6VhSe8r59UNVpJ1jNWyKUHEL--N191cNk/edit?usp=sharing)    
+[Worksheet #04: Classification](https://docs.google.com/document/d/13AZxb0FD0NfvV6xbL0VIYEwjHJ1XWTgCjJ_M19OlMm8/edit?usp=sharing) & [Solution](https://docs.google.com/document/d/1nr_4mBpvjd6VhSe8r59UNVpJ1jNWyKUHEL--N191cNk/edit?usp=sharing)    
 [Worksheet #05: Inner Workings of DL Models](https://docs.google.com/document/d/1YzVzi8qYFd_Hx8-oK0Wnv0wrnUqxnrnfIusf8qzIv68/edit?usp=sharing) [Solution](https://docs.google.com/document/d/1FFQ9DKHfDLw-RtA4-wsGnh2OLNfZk2ZKB9fLZ1WWYVQ/edit?usp=sharing)  
 
 **Complete these readings/videos before next class**  
@@ -43,7 +43,7 @@
 [Teachable Machine](https://teachablemachine.withgoogle.com/)  
 [ConvNet Demo](https://cs.stanford.edu/people/karpathy/convnetjs/)  
 
-[Worksheet #06: Vision](https://docs.google.com/document/d/1U2FTAhxx9We4CIq8OT7Vm_BwiJVe5YErb-PP38MkBUU/edit?usp=sharing) [Solution](https://docs.google.com/document/d/1orr38xR9aKQ8Qun2wse7nfv9VRgG3MuC3_SV7ZgruBE/edit?usp=sharing)  
+[Worksheet #06: Vision](https://docs.google.com/document/d/1U2FTAhxx9We4CIq8OT7Vm_BwiJVe5YErb-PP38MkBUU/edit?usp=sharing) & [Solution](https://docs.google.com/document/d/1orr38xR9aKQ8Qun2wse7nfv9VRgG3MuC3_SV7ZgruBE/edit?usp=sharing)  
 [Colab: Featurizing Images Digitally](https://colab.research.google.com/drive/1pCNbMNdl1ph6FieYeGGsvXDRYzIPxaxB?usp=sharing)  
 [Colab: MNIST with Dense Layers](https://colab.research.google.com/drive/1UpkFhSpWIBNahzRro5aHdZCTZ32mEfl8?usp=sharing)  
 
