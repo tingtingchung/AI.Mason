@@ -28,7 +28,7 @@
 **Class 6: RNN for Language**  
 [M3-1 Featurizing Documents Digitally](https://www.dropbox.com/scl/fi/5syj8l2q1gl30tuxy5qce/M3-1-featurizing-documents-digitally.pptx?rlkey=nnl9c7yzx9jujhd89rw9xnmcr&dl=0)   
 [Tiktokenizer](https://tiktokenizer.vercel.app/): Online playground for openai/tiktoken, calculating the correct number of tokens for a given prompt  
-[Worksheet #07: Language - Featurizing Documents Digitally & Embeddings](https://docs.google.com/document/d/1V8E4GbSREKjZ0sLr1rhJjqCmWikHbAJRu5GZ2ziAwFw/edit?tab=t.0) & Solution (coming soon)  
+[Worksheet #07: Language - Featurizing Documents Digitally & Embeddings](https://docs.google.com/document/d/1V8E4GbSREKjZ0sLr1rhJjqCmWikHbAJRu5GZ2ziAwFw/edit?tab=t.0) & [Solution](https://docs.google.com/document/d/1OCrbBKYL5aGcPTz-qS-KgJeLU4fznyWvFbv4htu9VIQ/edit?usp=sharing)    
 [Colab: Tokenization](https://colab.research.google.com/drive/16yYaORYT9hU6OC3xZQGzmyuGm9MUHgDq)  
 [Small Language Model Demo](https://www.cs.cmu.edu/~pvirtue/AIS/ngrams/ngrams.html)  
 [M3-2 Embeddings](https://www.dropbox.com/scl/fi/aa3vuov9o105xsrvf4fs6/M3-2-embeddings.pptx?rlkey=0w897if9s4f6fgso1ondx2n93&dl=0)    
