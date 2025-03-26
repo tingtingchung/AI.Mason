@@ -30,10 +30,10 @@
 [Tiktokenizer](https://tiktokenizer.vercel.app/): Online playground for openai/tiktoken, calculating the correct number of tokens for a given prompt  
 [Colab: Tokenization](https://colab.research.google.com/drive/16yYaORYT9hU6OC3xZQGzmyuGm9MUHgDq)  
 [Small Language Model Demo](https://www.cs.cmu.edu/~pvirtue/AIS/ngrams/ngrams.html)  
-[M3-2 Embeddings]
+[M3-2 Embeddings]  
 [Tensorflow's Embedding Explorer](https://projector.tensorflow.org/)  
-[M3-3 RNN]
-[M3-4 RNN for Document Classification] 
+[M3-3 RNN  
+[M3-4 RNN for Document Classification]   
 
 **Complete these readings/videos before next class**  
 [Keras LSTM Layer](https://keras.io/api/layers/recurrent_layers/lstm/)  
@@ -51,7 +51,7 @@
 [Natural Language Processing by CrashCourse AI](https://www.pbs.org/video/natural-language-processing-7-eroyod/)  
 
 **Class 7: LSTM & LLM**  
-[M3-5 LSTM] 
+[M3-5 LSTM]  
 [Colab: RNN + LSTM for IMDB sentiment analysis](https://colab.research.google.com/drive/1YSOMgbXHJrOnGS7Vjtob9-etAxHjF_0_?usp=sharing)  
 
 **Complete these readings/videos before next class**  
