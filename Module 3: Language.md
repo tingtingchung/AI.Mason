@@ -27,7 +27,7 @@
 
 **Class 6: RNN for Language**  
 [M3-1 Featurizing Documents Digitally]    
-[Tiktokenizer](https://tiktokenizer.vercel.app/)  
+[Tiktokenizer](https://tiktokenizer.vercel.app/): Online playground for openai/tiktoken, calculating the correct number of tokens for a given prompt  
 [Colab: Tokenization](https://colab.research.google.com/drive/16yYaORYT9hU6OC3xZQGzmyuGm9MUHgDq)  
 [Small Language Model Demo](https://www.cs.cmu.edu/~pvirtue/AIS/ngrams/ngrams.html)  
 [M3-2 Embeddings]
