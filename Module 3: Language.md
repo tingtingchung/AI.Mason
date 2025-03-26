@@ -26,14 +26,14 @@
 [Cats vs. Dogs? Lets Make an AI to Settle This by CrashCourse AI](https://www.pbs.org/video/cats-vs-dogs-lets-make-an-ai-to-settle-this-lab-19-rp1lwa/) 
 
 **Class 6: RNN for Language**  
-[M3-1 Featurizing Documents Digitally]    
+[M3-1 Featurizing Documents Digitally](https://www.dropbox.com/scl/fi/5syj8l2q1gl30tuxy5qce/M3-1-featurizing-documents-digitally.pptx?rlkey=nnl9c7yzx9jujhd89rw9xnmcr&dl=0)   
 [Tiktokenizer](https://tiktokenizer.vercel.app/): Online playground for openai/tiktoken, calculating the correct number of tokens for a given prompt  
 [Colab: Tokenization](https://colab.research.google.com/drive/16yYaORYT9hU6OC3xZQGzmyuGm9MUHgDq)  
 [Small Language Model Demo](https://www.cs.cmu.edu/~pvirtue/AIS/ngrams/ngrams.html)  
-[M3-2 Embeddings]  
+[M3-2 Embeddings](https://www.dropbox.com/scl/fi/aa3vuov9o105xsrvf4fs6/M3-2-embeddings.pptx?rlkey=0w897if9s4f6fgso1ondx2n93&dl=0)    
 [Tensorflow's Embedding Explorer](https://projector.tensorflow.org/)  
-[M3-3 RNN  
-[M3-4 RNN for Document Classification]   
+[M3-3 RNN](https://www.dropbox.com/scl/fi/n29yaptji7s809al1fyq5/M3-3-rnn.pptx?rlkey=cg6he9wjzm0yes64d0lacqqsd&dl=0)  
+[M3-4 RNN for Document Classification](https://www.dropbox.com/scl/fi/lhubtpz6khf6fgifrpohs/M3-4-rnn-for-document-classification.pptx?rlkey=07kbmgxhs2q1vnolygsxsfwkr&dl=0)  
 
 **Complete these readings/videos before next class**  
 [Keras LSTM Layer](https://keras.io/api/layers/recurrent_layers/lstm/)  
@@ -51,7 +51,7 @@
 [Natural Language Processing by CrashCourse AI](https://www.pbs.org/video/natural-language-processing-7-eroyod/)  
 
 **Class 7: LSTM & LLM**  
-[M3-5 LSTM]  
+[M3-5 LSTM](https://www.dropbox.com/scl/fi/oqfg9tax1ydr11oxxl1gp/M3-5-LSTM.pptx?rlkey=g9sqqbaiil7h0m3fdbltsef35&dl=0)  
 [Colab: RNN + LSTM for IMDB sentiment analysis](https://colab.research.google.com/drive/1YSOMgbXHJrOnGS7Vjtob9-etAxHjF_0_?usp=sharing)  
 
 **Complete these readings/videos before next class**  
