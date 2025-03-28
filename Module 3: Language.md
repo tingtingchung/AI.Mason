@@ -34,6 +34,7 @@
 [M3-2 Embeddings](https://www.dropbox.com/scl/fi/aa3vuov9o105xsrvf4fs6/M3-2-embeddings.pptx?rlkey=0w897if9s4f6fgso1ondx2n93&dl=0)    
 [Tensorflow's Embedding Explorer](https://projector.tensorflow.org/)  
 [M3-3 RNN](https://www.dropbox.com/scl/fi/n29yaptji7s809al1fyq5/M3-3-rnn.pptx?rlkey=cg6he9wjzm0yes64d0lacqqsd&dl=0)  
+[Excel Worksheet: RNN by Hand](https://www.dropbox.com/scl/fi/g7t9nhunmlxj1x9roubo3/m4-language-worksheets.xlsx?rlkey=pocyqdsmu7tk7bizdav00gqhd&dl=0)  
 [M3-4 RNN for Document Classification](https://www.dropbox.com/scl/fi/lhubtpz6khf6fgifrpohs/M3-4-rnn-for-document-classification.pptx?rlkey=07kbmgxhs2q1vnolygsxsfwkr&dl=0)  
 
 **Complete these readings/videos before next class**  
