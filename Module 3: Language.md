@@ -34,7 +34,7 @@
 [M3-2 Embeddings](https://www.dropbox.com/scl/fi/aa3vuov9o105xsrvf4fs6/M3-2-embeddings.pptx?rlkey=0w897if9s4f6fgso1ondx2n93&dl=0)    
 [Tensorflow's Embedding Explorer](https://projector.tensorflow.org/)  
 [M3-3 RNN](https://www.dropbox.com/scl/fi/n29yaptji7s809al1fyq5/M3-3-rnn.pptx?rlkey=cg6he9wjzm0yes64d0lacqqsd&dl=0)  
-[Excel Worksheet: RNN by Hand](https://www.dropbox.com/scl/fi/g7t9nhunmlxj1x9roubo3/m4-language-worksheets.xlsx?rlkey=pocyqdsmu7tk7bizdav00gqhd&dl=0)  
+[Excel Worksheet: RNN](https://www.dropbox.com/scl/fi/g7t9nhunmlxj1x9roubo3/m4-language-worksheets.xlsx?rlkey=pocyqdsmu7tk7bizdav00gqhd&dl=0)  
 [M3-4 RNN for Document Classification](https://www.dropbox.com/scl/fi/lhubtpz6khf6fgifrpohs/M3-4-rnn-for-document-classification.pptx?rlkey=07kbmgxhs2q1vnolygsxsfwkr&dl=0)  
 
 **Complete these readings/videos before next class**  
@@ -54,6 +54,7 @@
 
 **Class 7: LSTM & LLM**  
 [M3-5 LSTM](https://www.dropbox.com/scl/fi/oqfg9tax1ydr11oxxl1gp/M3-5-LSTM.pptx?rlkey=g9sqqbaiil7h0m3fdbltsef35&dl=0)  
+[Excel Worksheet: LSTM](https://www.dropbox.com/scl/fi/wey1urooi3rbqgs0wxj39/m4-LSTM-in-Excel.xlsx?rlkey=rhxnb6qfrmbe0w4lmpe1g21uz&dl=0)  
 [Colab: RNN + LSTM for IMDB sentiment analysis](https://colab.research.google.com/drive/1YSOMgbXHJrOnGS7Vjtob9-etAxHjF_0_?usp=sharing)  
 
 **Complete these readings/videos before next class**  
