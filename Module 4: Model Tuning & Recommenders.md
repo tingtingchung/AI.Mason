@@ -1,11 +1,12 @@
-**Module 4: Model Tuning & Recommenders**  
+**Module 4: Recommenders & Model Tuning**  
 
 **Class 8: LSTM, and Class Inheritance**  
-[Midterm Review](https://www.dropbox.com/scl/fi/aeueyhcpxv6yriej3javo/M4-AI-Midterm-Review.pptx?rlkey=y7vcco7hobmd2ytqrtgu83xid&dl=0)  
 [Python Functions](https://www.dropbox.com/scl/fi/x612ydq2eenookvksr7fc/buad5802-m1-review-python-functions-slides.pptx?rlkey=ekmmcqced84nueupsdy0whtk3&dl=0)  
 [Colab: Python Functions](https://colab.research.google.com/drive/1sTsh0ICGwa_sku9oCR8v3MnK0IqYauMn)  
 [Class Inheritance](https://www.dropbox.com/scl/fi/tvowo0e8t7qss5zd6uotz/buad5802-m1-review-class-inheritance-slides.pptx?rlkey=9w3jvxox6e14xsf8sgw8a7b8r&dl=0)  
 [Colab: Class Inheritance](https://colab.research.google.com/drive/1I02aNJpyjd-yoI2JHUsdNlZg13LnYqEf)  
+
+[Optional Midterm Review]()
 
 **Class 9: Mid-term Exam & Final Team Project**  
 8:30-10:30am: Mid-term Exam in Brinkley (both sections)  
