@@ -2,9 +2,9 @@
 
 **Class 8: LSTM, and Class Inheritance**  
 [Python Functions](https://www.dropbox.com/scl/fi/x612ydq2eenookvksr7fc/buad5802-m1-review-python-functions-slides.pptx?rlkey=ekmmcqced84nueupsdy0whtk3&dl=0)  
-[Colab: Python Functions](https://colab.research.google.com/drive/1sTsh0ICGwa_sku9oCR8v3MnK0IqYauMn)  
-[Class Inheritance](https://www.dropbox.com/scl/fi/tvowo0e8t7qss5zd6uotz/buad5802-m1-review-class-inheritance-slides.pptx?rlkey=9w3jvxox6e14xsf8sgw8a7b8r&dl=0)  
-[Colab: Class Inheritance](https://colab.research.google.com/drive/1I02aNJpyjd-yoI2JHUsdNlZg13LnYqEf)  
+[Colab: Python Functions](https://colab.research.google.com/drive/1sTsh0ICGwa_sku9oCR8v3MnK0IqYauMn)   
+[M4-2 Vector Similarity](https://www.dropbox.com/scl/fi/ey8ld5oa9y71ge05ut9tq/M4-2-vector-similarity.pptx?rlkey=kh01oofgmqtbssbd34gt797tu&dl=0)  
+[Colab: Vector Similarity](https://colab.research.google.com/drive/179fmYlLamCNObi5hqgRpGgecq-INL2to)  
 
 [Optional Midterm Review]()
 
@@ -32,11 +32,13 @@ Class ends for both sections
 [Let's Make a Movie Recommendation System](https://www.pbs.org/video/lets-make-a-movie-recommendation-system-lab-16-cmtwft/)  
 
 **Class 10: Recommenders**  
+[Class Inheritance](https://www.dropbox.com/scl/fi/tvowo0e8t7qss5zd6uotz/buad5802-m1-review-class-inheritance-slides.pptx?rlkey=9w3jvxox6e14xsf8sgw8a7b8r&dl=0)  
+[Colab: Class Inheritance](https://colab.research.google.com/drive/1I02aNJpyjd-yoI2JHUsdNlZg13LnYqEf) 
 [M4-1 Recommenders](https://www.dropbox.com/scl/fi/a49gmyg76j4tzsqlyljq8/M4-1-recommenders.pptx?rlkey=xsxk1jao1cooqo3al3lkydbef&dl=0)  
-[M4-2 Vector Similarity](https://www.dropbox.com/scl/fi/ey8ld5oa9y71ge05ut9tq/M4-2-vector-similarity.pptx?rlkey=kh01oofgmqtbssbd34gt797tu&dl=0)  
-[Colab: Vector Similarity](https://colab.research.google.com/drive/179fmYlLamCNObi5hqgRpGgecq-INL2to)  
 [M4-3 Candidate Generation](https://www.dropbox.com/scl/fi/p6ud2kwdeecujzm8tg9t2/M4-3-candidate-generation.pptx?rlkey=6bx5ujtkyl82geraa3yd3n0ur&dl=0)  
-[Colab: TRFS arning by MLU](https://mlu-explain.github.io/reinforcement-learning/)  
+
+**Complete these readings/videos before next class meeting** 
+[Reinforcement Learning by MLU](https://mlu-explain.github.io/reinforcement-learning/)  
 [TF Reinforcement Learning](https://www.tensorflow.org/agents/tutorials/0_intro_rl)  
 [TF Introduction to Multi-Armed Bandits](https://www.tensorflow.org/agents/tutorials/intro_bandit)  
 [Multi-Armed Bandits and the Stitch Fix Experimentation Platform](https://multithreaded.stitchfix.com/blog/2020/08/05/bandits/)  
