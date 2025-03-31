@@ -5,8 +5,9 @@
 [Colab: Python Functions](https://colab.research.google.com/drive/1sTsh0ICGwa_sku9oCR8v3MnK0IqYauMn)   
 [M4-1 Vector Similarity](https://www.dropbox.com/scl/fi/ey8ld5oa9y71ge05ut9tq/M4-2-vector-similarity.pptx?rlkey=kh01oofgmqtbssbd34gt797tu&dl=0)  
 [Colab: Vector Similarity](https://colab.research.google.com/drive/179fmYlLamCNObi5hqgRpGgecq-INL2to)  
+[Worksheet #09: Vector Similarity](https://docs.google.com/document/d/1RoCutVies1UWwR0tJzIFc5UJvcDNoiH1azFTnN1s7dY/edit?tab=t.0)  
 
-[Optional Midterm Review]()
+[Optional Midterm Review]
 
 **Class 9: Mid-term Exam & Final Team Project**  
 8:30-10:30am: Mid-term Exam in Brinkley (both sections)  
