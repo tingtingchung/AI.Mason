@@ -1,6 +1,5 @@
 # AI.Mason
-Dr. Rachel Chung's course materials for AI in the residential MSBA program at William &amp; Mary
-
+*Dr. Rachel Chung's course materials for AI in the residential MSBA program at William &amp; Mary*  
 [Module 1: Deep Learning for Regression](https://github.com/tingtingchung/AI.Mason/blob/main/Module%201%3A%20Deep%20Learning%20for%20Regression.md)  
 [Module 2: Deep Learning for Classification & Vision](https://github.com/tingtingchung/AI.Mason/blob/main/Module%202%3A%20Deep%20Learning%20(DL)%20for%20Classification%20%26%20Vision.md)  
 [Module 3: Language](https://github.com/tingtingchung/AI.Mason/blob/main/Module%203%3A%20Language.md)  
