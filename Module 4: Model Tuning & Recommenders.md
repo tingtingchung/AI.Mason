@@ -8,8 +8,9 @@
   
 [Worksheet #09: Vector Similarity](https://docs.google.com/document/d/1RoCutVies1UWwR0tJzIFc5UJvcDNoiH1azFTnN1s7dY/edit?tab=t.0)  
 
-**Optional Midterm Review**
+**Optional Midterm Review**  
 [Data file for sample exam](https://www.dropbox.com/scl/fi/y9wby4ph32s2cmfzylx5i/bank-additional-mason.csv?rlkey=k7aavmgfjoin3r1jq0hqq96so&dl=1)  
+[Worksheet #3: Midterm Review](https://docs.google.com/document/d/1lBVYMZKLlgeoFRXp_ysDQErPLQTgtX-7d33-Ho8PdPo/edit?usp=sharing)  
 
 **Class 9: Mid-term Exam & Final Team Project**  
 8:30-10:30am: Mid-term Exam in Brinkley (both sections)  
