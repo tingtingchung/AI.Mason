@@ -39,7 +39,7 @@ Class ends for both sections
 [Colab: Class Inheritance](https://colab.research.google.com/drive/1I02aNJpyjd-yoI2JHUsdNlZg13LnYqEf)  
 [M4-2 Recommenders](https://www.dropbox.com/scl/fi/a49gmyg76j4tzsqlyljq8/M4-1-recommenders.pptx?rlkey=xsxk1jao1cooqo3al3lkydbef&dl=0)  
 [M4-3 Candidate Generation](https://www.dropbox.com/scl/fi/p6ud2kwdeecujzm8tg9t2/M4-3-candidate-generation.pptx?rlkey=6bx5ujtkyl82geraa3yd3n0ur&dl=0)  
-
+[Colab: TFRS Recommenders](https://colab.research.google.com/drive/1cshSnohShWywOsKYfUYCFo5U4u2P8f_P?usp=sharing)  
 **Complete these readings/videos before next class meeting**  
 [Reinforcement Learning by MLU](https://mlu-explain.github.io/reinforcement-learning/)  
 [TF Reinforcement Learning](https://www.tensorflow.org/agents/tutorials/0_intro_rl)  
