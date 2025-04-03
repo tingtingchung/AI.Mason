@@ -4,9 +4,8 @@
 [Python Functions](https://www.dropbox.com/scl/fi/x612ydq2eenookvksr7fc/buad5802-m1-review-python-functions-slides.pptx?rlkey=ekmmcqced84nueupsdy0whtk3&dl=0)  
 [Colab: Python Functions](https://colab.research.google.com/drive/1sTsh0ICGwa_sku9oCR8v3MnK0IqYauMn)   
 [M4-1 Vector Similarity](https://www.dropbox.com/scl/fi/ey8ld5oa9y71ge05ut9tq/M4-2-vector-similarity.pptx?rlkey=kh01oofgmqtbssbd34gt797tu&dl=0)  
-[Colab: Vector Similarity](https://colab.research.google.com/drive/179fmYlLamCNObi5hqgRpGgecq-INL2to) & [Solution](https://docs.google.com/document/d/1QEc-OkPQhi2UNqOX8XFgrKdpINJWjxgNeloKCHFlkFo/edit?usp=sharing) 
-  
-[Worksheet #09: Vector Similarity](https://docs.google.com/document/d/1RoCutVies1UWwR0tJzIFc5UJvcDNoiH1azFTnN1s7dY/edit?tab=t.0)  
+[Colab: Vector Similarity](https://colab.research.google.com/drive/179fmYlLamCNObi5hqgRpGgecq-INL2to)  
+[Worksheet #09: Vector Similarity](https://docs.google.com/document/d/1RoCutVies1UWwR0tJzIFc5UJvcDNoiH1azFTnN1s7dY/edit?tab=t.0) & [Solution](https://docs.google.com/document/d/1QEc-OkPQhi2UNqOX8XFgrKdpINJWjxgNeloKCHFlkFo/edit?usp=sharing)    
 
 **Optional Midterm Review**  
 [Data file for sample exam](https://www.dropbox.com/scl/fi/y9wby4ph32s2cmfzylx5i/bank-additional-mason.csv?rlkey=k7aavmgfjoin3r1jq0hqq96so&dl=1)  
