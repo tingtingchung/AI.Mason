@@ -1,6 +1,6 @@
 **Module 4: Recommenders & Model Tuning**  
 
-**Class 8: LSTM, and Class Inheritance**  
+**Class 8: LSTM, Transformer, and Class Inheritance**  
 [Python Functions](https://www.dropbox.com/scl/fi/x612ydq2eenookvksr7fc/buad5802-m1-review-python-functions-slides.pptx?rlkey=ekmmcqced84nueupsdy0whtk3&dl=0)  
 [Colab: Python Functions](https://colab.research.google.com/drive/1sTsh0ICGwa_sku9oCR8v3MnK0IqYauMn)   
 [M4-1 Vector Similarity](https://www.dropbox.com/scl/fi/ey8ld5oa9y71ge05ut9tq/M4-2-vector-similarity.pptx?rlkey=kh01oofgmqtbssbd34gt797tu&dl=0)  
