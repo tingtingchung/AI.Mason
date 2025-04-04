@@ -56,7 +56,7 @@
 [M3-5 LSTM](https://www.dropbox.com/scl/fi/oqfg9tax1ydr11oxxl1gp/M3-5-LSTM.pptx?rlkey=g9sqqbaiil7h0m3fdbltsef35&dl=0)  
 [Excel Worksheet: LSTM](https://www.dropbox.com/scl/fi/wey1urooi3rbqgs0wxj39/m4-LSTM-in-Excel.xlsx?rlkey=rhxnb6qfrmbe0w4lmpe1g21uz&dl=0)  
 [Colab: RNN + LSTM for IMDB sentiment analysis](https://colab.research.google.com/drive/1YSOMgbXHJrOnGS7Vjtob9-etAxHjF_0_?usp=sharing)  
-[Excel Worksheet: Transformer](https://www.dropbox.com/scl/fi/4w458wv2l9eigsnno1w1f/m4-Transformer.xlsx?rlkey=kl6q25b93kvok6ckz29nrib16&dl=0)  
+[Excel Worksheet: Transformer](https://www.dropbox.com/scl/fi/4w458wv2l9eigsnno1w1f/m4-Transformer-in-Excel.xlsx?rlkey=kl6q25b93kvok6ckz29nrib16&dl=0)  
 
 **Complete these readings/videos before next class**  
 [ISLP:](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
