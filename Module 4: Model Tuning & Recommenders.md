@@ -40,6 +40,7 @@ Class ends for both sections
 [M4-2 Recommenders](https://www.dropbox.com/scl/fi/a49gmyg76j4tzsqlyljq8/M4-1-recommenders.pptx?rlkey=xsxk1jao1cooqo3al3lkydbef&dl=0)  
 [M4-3 Candidate Generation](https://www.dropbox.com/scl/fi/p6ud2kwdeecujzm8tg9t2/M4-3-candidate-generation.pptx?rlkey=6bx5ujtkyl82geraa3yd3n0ur&dl=0)  
 [Worksheet #12: Recommenders](https://docs.google.com/document/d/1xO20Dvj8Y_YosofXESfad7Q9O1s6UO3ANE7jy84cQmY/edit?usp=sharing)  
+[Useing side features: Feature preprocessing](https://www.tensorflow.org/recommenders/examples/featurization)  
 [Colab: TFRS Recommenders](https://colab.research.google.com/drive/1cshSnohShWywOsKYfUYCFo5U4u2P8f_P?usp=sharing)  
 
 **Complete these readings/videos before next class meeting**  
