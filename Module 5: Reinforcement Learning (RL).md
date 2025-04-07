@@ -8,6 +8,7 @@
 [M5-1 RL Intro](https://www.dropbox.com/scl/fi/pbxmgn7a4wvvkiysy6atj/M5-1-RL-intro-slides.pptx?rlkey=s7wwc17scgt4sm9gwtqd8kxvz&dl=0)  
 [M5-2 RL Key Concepts](https://www.dropbox.com/scl/fi/ydyp139jeuy7p728r4vmg/M5-2-RL-key-concepts.pptx?rlkey=txrz6uft2sgwom07ag5njekkn&dl=0)  
 [M5-3 Q-Learning](https://www.dropbox.com/scl/fi/tgxt8bnkq1v9xjhqs09hc/M5-3-Q-Learning.pptx?rlkey=w153s1528pzexstj7b0tfwjf0&dl=0)  
+[Worksheet #13: Reinforcement Learning Key Concepts](https://docs.google.com/document/d/15oVRmVOf3ycfpfEmL7dIeu5vdWogCwN7m6EaNsfeAaE/edit?usp=sharing)  
 
 **Complete this reading before next class meeting**  
 [Bugbee, E., Kamat, A., & Wilber, J. (n.d.). Reinforcement learning: A gentle introduction to learning from decisions, MLU-Explain.](https://mlu-explain.github.io/reinforcement-learning/)  
