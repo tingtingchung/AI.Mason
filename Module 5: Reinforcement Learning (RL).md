@@ -31,5 +31,5 @@
 
 **Class 12: Reinforcement Learning**  
 [M5-4 Multi-Armed Bandit](https://www.dropbox.com/scl/fi/k1a3cb07vz8l0ayhtybje/M5-4-multi-armed-bandit.pptx?rlkey=jdvypkrqeq0q44t6f5l71cyv9&dl=0)  
-[Colab: Multi-Armed Bamdit](https://colab.research.google.com/drive/1BH2b_rMNcMH-4jalYrvkYBF3-SQMo3LQ?usp=sharing#scrollTo=u69R0qx0Xxnp)  
+[Colab: Multi-Armed Bandit](https://colab.research.google.com/drive/1BH2b_rMNcMH-4jalYrvkYBF3-SQMo3LQ?usp=sharing#scrollTo=u69R0qx0Xxnp)  
 
