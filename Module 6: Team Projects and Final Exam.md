@@ -13,7 +13,7 @@ Expect 1-2 conceptual questions from each of these worksheets
 [Worksheet #14: Multi-Armed Bandit](https://docs.google.com/document/d/17fuAJIVoIqPUqO_QIIz5dIlnIZUAOnZI3w_dlFtF3dM/edit?tab=t.0) & Solution (coming soon)  
 
 *Optional Fun Stuff*  
-Responsible AI 
+Responsible AI  
 [What Are AI Comics #3: Who Lives? Who dies? Who decide?](https://dataresponsibly.github.io/we-are-ai/comics/vol3_en.pdf)  
 [We Are AI Comics #4: All About Bias](https://dataresponsibly.github.io/we-are-ai/comics/vol4_en.pdf)  
 [We Are AI Comics #5: We Are AI](https://dataresponsibly.github.io/we-are-ai/comics/vol5_en.pdf)  
