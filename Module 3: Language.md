@@ -55,6 +55,7 @@
 **Class 7: LSTM & LLM**  
 [M3-5 LSTM](https://www.dropbox.com/scl/fi/oqfg9tax1ydr11oxxl1gp/M3-5-LSTM.pptx?rlkey=g9sqqbaiil7h0m3fdbltsef35&dl=0)  
 [Excel Worksheet: LSTM](https://www.dropbox.com/scl/fi/wey1urooi3rbqgs0wxj39/m4-LSTM-in-Excel.xlsx?rlkey=rhxnb6qfrmbe0w4lmpe1g21uz&dl=0)  
+[Worksheet #08: RNN, LSTM, and Transformer](https://docs.google.com/document/d/1kLu77psZgtfq12HvnbVzmRUK7kvvCQUmpGLlh2zQxS4/edit?usp=sharing)  
 [Colab: RNN + LSTM for IMDB sentiment analysis](https://colab.research.google.com/drive/1YSOMgbXHJrOnGS7Vjtob9-etAxHjF_0_?usp=sharing)  
 [Excel Worksheet: Transformer](https://www.dropbox.com/scl/fi/8pvl3fpmvwncxetog476k/m4-Transformer-in-Excel.xlsx?rlkey=u6eit260f1hniakiac9ts2548&dl=0)  
 
