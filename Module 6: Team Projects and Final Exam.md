@@ -3,6 +3,7 @@
 
 **Final Exam**  
 Final Exam Practice available in Codio (via Blackboard).  
+[Worksheet #15: Final Exam Review](https://docs.google.com/document/d/1gu9yGAfKQVRcObYKSzuaBw4C1ZBe2II7UvvUep_oVOY/edit?tab=t.0): No Solution File  
 Expect 1-2 conceptual questions from each of these worksheets.  
 [Worksheet #07: Language - Featurizing Documents Digitally & Embeddings](https://docs.google.com/document/d/1V8E4GbSREKjZ0sLr1rhJjqCmWikHbAJRu5GZ2ziAwFw/edit?tab=t.0) & [Solution](https://docs.google.com/document/d/1OCrbBKYL5aGcPTz-qS-KgJeLU4fznyWvFbv4htu9VIQ/edit?usp=sharing)  
 [Worksheet #08: RNN, LSTM, and Transformer](https://docs.google.com/document/d/1kLu77psZgtfq12HvnbVzmRUK7kvvCQUmpGLlh2zQxS4/edit?usp=sharing) & [Solution](https://docs.google.com/document/d/1k8tNZBOED-wlpQbA4lZd0q1m9yzhaerhMXwBoymlRt4/edit?usp=sharing)  
