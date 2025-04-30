@@ -3,7 +3,7 @@
 **Class 8: LSTM, Transformer, and Class Inheritance**  
 [Python Functions](https://www.dropbox.com/scl/fi/x612ydq2eenookvksr7fc/buad5802-m1-review-python-functions-slides.pptx?rlkey=ekmmcqced84nueupsdy0whtk3&dl=0)  
 [Colab: Python Functions](https://colab.research.google.com/drive/1sTsh0ICGwa_sku9oCR8v3MnK0IqYauMn)   
-[M4-1 Vector Similarity](https://www.dropbox.com/scl/fi/ey8ld5oa9y71ge05ut9tq/M4-2-vector-similarity.pptx?rlkey=kh01oofgmqtbssbd34gt797tu&dl=0)  
+[M4-1 Lecture: Vector Similarity](https://www.dropbox.com/scl/fi/ey8ld5oa9y71ge05ut9tq/M4-2-vector-similarity.pptx?rlkey=kh01oofgmqtbssbd34gt797tu&dl=0)  
 [Colab: Vector Similarity](https://colab.research.google.com/drive/179fmYlLamCNObi5hqgRpGgecq-INL2to)  
 [Worksheet #09: Vector Similarity](https://docs.google.com/document/d/1RoCutVies1UWwR0tJzIFc5UJvcDNoiH1azFTnN1s7dY/edit?tab=t.0) & [Solution](https://docs.google.com/document/d/1QEc-OkPQhi2UNqOX8XFgrKdpINJWjxgNeloKCHFlkFo/edit?usp=sharing)    
 
@@ -34,11 +34,11 @@ Class ends for both sections
 [Let's Make a Movie Recommendation System](https://www.pbs.org/video/lets-make-a-movie-recommendation-system-lab-16-cmtwft/)  
 
 **Class 10: Recommenders**  
-[M4-0 Class Inheritance](https://www.dropbox.com/scl/fi/tvowo0e8t7qss5zd6uotz/buad5802-m1-review-class-inheritance-slides.pptx?rlkey=9w3jvxox6e14xsf8sgw8a7b8r&dl=0)  
+[M4-0 Lecture: Class Inheritance](https://www.dropbox.com/scl/fi/tvowo0e8t7qss5zd6uotz/buad5802-m1-review-class-inheritance-slides.pptx?rlkey=9w3jvxox6e14xsf8sgw8a7b8r&dl=0)  
 [Worksheet #11: Class Inheritance](https://docs.google.com/document/d/1qq1vcEIspxCNpLhwbAU8mRb44_Kl7aELxRJ4jKLEUhw/edit?usp=sharing) & Solution (coming soon)  
 [Colab: Class Inheritance](https://colab.research.google.com/drive/1I02aNJpyjd-yoI2JHUsdNlZg13LnYqEf)  
-[M4-2 Recommenders](https://www.dropbox.com/scl/fi/a49gmyg76j4tzsqlyljq8/M4-1-recommenders.pptx?rlkey=xsxk1jao1cooqo3al3lkydbef&dl=0)  
-[M4-3 Candidate Generation](https://www.dropbox.com/scl/fi/p6ud2kwdeecujzm8tg9t2/M4-3-candidate-generation.pptx?rlkey=6bx5ujtkyl82geraa3yd3n0ur&dl=0)  
+[M4-2 Lecture: Recommenders](https://www.dropbox.com/scl/fi/a49gmyg76j4tzsqlyljq8/M4-1-recommenders.pptx?rlkey=xsxk1jao1cooqo3al3lkydbef&dl=0)  
+[M4-3 Lecture: Candidate Generation](https://www.dropbox.com/scl/fi/p6ud2kwdeecujzm8tg9t2/M4-3-candidate-generation.pptx?rlkey=6bx5ujtkyl82geraa3yd3n0ur&dl=0)  
 [Worksheet #12: Recommenders](https://docs.google.com/document/d/1xO20Dvj8Y_YosofXESfad7Q9O1s6UO3ANE7jy84cQmY/edit?usp=sharing)  
 [Useing side features: Feature preprocessing](https://www.tensorflow.org/recommenders/examples/featurization)  
 [Colab: TFRS Recommenders](https://colab.research.google.com/drive/1cshSnohShWywOsKYfUYCFo5U4u2P8f_P?usp=sharing)  
