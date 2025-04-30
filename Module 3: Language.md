@@ -1,7 +1,7 @@
 **Class 5: Vision**  
-[M3-4 CNN3A: Convolution](https://www.dropbox.com/scl/fi/n7t8fi27nu3tadcn0i0wj/M3-4-CNN3A-conv.pptx?rlkey=eazdb831tp0w4umi40sl28rku&dl=0)  
-[M3-5 CNN3B: Pooling](https://www.dropbox.com/scl/fi/xnj81rtqx1bp0r0ie3eup/M3-5-CNN3B-pooling.pptx?rlkey=dyb24vnsgtqxs54p6r5b36y5b&dl=0)  
-[M3-6 CNN3C: Putting Everything Together](https://www.dropbox.com/scl/fi/85qk7ooo1fp4vybhpmknc/M3-6-CNN3C-putting-everything-together.pptx?rlkey=ga0uyp2ib4x4ty9j4guiq8voo&dl=0)   
+[M3-4 Lecture: CNN3A: Convolution](https://www.dropbox.com/scl/fi/n7t8fi27nu3tadcn0i0wj/M3-4-CNN3A-conv.pptx?rlkey=eazdb831tp0w4umi40sl28rku&dl=0)  
+[M3-5 Lecture: CNN3B: Pooling](https://www.dropbox.com/scl/fi/xnj81rtqx1bp0r0ie3eup/M3-5-CNN3B-pooling.pptx?rlkey=dyb24vnsgtqxs54p6r5b36y5b&dl=0)  
+[M3-6 Lecutre: CNN3C: Putting Everything Together](https://www.dropbox.com/scl/fi/85qk7ooo1fp4vybhpmknc/M3-6-CNN3C-putting-everything-together.pptx?rlkey=ga0uyp2ib4x4ty9j4guiq8voo&dl=0)   
 [Andrew Ng on how AI can power any business](https://www.ted.com/talks/andrew_ng_how_ai_could_empower_any_business?language=en)  
 
 [Colab: MNIST with CNN](https://colab.research.google.com/drive/15Udjs_HjIopW0R18f9lzznXnk63tzeX8) 
@@ -26,16 +26,16 @@
 [Cats vs. Dogs? Lets Make an AI to Settle This by CrashCourse AI](https://www.pbs.org/video/cats-vs-dogs-lets-make-an-ai-to-settle-this-lab-19-rp1lwa/) 
 
 **Class 6: RNN for Language**  
-[M3-1 Featurizing Documents Digitally](https://www.dropbox.com/scl/fi/5syj8l2q1gl30tuxy5qce/M3-1-featurizing-documents-digitally.pptx?rlkey=nnl9c7yzx9jujhd89rw9xnmcr&dl=0)   
+[M3-1 Lecture: Featurizing Documents Digitally](https://www.dropbox.com/scl/fi/5syj8l2q1gl30tuxy5qce/M3-1-featurizing-documents-digitally.pptx?rlkey=nnl9c7yzx9jujhd89rw9xnmcr&dl=0)   
 [Tiktokenizer](https://tiktokenizer.vercel.app/): Online playground for openai/tiktoken, calculating the correct number of tokens for a given prompt  
 [Worksheet #07: Language - Featurizing Documents Digitally & Embeddings](https://docs.google.com/document/d/1V8E4GbSREKjZ0sLr1rhJjqCmWikHbAJRu5GZ2ziAwFw/edit?tab=t.0) & [Solution](https://docs.google.com/document/d/1OCrbBKYL5aGcPTz-qS-KgJeLU4fznyWvFbv4htu9VIQ/edit?usp=sharing)    
 [Colab: Tokenization](https://colab.research.google.com/drive/16yYaORYT9hU6OC3xZQGzmyuGm9MUHgDq)  
 [Small Language Model Demo](https://www.cs.cmu.edu/~pvirtue/AIS/ngrams/ngrams.html)  
-[M3-2 Embeddings](https://www.dropbox.com/scl/fi/aa3vuov9o105xsrvf4fs6/M3-2-embeddings.pptx?rlkey=0w897if9s4f6fgso1ondx2n93&dl=0)    
+[M3-2 Lecture: Embeddings](https://www.dropbox.com/scl/fi/aa3vuov9o105xsrvf4fs6/M3-2-embeddings.pptx?rlkey=0w897if9s4f6fgso1ondx2n93&dl=0)    
 [Tensorflow's Embedding Explorer](https://projector.tensorflow.org/)  
-[M3-3 RNN](https://www.dropbox.com/scl/fi/n29yaptji7s809al1fyq5/M3-3-rnn.pptx?rlkey=cg6he9wjzm0yes64d0lacqqsd&dl=0)  
+[M3-3 Lecture: RNN](https://www.dropbox.com/scl/fi/n29yaptji7s809al1fyq5/M3-3-rnn.pptx?rlkey=cg6he9wjzm0yes64d0lacqqsd&dl=0)  
 [Excel Worksheet: RNN](https://www.dropbox.com/scl/fi/g7t9nhunmlxj1x9roubo3/m4-language-worksheets.xlsx?rlkey=pocyqdsmu7tk7bizdav00gqhd&dl=0)  
-[M3-4 RNN for Document Classification](https://www.dropbox.com/scl/fi/lhubtpz6khf6fgifrpohs/M3-4-rnn-for-document-classification.pptx?rlkey=07kbmgxhs2q1vnolygsxsfwkr&dl=0)  
+[M3-4 Lecture: RNN for Document Classification](https://www.dropbox.com/scl/fi/lhubtpz6khf6fgifrpohs/M3-4-rnn-for-document-classification.pptx?rlkey=07kbmgxhs2q1vnolygsxsfwkr&dl=0)  
 
 **Complete these readings/videos before next class**  
 [Keras LSTM Layer](https://keras.io/api/layers/recurrent_layers/lstm/)  
@@ -53,7 +53,7 @@
 [Natural Language Processing by CrashCourse AI](https://www.pbs.org/video/natural-language-processing-7-eroyod/)  
 
 **Class 7: LSTM & LLM**  
-[M3-5 LSTM](https://www.dropbox.com/scl/fi/oqfg9tax1ydr11oxxl1gp/M3-5-LSTM.pptx?rlkey=g9sqqbaiil7h0m3fdbltsef35&dl=0)  
+[M3-5 Lecture: LSTM](https://www.dropbox.com/scl/fi/oqfg9tax1ydr11oxxl1gp/M3-5-LSTM.pptx?rlkey=g9sqqbaiil7h0m3fdbltsef35&dl=0)  
 [Excel Worksheet: LSTM](https://www.dropbox.com/scl/fi/wey1urooi3rbqgs0wxj39/m4-LSTM-in-Excel.xlsx?rlkey=rhxnb6qfrmbe0w4lmpe1g21uz&dl=0)  
 [Worksheet #08: RNN, LSTM, and Transformer](https://docs.google.com/document/d/1kLu77psZgtfq12HvnbVzmRUK7kvvCQUmpGLlh2zQxS4/edit?usp=sharing)  
 [Colab: RNN + LSTM for IMDB sentiment analysis](https://colab.research.google.com/drive/1YSOMgbXHJrOnGS7Vjtob9-etAxHjF_0_?usp=sharing)  
