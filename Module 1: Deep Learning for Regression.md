@@ -1,8 +1,8 @@
 **Deep Learning for Regression**  
 
 **Class 1: Course Intro & Deep Learning for Regression**  
-[M1-0 Course Intro](https://www.dropbox.com/scl/fi/4ohk3ntbxf949fi84zkw0/M1-0-AI-Course-Introduction.pptx?rlkey=utlxlobdz55bvojmik2vgdmje&dl=0)  
-[M1-4 Linear Regression Review](https://www.dropbox.com/scl/fi/vf0dzuagmc0k3s7mtojhw/M1-4-regression-review.pptx?rlkey=544llky6vnijzahvv7736tj3h&dl=0)  
+[M1-0 Lecture: Course Intro](https://www.dropbox.com/scl/fi/4ohk3ntbxf949fi84zkw0/M1-0-AI-Course-Introduction.pptx?rlkey=utlxlobdz55bvojmik2vgdmje&dl=0)  
+[M1-4 Lecture: Linear Regression Review](https://www.dropbox.com/scl/fi/vf0dzuagmc0k3s7mtojhw/M1-4-regression-review.pptx?rlkey=544llky6vnijzahvv7736tj3h&dl=0)  
 **Review these Colabs before next class**  
 [linear regression review](https://colab.research.google.com/drive/1vKXdFFfMwA92GkTQdN7PAvs5LOMRRrFb?usp=drive_link)  
 [Pandas review](https://drive.google.com/file/d/10Tl_-KXy4JdZTYiZZTHFUdYy276PFbga/view?usp=sharing)  
@@ -45,8 +45,8 @@ For an excellent refresher of regression, review Chapter 3 of [ISLP](https://has
 [Michael Littman and Charles Isbell's clustering song](https://www.youtube.com/watch?v=MAU0gQXn28s&list=PLrpsa0hmc1hxKEl6PFWBl5Yt2zNNRbbx8&index=11)  
 
 **Class 2: Deep Learning for Regression with Tensorflow**  
-[M1-1 What is AI](https://www.dropbox.com/scl/fi/epdabsnjn17tih6zwj5mo/M1-1-what-is-AI.pptx?rlkey=fo4j1nq6rznfc6lewg5pps0dr&dl=0)  
-[M1-2 Intro to DL](https://www.dropbox.com/scl/fi/buxnfp6912r6w22a0mc7s/M1-2-intro-to-DL.pptx?rlkey=0kfqdvle480ayw9mi1xigxrtc&dl=0)  
+[M1-1 Lecture: What is AI](https://www.dropbox.com/scl/fi/epdabsnjn17tih6zwj5mo/M1-1-what-is-AI.pptx?rlkey=fo4j1nq6rznfc6lewg5pps0dr&dl=0)  
+[M1-2 Lecture: Intro to DL](https://www.dropbox.com/scl/fi/buxnfp6912r6w22a0mc7s/M1-2-intro-to-DL.pptx?rlkey=0kfqdvle480ayw9mi1xigxrtc&dl=0)  
 [M1-3 Dr. Chung's Single Neuron Simulator](https://docs.google.com/spreadsheets/d/1KDGiwAF2GStEZc2WUgbJ7CE7NHktZhAVpcRNulHfqpw/edit?usp=sharing) and [tutorial video](https://www.youtube.com/watch?v=r9WOZs42Evw&list=PLjomhJShbk6RectVgKBsbhGZ5KCACyvKq&index=3)  
 
 [Worksheet #01: Single Neuron Simulator](https://docs.google.com/document/d/1OwOPf8GlJUogBxwkSR-cLWm1bSFFK-QE8rMeIw7XLko/edit?tab=t.0) & [Solution](https://tinyurl.com/3zkjrdt3)  
