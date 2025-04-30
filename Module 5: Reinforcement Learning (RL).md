@@ -5,9 +5,9 @@
 [Manuela Veloso & RoboCup](https://www.youtube.com/watch?v=tAd1IeovyY8)  
 [Google DeepMind: Ground-breaking AlphaGo masters the game of Go](https://www.youtube.com/watch?v=SUbqykXVx0A)  
 [The Computer that Mastered Go](https://www.youtube.com/watch?v=g-dKXOlsf98)  
-[M5-1 RL Intro](https://www.dropbox.com/scl/fi/pbxmgn7a4wvvkiysy6atj/M5-1-RL-intro-slides.pptx?rlkey=s7wwc17scgt4sm9gwtqd8kxvz&dl=0)  
-[M5-2 RL Key Concepts](https://www.dropbox.com/scl/fi/ydyp139jeuy7p728r4vmg/M5-2-RL-key-concepts.pptx?rlkey=txrz6uft2sgwom07ag5njekkn&dl=0)  
-[M5-3 Q-Learning](https://www.dropbox.com/scl/fi/tgxt8bnkq1v9xjhqs09hc/M5-3-Q-Learning.pptx?rlkey=w153s1528pzexstj7b0tfwjf0&dl=0)  
+[M5-1 Lecture: RL Intro](https://www.dropbox.com/scl/fi/pbxmgn7a4wvvkiysy6atj/M5-1-RL-intro-slides.pptx?rlkey=s7wwc17scgt4sm9gwtqd8kxvz&dl=0)  
+[M5-2 Lecture: RL Key Concepts](https://www.dropbox.com/scl/fi/ydyp139jeuy7p728r4vmg/M5-2-RL-key-concepts.pptx?rlkey=txrz6uft2sgwom07ag5njekkn&dl=0)  
+[M5-3 Lecture: Q-Learning](https://www.dropbox.com/scl/fi/tgxt8bnkq1v9xjhqs09hc/M5-3-Q-Learning.pptx?rlkey=w153s1528pzexstj7b0tfwjf0&dl=0)  
 [Worksheet #13: Reinforcement Learning Key Concepts](https://docs.google.com/document/d/15oVRmVOf3ycfpfEmL7dIeu5vdWogCwN7m6EaNsfeAaE/edit?usp=sharing)  
 
 **Complete this reading before next class meeting**  
@@ -30,7 +30,7 @@
 [We Need to Talk about AI.](https://www.imdb.com/title/tt7658158/?ref_=nm_flmg_slf_2)  
 
 **Class 12: Reinforcement Learning**  
-[M5-4 Multi-Armed Bandit](https://www.dropbox.com/scl/fi/k1a3cb07vz8l0ayhtybje/M5-4-multi-armed-bandit.pptx?rlkey=jdvypkrqeq0q44t6f5l71cyv9&dl=0)  
+[M5-4 Lecture: Multi-Armed Bandit](https://www.dropbox.com/scl/fi/k1a3cb07vz8l0ayhtybje/M5-4-multi-armed-bandit.pptx?rlkey=jdvypkrqeq0q44t6f5l71cyv9&dl=0)  
 [Worksheet #14: Multi-Armed Bandit](https://docs.google.com/document/d/17fuAJIVoIqPUqO_QIIz5dIlnIZUAOnZI3w_dlFtF3dM/edit?tab=t.0)  
 [Colab: Multi-Armed Bandit](https://colab.research.google.com/drive/1BH2b_rMNcMH-4jalYrvkYBF3-SQMo3LQ?usp=sharing#scrollTo=u69R0qx0Xxnp)  
 
