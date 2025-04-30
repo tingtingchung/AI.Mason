@@ -1,11 +1,11 @@
 **Module 2: Deep Learning for Classification & Vision**  
 
 **Class 3: Deep Learning for Classification**  
-[M2-1 Classification](https://www.dropbox.com/scl/fi/1jdkhx8f3kq11f94igggi/M2-1-classification.pptx?rlkey=2e3u73vhu4cxch4lvkzkcsqx3&dl=0)  
-[M2-2 Optimization](https://www.dropbox.com/scl/fi/wudc9bgdb9gqr7lsaova4/M2-2-optimization.pptx?rlkey=2ceutabjj2pbnj86ktv5b5bc1&dl=0)  
-[M2-3 Activation Functions](https://www.dropbox.com/scl/fi/8clv98zfhn5tsc1fzf1xc/M2-3-activation-functions.pptx?rlkey=165w0kvryhteegc7dnw9qe74w&dl=0)  
-[M2-4 Keras Model Compilation](https://www.dropbox.com/scl/fi/g0gwzqubs4mvn44ox68oe/M2-4-keras-model-compilation.pptx?rlkey=hx3o9fopm1uamzf93kso3zvjt&dl=0)  
-[M2-5 Keras Model Loss & Metrics](https://www.dropbox.com/scl/fi/wmaxv99ypylde1s24eu8u/M2-5-keras-model-loss-and-metrics.pptx?rlkey=ruxf7tywqy0nh60zsish9o221&dl=0)  
+[M2-1 Lecture: Classification](https://www.dropbox.com/scl/fi/1jdkhx8f3kq11f94igggi/M2-1-classification.pptx?rlkey=2e3u73vhu4cxch4lvkzkcsqx3&dl=0)  
+[M2-2 Lecture: Optimization](https://www.dropbox.com/scl/fi/wudc9bgdb9gqr7lsaova4/M2-2-optimization.pptx?rlkey=2ceutabjj2pbnj86ktv5b5bc1&dl=0)  
+[M2-3 Lecture: Activation Functions](https://www.dropbox.com/scl/fi/8clv98zfhn5tsc1fzf1xc/M2-3-activation-functions.pptx?rlkey=165w0kvryhteegc7dnw9qe74w&dl=0)  
+[M2-4 Lecture: Keras Model Compilation](https://www.dropbox.com/scl/fi/g0gwzqubs4mvn44ox68oe/M2-4-keras-model-compilation.pptx?rlkey=hx3o9fopm1uamzf93kso3zvjt&dl=0)  
+[M2-5 Lecture: Keras Model Loss & Metrics](https://www.dropbox.com/scl/fi/wmaxv99ypylde1s24eu8u/M2-5-keras-model-loss-and-metrics.pptx?rlkey=ruxf7tywqy0nh60zsish9o221&dl=0)  
 
 [Colab: to_categorical() vs. get_dummies()](https://colab.research.google.com/drive/1-_2u9jQ4d-yL1QVu4oH4UVRjZW11ZxZe)  
 [Colab: Deep Learning Classifier with Tensorflow](https://colab.research.google.com/drive/1szq7Vy4ZsUBNzR398lkLbAQKm3LRfqoS)   
@@ -36,9 +36,9 @@
 [Fei-Fei Li's TED Talk: How we teach computers to understand pictures](https://youtu.be/40riCqvRoMs)  
 [Yann Lecun's CNN demo from 1989](https://www.youtube.com/watch?v=FwFduRA_L6Q)  
 [2018 ACM Turing Award for Bengio, Lecun & Hinton](https://www.youtube.com/watch?v=HzilDIhWhrE)  
-[M3-1 Representing Images Digitally](https://www.dropbox.com/scl/fi/w3u3mwvhk0y4u939zdgrr/M3-1-representing-images-digitally.pptx?rlkey=tewbfa6pvk6einac6qq5ushmj&dl=0)  
-[M3-2 CNN1: Xs](https://www.dropbox.com/scl/fi/bueecft6bfhhcy45kpgzx/M3-2-CNN1-Xs.pptx?rlkey=s6axruxee5priz7zcrvjn7wec&dl=0)  
-[M3-3 CNN2: Y](https://www.dropbox.com/scl/fi/hoyes1kx6rp07cj41i0n7/M3-3-CNN2-Y.pptx?rlkey=xuo9v6m9dgq9t1znv6wbaxu2q&dl=0)  
+[M3-1 Lecture: Representing Images Digitally](https://www.dropbox.com/scl/fi/w3u3mwvhk0y4u939zdgrr/M3-1-representing-images-digitally.pptx?rlkey=tewbfa6pvk6einac6qq5ushmj&dl=0)  
+[M3-2 Lecture: CNN1: Xs](https://www.dropbox.com/scl/fi/bueecft6bfhhcy45kpgzx/M3-2-CNN1-Xs.pptx?rlkey=s6axruxee5priz7zcrvjn7wec&dl=0)  
+[M3-3Lecture: CNN2: Y](https://www.dropbox.com/scl/fi/hoyes1kx6rp07cj41i0n7/M3-3-CNN2-Y.pptx?rlkey=xuo9v6m9dgq9t1znv6wbaxu2q&dl=0)  
 
 [Teachable Machine](https://teachablemachine.withgoogle.com/)  
 [ConvNet Demo](https://cs.stanford.edu/people/karpathy/convnetjs/)  
