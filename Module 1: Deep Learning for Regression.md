@@ -3,6 +3,7 @@
 **Class 1: Course Intro & Deep Learning for Regression**  
 [M1-0 Lecture: Course Intro](https://www.dropbox.com/scl/fi/4ohk3ntbxf949fi84zkw0/M1-0-AI-Course-Introduction.pptx?rlkey=utlxlobdz55bvojmik2vgdmje&dl=0)  
 [M1-4 Lecture: Linear Regression Review](https://www.dropbox.com/scl/fi/vf0dzuagmc0k3s7mtojhw/M1-4-regression-review.pptx?rlkey=544llky6vnijzahvv7736tj3h&dl=0)  
+
 **Review these Colabs before next class**  
 [linear regression review](https://colab.research.google.com/drive/1vKXdFFfMwA92GkTQdN7PAvs5LOMRRrFb?usp=drive_link)  
 [Pandas review](https://drive.google.com/file/d/10Tl_-KXy4JdZTYiZZTHFUdYy276PFbga/view?usp=sharing)  
@@ -14,6 +15,7 @@
 [Chapter 10.1 Single Layer NN, ISLP](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
 [Neural Networks by MLU-Explain](https://mlu-explain.github.io/neural-networks/)  
 [Case Study: Zillow Home Value Index Methodology (Zestimate)](https://www.zillow.com/research/methodology-neural-zhvi-32128/)  
+[Visual Tool: Linear Regression by Vizuara](https://vizuara-ai-learning-lab.vercel.app/learning/linear-regression)  
 [A Brief History of AI, AITopics](https://aitopics.org/misc/brief-history)  
 [The Sequential Model](https://www.tensorflow.org/guide/keras/sequential_model)  
 [The Keras Functional API](https://www.tensorflow.org/guide/keras/functional)  
