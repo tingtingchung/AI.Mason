@@ -28,6 +28,7 @@
 *Optional References*  
 [Yann Lecun's TED Talk on Deep learning, neural networks and the future of AI](https://www.ted.com/talks/yann_lecun_deep_learning_neural_networks_and_the_future_of_ai)  
 [ImageNet classification with deep convolutional neural networks](https://dl.acm.org/doi/abs/10.1145/3065386)   
+[Embedding Visualizer on Molab](https://molab.marimo.io/notebooks/nb_jJiFFtznAy4BxkrrZA1o9b)  
 
 *Optional Fun Stuff*  
 [Backpropagation & Optimization by CrashCourse AI](https://www.pbs.org/video/training-neural-networks-4-mq025r/)  
