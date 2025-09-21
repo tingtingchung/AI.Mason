@@ -3,11 +3,11 @@
 [M3-5 Lecture: CNN3B: Pooling](https://www.dropbox.com/scl/fi/xnj81rtqx1bp0r0ie3eup/M3-5-CNN3B-pooling.pptx?rlkey=dyb24vnsgtqxs54p6r5b36y5b&dl=0)  
 [M3-6 Lecutre: CNN3C: Putting Everything Together](https://www.dropbox.com/scl/fi/85qk7ooo1fp4vybhpmknc/M3-6-CNN3C-putting-everything-together.pptx?rlkey=ga0uyp2ib4x4ty9j4guiq8voo&dl=0)   
 [Andrew Ng on how AI can power any business](https://www.ted.com/talks/andrew_ng_how_ai_could_empower_any_business?language=en)  
-
 [Colab: MNIST with CNN](https://colab.research.google.com/drive/15Udjs_HjIopW0R18f9lzznXnk63tzeX8) 
 
 **Complete these readings/videos before next class**  
 [Chapter 10.4 & 10.5 Recurrent Neural Networks, ISLP](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
+[Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
 [TF Word Embeddings](https://www.tensorflow.org/text/guide/word_embeddings)  
 [TF Tokenizers](https://www.tensorflow.org/text/guide/tokenizers)  
 [Keras Recurrent Layers](https://keras.io/api/layers/recurrent_layers/)  
@@ -39,8 +39,7 @@
 
 **Complete these readings/videos before next class**  
 [Keras LSTM Layer](https://keras.io/api/layers/recurrent_layers/lstm/)  
-[How AI Works by Nir Zicherman](https://every.to/p/how-ai-works?fbclid=IwAR2KWfiKq627x9SxpTpZojaxHSjaA0zcEELySUyEGhD7jbWzcS3vFNyJ4OI)  
-[A Word is Worth A Thousand Vectors by Chris Moody at Stitch Fix](https://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)  
+[Visual tool: Self Attention Mechanism by Vizuara](https://vizuara-ai-learning-lab.vercel.app/learning/self-attention)  
 
 *Optional References*  
 [word2vec](https://code.google.com/archive/p/word2vec/)  
@@ -51,6 +50,8 @@
 
 *Optional Fun Stuff*  
 [Natural Language Processing by CrashCourse AI](https://www.pbs.org/video/natural-language-processing-7-eroyod/)  
+[How AI Works by Nir Zicherman](https://every.to/p/how-ai-works?fbclid=IwAR2KWfiKq627x9SxpTpZojaxHSjaA0zcEELySUyEGhD7jbWzcS3vFNyJ4OI)  
+[A Word is Worth A Thousand Vectors by Chris Moody at Stitch Fix](https://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)  
 
 **Class 7: LSTM & LLM**  
 [M3-5 Lecture: LSTM](https://www.dropbox.com/scl/fi/oqfg9tax1ydr11oxxl1gp/M3-5-LSTM.pptx?rlkey=g9sqqbaiil7h0m3fdbltsef35&dl=0)  
