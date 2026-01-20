@@ -2,6 +2,7 @@
 *Dr. Rachel Chung's course materials for AI in the residential MSBA program at William &amp; Mary*     
 
 **References**  
+[An Introduction to Statistical Learning with Python](https://www.statlearning.com/)  
 [Deep Learning by Kelleher](https://mitpress.mit.edu/9780262537551/deep-learning/)  
 [Deep Learning by Goodfellow, Bengio and Courville](https://www.deeplearningbook.org/)  
 [Artificial Intelligence: A Modern Approach by Russell and Norvig](https://aima.cs.berkeley.edu/)  
