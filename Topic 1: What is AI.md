@@ -1,4 +1,4 @@
-**Topic 1: What is AI?**
+**Topic 1: What is AI?**  
 [Lecture: What is AI](https://www.dropbox.com/scl/fi/donxqawts7kh925gb7wmc/CH01-What-is-AI.pptx?rlkey=ivumh6yekpxfa5qdiwmfz96s2&dl=0)    
 [Dr. Chung's overview of Google Colab](https://youtu.be/p7VdFVm8TJg) 
 [Welcome to Colab](https://colab.research.google.com/drive/https:/colab.research.google.com/drive/1LfDI7cDOmnbsYAfwqu9l4h3FQSG8dJrz)  
