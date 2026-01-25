@@ -14,8 +14,7 @@
 [Python review: NumPy](https://colab.research.google.com/drive/1RDwaBoeI42-Mx__h4yZrdNVlxpyTre5T?usp=drive_link)  
 [Python review: Visualization](https://colab.research.google.com/drive/1T-fERlLNbyOq_WNQmsQ1I0gFZXCHhIUT?usp=drive_link)  
 
-*optional fun stuff*
-[What is AI (CrashCourse by PBS)](https://www.youtube.com/watch?v=a0_lo_GDcFw&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=2&t=1s)  
 *Optional Fun Stuff*  
+[What is AI (CrashCourse by PBS)](https://www.youtube.com/watch?v=a0_lo_GDcFw&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=2&t=1s)  
 [We Are AI Comics #1: What is AI?](https://dataresponsibly.github.io/we-are-ai/)  
 [Supervised Learning (CrashCourse by PBS)](https://www.youtube.com/watch?v=4qVRBYAdLAo&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=3)  
