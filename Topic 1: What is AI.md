@@ -8,6 +8,7 @@
 [A Brief History of AI, AITopics](https://aitopics.org/misc/brief-history)  
 [Regression from Seeing Theory](https://seeing-theory.brown.edu/#secondPage/chapter6)  
 [Linear Regression by MLU-Explain](https://mlu-explain.github.io/linear-regression/)  
+[Logistic Regression by MLU-Explain](https://mlu-explain.github.io/)  
 [Python review: Functions](https://colab.research.google.com/drive/1Z9zHXoPFcWAEBmltWx8Krzajx5tytlQU?usp=drive_link)  
 [Python review: Lists](https://colab.research.google.com/drive/1lJW7pwDV5omCgytteDTIefdOtw5pkFop?usp=sharing)  
 [Python review: NumPy](https://colab.research.google.com/drive/1RDwaBoeI42-Mx__h4yZrdNVlxpyTre5T?usp=drive_link)  
