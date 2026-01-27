@@ -1,10 +1,11 @@
 **Topic 01: What is AI?**  
-[Lecture: What is AI](https://www.dropbox.com/scl/fi/donxqawts7kh925gb7wmc/CH01-What-is-AI.pptx?rlkey=ivumh6yekpxfa5qdiwmfz96s2&dl=0)    
+[Lecture: What is AI](https://www.dropbox.com/scl/fi/donxqawts7kh925gb7wmc/CH01-What-is-AI.pptx?rlkey=ivumh6yekpxfa5qdiwmfz96s2&dl=0)  
+[Worksheet #01: What is AI?](https://docs.google.com/document/d/1sSoIp--8tMXKVrSa-ib_hFDJ6xbf6XkyBJ9Qc1W3PjU/edit?usp=drive_link)  
+
+**Complete these readings/videos/Colabs before next class**  
 [Dr. Chung's overview of Google Colab](https://youtu.be/p7VdFVm8TJg) 
 [Welcome to Colab](https://colab.research.google.com/drive/https:/colab.research.google.com/drive/1LfDI7cDOmnbsYAfwqu9l4h3FQSG8dJrz)  
 [Overview of Colab Features](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)  
-
-**Complete these readings/videos/Colabs before next class**  
 [A Brief History of AI, AITopics](https://aitopics.org/misc/brief-history)  
 [Regression from Seeing Theory](https://seeing-theory.brown.edu/#secondPage/chapter6)  
 [Linear Regression by MLU-Explain](https://mlu-explain.github.io/linear-regression/)  
