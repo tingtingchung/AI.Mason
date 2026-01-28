@@ -11,3 +11,6 @@ For an excellent refresher of regression, review Chapter 3 of [ISLP](https://has
 
 *optional fun stuff*  
 [Functions describe the world](https://www.youtube.com/watch?v=PAZTIAfaNr8)   
+
+**References**  
+[Think Linear Algebra by Allen Downey](https://allendowney.github.io/ThinkLinearAlgebra/index.html)  
