@@ -1,4 +1,4 @@
-[Worksheet #02: Programming & Math Foundations](https://docs.google.com/document/d/1DS1WE5bafZCgyPvvi2yl2ug8EsiSbvDgLqxuHubmx2c/edit?tab=t.0) [PDF](https://www.dropbox.com/scl/fi/jqk9f0mnyi5jfft972jju/AI-Worksheet-02_-Programming-Math-Foundations.pdf?rlkey=rx7wah29muscmojqvwxcqxssx&dl=0)   
+[Worksheet #02: Programming & Math Foundations](https://docs.google.com/document/d/1DS1WE5bafZCgyPvvi2yl2ug8EsiSbvDgLqxuHubmx2c/edit?tab=t.0) [PDF](https://www.dropbox.com/scl/fi/jqk9f0mnyi5jfft972jju/AI-Worksheet-02_-Programming-Math-Foundations.pdf?rlkey=rx7wah29muscmojqvwxcqxssx&dl=1)   
 [Slidedeck: Programming & Math Foundations](https://www.dropbox.com/scl/fi/at6s37m97yhes7gup769x/CH03-Math-Foundations-Part-1-of-2.pptx?rlkey=6if93bllbsk72owbdhvlr1r2n&dl=0)  
 
 **Topic 02: Python Programming**  
