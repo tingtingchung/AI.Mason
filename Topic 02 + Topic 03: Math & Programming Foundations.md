@@ -1,4 +1,4 @@
-[Worksheet #02: Programming & Math Foundations](https://docs.google.com/document/d/1DS1WE5bafZCgyPvvi2yl2ug8EsiSbvDgLqxuHubmx2c/edit?tab=t.0) [PDF](https://www.dropbox.com/scl/fi/jqk9f0mnyi5jfft972jju/AI-Worksheet-02_-Programming-Math-Foundations.pdf?rlkey=rx7wah29muscmojqvwxcqxssx&dl=1)   
+[Worksheet #02: Programming & Math Foundations](https://docs.google.com/document/d/1DS1WE5bafZCgyPvvi2yl2ug8EsiSbvDgLqxuHubmx2c/edit?tab=t.0) [PDF](https://www.dropbox.com/scl/fi/jqk9f0mnyi5jfft972jju/AI-Worksheet-02_-Programming-Math-Foundations.pdf?rlkey=rx7wah29muscmojqvwxcqxssx&dl=1) [solution](https://docs.google.com/document/d/1BFh9uEJcCDAP9TDSpb1QdA0qqUYxf3P820Jjqc2fbCI/edit?usp=sharing)     
 [Slidedeck: Programming & Math Foundations](https://www.dropbox.com/scl/fi/at6s37m97yhes7gup769x/CH03-Math-Foundations-Part-1-of-2.pptx?rlkey=6if93bllbsk72owbdhvlr1r2n&dl=0)  
 [Class House Shopping Dataset](https://docs.google.com/spreadsheets/d/1eHE8CNgIUOSIHtay-UGTtb68f_PNx89f8s2OfSe-tJQ/edit?gid=569807551#gid=569807551)  
 
