@@ -9,6 +9,9 @@ Topic 04: Estimating Values
 **Required Reading**  
 [Chapter 10.1 Single Layer NN, ISLP](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
 
+**Colab Tutorial**  
+[Colab: TF for Regression](https://colab.research.google.com/drive/1ufcwKcDa5GWmbbXbe4cCT7V2gDnmem3b)  
+
 **Optional References**  
 [Tensorflow2 quickstart for beginners](https://www.tensorflow.org/tutorials/quickstart/beginner)  
 [Neural Networks by MLU-Explain](https://mlu-explain.github.io/neural-networks/)  
