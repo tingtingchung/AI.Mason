@@ -1,4 +1,4 @@
-Topic 04: Estimating Values  
+**Topic 04: Estimating Values**  
 [Slidedeck: Introduction to Deep Learning](https://www.dropbox.com/scl/fi/uxiumvxy3sok68uu8yzt5/CH01-How-Machines-Learn.pptx?rlkey=2mmwdpu8jwi94q3qifiinmm0t&dl=0)  
 [Worksheet #03: How AI Works](https://docs.google.com/document/d/1stZ5UtJM2E_6lhbInTnRAwzYA0oat4cBr_DN1Ty7lfs/edit?usp=drive_link) [solution](https://docs.google.com/document/d/1Dl1X9HTjWOux1VHDiaxlL1oilPyn7SqLbyMB94GyeqM/edit?usp=sharing) 
 
