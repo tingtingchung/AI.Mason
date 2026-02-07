@@ -12,6 +12,7 @@
 
 **Colab Tutorial**  
 [Colab: TF for Regression](https://colab.research.google.com/drive/1ufcwKcDa5GWmbbXbe4cCT7V2gDnmem3b)  
+[Colab: Zillow Data with Tensorflow](https://colab.research.google.com/drive/1fCEu0cIj8raD1o5fqLSLL9j7pgVcCZJ0)  
 
 **Optional References**  
 [Tensorflow2 quickstart for beginners](https://www.tensorflow.org/tutorials/quickstart/beginner)  
