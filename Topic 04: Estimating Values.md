@@ -18,5 +18,6 @@
 [The Sequential Model](https://www.tensorflow.org/guide/keras/sequential_model)  
 [The Keras Functional API](https://www.tensorflow.org/guide/keras/functional)  
 [Neural Networks by MLU-Explain](https://mlu-explain.github.io/neural-networks/)  
+[Perceptron with SKLearn](https://scikit-learn.org/stable/modules/linear_model.html#perceptron)  
 [Case Study: Zillow Home Value Index Methodology (Zestimate)](https://www.zillow.com/research/methodology-neural-zhvi-32128/)  
 [NN Playground by Tensorflow](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56945&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)   
