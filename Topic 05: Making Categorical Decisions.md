@@ -1,4 +1,4 @@
-Topic 05: Making Categorical Decisions
+**Topic 05: Making Categorical Decisions**  
 
 **Lecture materials**  
 [TP2 Slidedeck](https://www.dropbox.com/scl/fi/5q4ililsgngk38vxgn5sh/AI-Final-Team-Project-Instructions.pptx?rlkey=226plwpe0uawzp5xiq8crty7s&dl=0)  
