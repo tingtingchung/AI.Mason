@@ -1,4 +1,4 @@
-**Topic 9: Introduction to Language Models**  
+**Topic 09: Introduction to Language Models**  
 
 **Demos**  
 [Tiktokenizer](https://tiktokenizer.vercel.app/)  
