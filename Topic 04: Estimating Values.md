@@ -23,3 +23,9 @@
 [Perceptron with SKLearn](https://scikit-learn.org/stable/modules/linear_model.html#perceptron)  
 [Case Study: Zillow Home Value Index Methodology (Zestimate)](https://www.zillow.com/research/methodology-neural-zhvi-32128/)  
 [NN Playground by Tensorflow](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.56945&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)   
+
+**Optional Fun Stuff**  
+[We Are AI Comics #2: Learning from Data](https://dataresponsibly.github.io/we-are-ai/comics/vol2_en.pdf)  
+[Neural network comic strip (Google Cloud)](https://cloud.google.com/products/ai/ml-comic-2?fbclid=IwAR3Dj-zu0dHb45b_fzFp6MQsvnUMLs67Tguo4ojdgKQQYrVYqC73ZoZmGPE)  
+[Neural Networks & Deep Learning (CrashCourse by PBS)](https://www.youtube.com/watch?v=oV3ZY6tJiA0&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=4)  
+
