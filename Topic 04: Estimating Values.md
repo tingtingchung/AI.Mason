@@ -15,6 +15,7 @@
 [Colab: Zillow Data with Tensorflow](https://colab.research.google.com/drive/1fCEu0cIj8raD1o5fqLSLL9j7pgVcCZJ0)  
 
 **Optional References**  
+[LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. nature, 521(7553), 436-444.](https://s3.us-east-2.amazonaws.com/hkg-website-assets/static/pages/files/DeepLearning.pdf)  
 [Tensorflow2 quickstart for beginners](https://www.tensorflow.org/tutorials/quickstart/beginner)  
 [The Sequential Model](https://www.tensorflow.org/guide/keras/sequential_model)  
 [The Keras Functional API](https://www.tensorflow.org/guide/keras/functional)  
