@@ -8,7 +8,7 @@
 > Chapter 10.7.4: Network Tuning  
 > Chapter 10.8: Interpolation and Double Descent  
 
-*Optional *References**  
+**Optional *References**  
 [Model Evaluation: Overfit and underfit by TF](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit)  
 [Regularization: Playground Exercise](https://developers.google.com/machine-learning/crash-course/regularization-for-sparsity/playground-exercise)  
 [Wilber, J. (2022, June). ROC & AUC. MLU-Explain.](https://mlu-explain.github.io/roc-auc/)  
@@ -17,8 +17,6 @@
 Wilber, J., & Werness, B. (2021, January). [The bias variance tradeoff](https://mlu-explain.github.io/bias-variance/). MLU-Explain.  
 Wilber, J., & Werness, B. (2021, December). [Double descent part 1: A visual introduction](https://mlu-explain.github.io/double-descent/). MLU-Explain.  
 Werness, B., & Wilber, J. (2021, December). [Double descent part 2: A mathematical explanation](https://mlu-explain.github.io/double-descent2/). MLU-Explain.
-
-*Optional References*  
 In May 2023, a William & Mary MSBA student team won first place in the CSBS Data Analytics Competition with an LSTM model under Dr. Chung's supervision! Their competition paper is available to read online [here](https://www.csbs.org/data-analytics-competition)  
 
 **Optional Fun Stuff**  
