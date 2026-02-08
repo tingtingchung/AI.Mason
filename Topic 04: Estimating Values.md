@@ -26,6 +26,7 @@
 
 **Optional Fun Stuff**  
 [We Are AI Comics #2: Learning from Data](https://dataresponsibly.github.io/we-are-ai/comics/vol2_en.pdf)  
+[Training Neural Networks by CrashCourse AI](https://www.pbs.org/video/training-neural-networks-4-mq025r/)  
 [Neural network comic strip (Google Cloud)](https://cloud.google.com/products/ai/ml-comic-2?fbclid=IwAR3Dj-zu0dHb45b_fzFp6MQsvnUMLs67Tguo4ojdgKQQYrVYqC73ZoZmGPE)  
 [Neural Networks & Deep Learning (CrashCourse by PBS)](https://www.youtube.com/watch?v=oV3ZY6tJiA0&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=4)  
 
