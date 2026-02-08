@@ -8,7 +8,7 @@
 > Chapter 10.7.4: Network Tuning  
 > Chapter 10.8: Interpolation and Double Descent  
 
-**Optional *References**  
+**Optional References**  
 [Model Evaluation: Overfit and underfit by TF](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit)  
 [Regularization: Playground Exercise](https://developers.google.com/machine-learning/crash-course/regularization-for-sparsity/playground-exercise)  
 [Wilber, J. (2022, June). ROC & AUC. MLU-Explain.](https://mlu-explain.github.io/roc-auc/)  
