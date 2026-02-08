@@ -3,6 +3,7 @@
 **Demos**  
 [Teachable Machine](https://teachablemachine.withgoogle.com/train)  
 [Embedding Visualizer on Molab](https://molab.marimo.io/notebooks/nb_jJiFFtznAy4BxkrrZA1o9b)  
+[ConvNet Demo](https://cs.stanford.edu/people/karpathy/convnetjs/)  
 
 **Required Reading/Video**  
 [Chapter 10.3 Convolutional Neural NetworkNetworks, ISLP](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
