@@ -1,7 +1,8 @@
 **Topic 04: Estimating Values**  
 [Slidedeck: Introduction to Deep Learning](https://www.dropbox.com/scl/fi/g9g7c9lnrxs9eghauqnk5/CH04-Intro-to-DL.pptx?rlkey=ccek80bln31xj96bk8ls781p0&dl=0) 
 [Slidedeck: Tensorflow for Regression](https://www.dropbox.com/scl/fi/nmzosqj2zogbr8g49lwwh/CH04-TF-for-regression.pptx?rlkey=zzywb5pd03jnqe7s18wwmuu1w&dl=0)  
-[Worksheet #03: How AI Works](https://docs.google.com/document/d/1stZ5UtJM2E_6lhbInTnRAwzYA0oat4cBr_DN1Ty7lfs/edit?usp=drive_link) [solution](https://docs.google.com/document/d/1Dl1X9HTjWOux1VHDiaxlL1oilPyn7SqLbyMB94GyeqM/edit?usp=sharing) 
+[Worksheet #03: How AI Works](https://docs.google.com/document/d/1stZ5UtJM2E_6lhbInTnRAwzYA0oat4cBr_DN1Ty7lfs/edit?usp=drive_link) [solution](https://docs.google.com/document/d/1Dl1X9HTjWOux1VHDiaxlL1oilPyn7SqLbyMB94GyeqM/edit?usp=sharing)  
+[Worksheet #04: Keras Sequential() Model](https://docs.google.com/document/d/1rI_D1pnuw6B0uYVt83IXjlJncicE_mbHYp8w6J-_8ks/edit?tab=t.0)  
 
 [Single Neuron Simulator video tutorial](https://www.youtube.com/watch?v=9Ig7vG6Kyjg)  
 [Single Neuron Simulator in Google Sheets](https://docs.google.com/spreadsheets/d/1KDGiwAF2GStEZc2WUgbJ7CE7NHktZhAVpcRNulHfqpw/edit?gid=2001141573#gid=2001141573)   
