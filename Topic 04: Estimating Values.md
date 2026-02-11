@@ -15,6 +15,9 @@
 [Colab: TF for Regression](https://colab.research.google.com/drive/1ufcwKcDa5GWmbbXbe4cCT7V2gDnmem3b)  
 [Colab: Zillow Data with Tensorflow](https://colab.research.google.com/drive/1fCEu0cIj8raD1o5fqLSLL9j7pgVcCZJ0)  
 
+**Assignment Data Files**
+[wine quality with category value.xlsx for Assignment 1](https://www.dropbox.com/scl/fi/gam4gz3rhsxgsfa5fuqlr/wine-quality-with-category-value.xlsx?rlkey=kdn386obqw9pr3vc0j6su2ok4&dl=1)  
+
 **Optional References**  
 [LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. nature, 521(7553), 436-444.](https://s3.us-east-2.amazonaws.com/hkg-website-assets/static/pages/files/DeepLearning.pdf)  
 [Tensorflow2 quickstart for beginners](https://www.tensorflow.org/tutorials/quickstart/beginner)  
