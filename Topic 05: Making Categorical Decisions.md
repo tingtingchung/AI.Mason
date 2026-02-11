@@ -1,7 +1,6 @@
 **Topic 05: Making Categorical Decisions**  
-
-**Lecture materials**  
 [TP2 Slidedeck](https://www.dropbox.com/scl/fi/5q4ililsgngk38vxgn5sh/AI-Final-Team-Project-Instructions.pptx?rlkey=226plwpe0uawzp5xiq8crty7s&dl=0)  
+[Slidedeck: Making Categorical Decisions](https://www.dropbox.com/scl/fi/em03z3717u2gtpk99saph/CH05-Making-Categorical-Decisions.pptx?rlkey=o3nqtm20ie2eob7cur0knpfw9&dl=0)  
 [Worksheet #05: Regression to Classification with Zestimate](https://docs.google.com/document/d/1lsomQ_-Mpwqbtm2Rz5olMZasDFS5k-cZQge2HeWFwSo/edit?tab=t.0)  
 
 **Demos**  
