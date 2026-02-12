@@ -11,7 +11,7 @@
 **Required Reading**  
 [Chapter 10.1 Single Layer NN, ISLP](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
 
-**Colab Tutorial**  
+**Colab Tutorials**  
 [Colab: TF for Regression](https://colab.research.google.com/drive/1ufcwKcDa5GWmbbXbe4cCT7V2gDnmem3b)  
 [Colab: Zillow Data with Tensorflow](https://colab.research.google.com/drive/1fCEu0cIj8raD1o5fqLSLL9j7pgVcCZJ0)  
 
