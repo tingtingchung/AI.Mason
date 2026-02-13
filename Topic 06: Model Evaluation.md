@@ -1,5 +1,5 @@
 **Topic 06: Model Evaluation**  
-[Slidedeck: Model Performance Evaluation](https://www.dropbox.com/scl/fi/qugvx5wv09vm5rsprscy7/CH06-Model-Performance-Evaluation.pptx?rlkey=g48b1otsdikotaih9f5ncnrer&dl=0)  
+[Slidedeck: CH06 Model Performance Evaluation](https://www.dropbox.com/scl/fi/qugvx5wv09vm5rsprscy7/CH06-Model-Performance-Evaluation.pptx?rlkey=g48b1otsdikotaih9f5ncnrer&dl=0)  
 
 **Required Readings**  
 [ISLP:](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
