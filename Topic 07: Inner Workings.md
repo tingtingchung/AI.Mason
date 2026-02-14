@@ -4,6 +4,10 @@
 [Slidedeck: CH07-3 keras model loss and metrics](https://www.dropbox.com/scl/fi/wmaxv99ypylde1s24eu8u/CH07-3-keras-model-loss-and-metrics.pptx?rlkey=hsunste6ldmle0rdonwivfbrr&dl=0)  
 [Worksheet #06: Inner Workings of DL](https://docs.google.com/document/d/1YzVzi8qYFd_Hx8-oK0Wnv0wrnUqxnrnfIusf8qzIv68/edit?tab=t.0) [PDF](https://drive.google.com/file/d/15SOrxtrhSXddJNvG6NFocgNGeTPttmlJ/view?usp=drive_link)  
 
+**Required Readings**  
+ISLP Chapter 10.7.1: Backpropagation  
+ISLP Chapter 10.7.2: Regularization and Stochastic Gradient Descent (focusing on stochastic gradient descent only)  
+
 **Optional References**  
 [Chapter 2, How the backpropagation algorithm works, Neural Networks and Deep Learning by Nielsen](http://neuralnetworksanddeeplearning.com/chap2.html)  
 [What is backpropagation really doing? by 3Blue1Brown](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=1s)  
