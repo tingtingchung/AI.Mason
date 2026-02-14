@@ -10,7 +10,7 @@
 [Chapter 10.3 Convolutional Neural NetworkNetworks, ISLP](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
 [Fei-Fei Li's TED Talk: How we teach computers to understand pictures](https://youtu.be/40riCqvRoMs)  
 [Yann Lecun's CNN demo from 1989](https://www.youtube.com/watch?v=FwFduRA_L6Q)  
-[2018 ACM Turing Award for Bengio, Lecun & Hinton](https://www.youtube.com/watch?v=HzilDIhWhrE)  
+[OpenAI's CLIP](https://openai.com/index/clip/)  
 
 **Optional References**  
 [Yann Lecun's MNIST site](http://yann.lecun.com/exdb/mnist/)  
