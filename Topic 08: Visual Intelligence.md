@@ -6,6 +6,11 @@
 [Embedding Visualizer on Molab](https://molab.marimo.io/notebooks/nb_jJiFFtznAy4BxkrrZA1o9b)  
 [ConvNet Demo](https://cs.stanford.edu/people/karpathy/convnetjs/)  
 
+**Colabs**  
+[Featurizing images digitally](https://colab.research.google.com/drive/1N2tLeuwOZXqKvpuh6DAObeDLKEgRhxM7?usp=drive_link)  
+[MNIST with dense layers](https://colab.research.google.com/drive/1VjqDFK56WMxVQTzJ4WMzwbhsyQjmg8l8?usp=drive_link)  
+[MNIST with CNN](https://colab.research.google.com/drive/1ouBxXL2uhCXe1mdLrTFndNFe-V2jBNiW?usp=drive_link)  
+
 **Required Reading/Video**  
 [Chapter 10.3 Convolutional Neural NetworkNetworks, ISLP](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
 [Fei-Fei Li's TED Talk: How we teach computers to understand pictures](https://youtu.be/40riCqvRoMs)  
