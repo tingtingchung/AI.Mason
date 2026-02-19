@@ -1,6 +1,9 @@
 **Topic 06: Model Evaluation**  
 [Slidedeck: CH06 Model Performance Evaluation](https://www.dropbox.com/scl/fi/qugvx5wv09vm5rsprscy7/CH06-Model-Performance-Evaluation.pptx?rlkey=g48b1otsdikotaih9f5ncnrer&dl=0)  
 
+**Demos**  
+[AI Functions in Google Sheets](https://docs.google.com/spreadsheets/d/135imETGRjCaRL2Dc1HSoM_-X4P16GtyXKdOn0qTrfXc/edit?gid=1657275054#gid=1657275054)  
+
 **Required Readings**  
 [ISLP:](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
 > Chapter 10.6: When to Use Deep Learning  
