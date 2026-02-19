@@ -10,6 +10,7 @@
 [Teachable Machine](https://teachablemachine.withgoogle.com/train)  
 [Embedding Visualizer on Molab](https://molab.marimo.io/notebooks/nb_jJiFFtznAy4BxkrrZA1o9b)  
 [ConvNet Demo](https://cs.stanford.edu/people/karpathy/convnetjs/)  
+[AI Functions in Google Sheets](https://docs.google.com/spreadsheets/d/135imETGRjCaRL2Dc1HSoM_-X4P16GtyXKdOn0qTrfXc/edit?gid=1657275054#gid=1657275054)   
 
 **Colabs**  
 [Featurizing images digitally](https://colab.research.google.com/drive/1N2tLeuwOZXqKvpuh6DAObeDLKEgRhxM7?usp=drive_link)  
