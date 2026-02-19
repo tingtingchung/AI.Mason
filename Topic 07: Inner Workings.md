@@ -4,6 +4,9 @@
 [Slidedeck: CH07-3 keras model loss and metrics](https://www.dropbox.com/scl/fi/wmaxv99ypylde1s24eu8u/CH07-3-keras-model-loss-and-metrics.pptx?rlkey=hsunste6ldmle0rdonwivfbrr&dl=0)  
 [Worksheet #06: Inner Workings of DL](https://docs.google.com/document/d/1YzVzi8qYFd_Hx8-oK0Wnv0wrnUqxnrnfIusf8qzIv68/edit?tab=t.0) [PDF](https://drive.google.com/file/d/15SOrxtrhSXddJNvG6NFocgNGeTPttmlJ/view?usp=drive_link)  
 
+**Demos**  
+[AI Functions in Google Sheets](https://docs.google.com/spreadsheets/d/135imETGRjCaRL2Dc1HSoM_-X4P16GtyXKdOn0qTrfXc/edit?gid=1657275054#gid=1657275054)  
+
 **Required Readings**  
 ISLP Chapter 10.7.1: Backpropagation  
 ISLP Chapter 10.7.2: Regularization and Stochastic Gradient Descent (focusing on stochastic gradient descent only)  
