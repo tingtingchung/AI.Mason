@@ -7,7 +7,7 @@
 [Welcome to Colab](https://colab.research.google.com/drive/https:/colab.research.google.com/drive/1LfDI7cDOmnbsYAfwqu9l4h3FQSG8dJrz)  
 [Overview of Colab Features](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)  
 [A Brief History of AI, AITopics](https://aitopics.org/misc/brief-history)  
-[Regression from Seeing Theory](https://seeing-theory.brown.edu/#secondPage/chapter6)  
+[The History of Machine Learning with Tom Micthell](https://www.youtube.com/watch?v=tRHt22Y1Yc0)   
 [Linear Regression by MLU-Explain](https://mlu-explain.github.io/linear-regression/)  
 [Logistic Regression by MLU-Explain](https://mlu-explain.github.io/)  
 [Python review: Functions](https://colab.research.google.com/drive/1Z9zHXoPFcWAEBmltWx8Krzajx5tytlQU?usp=drive_link)  
