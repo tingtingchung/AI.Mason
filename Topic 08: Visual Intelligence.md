@@ -24,6 +24,7 @@
 [OpenAI's CLIP](https://openai.com/index/clip/)  
 
 **Optional References**  
+[Five Decades of Neural Networks with Geoffrey Hinton](https://www.youtube.com/watch?v=i1KUdDo2eOo)  
 [Yann Lecun's MNIST site](http://yann.lecun.com/exdb/mnist/)  
 [Keras Convolutional Layers](https://keras.io/api/layers/convolution_layers/)  
 [Keras Pooling Layers](https://keras.io/api/layers/convolution_layers/)  
