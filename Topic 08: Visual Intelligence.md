@@ -16,6 +16,8 @@
 [Featurizing images digitally](https://colab.research.google.com/drive/1N2tLeuwOZXqKvpuh6DAObeDLKEgRhxM7?usp=drive_link)  
 [MNIST with dense layers](https://colab.research.google.com/drive/1VjqDFK56WMxVQTzJ4WMzwbhsyQjmg8l8?usp=drive_link)  
 [MNIST with CNN](https://colab.research.google.com/drive/1ouBxXL2uhCXe1mdLrTFndNFe-V2jBNiW?usp=drive_link)  
+[Image classification with pretrained model resnet50](https://colab.research.google.com/drive/1r19tvZwwvX3g24anF32pwrl2DkEXTJwf)  
+[Image recognition with OpenAI's Clip](https://colab.research.google.com/drive/1qewqGlkGcNYo43euOdNEBChTy5Y3VXS0)  
 
 **Required Reading/Video**  
 [Chapter 10.3 Convolutional Neural NetworkNetworks, ISLP](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)  
