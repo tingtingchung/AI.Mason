@@ -8,6 +8,8 @@
 [Tiktokenizer](https://tiktokenizer.vercel.app/)  
 [Small Language Model Demo](https://www.cs.cmu.edu/~pvirtue/AIS/ngrams/ngrams.html)  
 [Tensorflow's Embedding Explorer](https://projector.tensorflow.org/)  
+[RNN in Excel](https://www.dropbox.com/scl/fi/g7t9nhunmlxj1x9roubo3/RNN-in-Excel-by-Chung.xlsx?rlkey=nh21rdcamnykhxw13iohee8gh&dl=0)  
+[LSTM in Excel](https://www.dropbox.com/scl/fi/qzycunwow8zarhn3fhz1q/LSTM-in-Excel-by-Chung.xlsx?rlkey=oissh5230zh6abunz7uyxyie2&dl=0)  
 
 **Colabs**  
 [Tokenization](https://colab.research.google.com/drive/1NBF7FufmuftfL9o-ZK0R0_hBzqEZTy3m?usp=drive_link)  
