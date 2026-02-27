@@ -2,7 +2,7 @@
 [Slidedeck: CH07-1 optimization](https://www.dropbox.com/scl/fi/wudc9bgdb9gqr7lsaova4/CH07-1-optimization.pptx?rlkey=usgrdx466wpka141aze0mq3lx&dl=0)  
 [Slidedeck: CH07-2 keras model compilation](https://www.dropbox.com/scl/fi/g0gwzqubs4mvn44ox68oe/CH07-2-keras-model-compilation.pptx?rlkey=pebq7q26sqvy01aimn7ciirk3&dl=0)  
 [Slidedeck: CH07-3 keras model loss and metrics](https://www.dropbox.com/scl/fi/wmaxv99ypylde1s24eu8u/CH07-3-keras-model-loss-and-metrics.pptx?rlkey=hsunste6ldmle0rdonwivfbrr&dl=0)  
-[Worksheet #06: Inner Workings of DL](https://docs.google.com/document/d/1YzVzi8qYFd_Hx8-oK0Wnv0wrnUqxnrnfIusf8qzIv68/edit?tab=t.0) [PDF](https://drive.google.com/file/d/15SOrxtrhSXddJNvG6NFocgNGeTPttmlJ/view?usp=drive_link)  
+[Worksheet #06: Inner Workings of DL](https://docs.google.com/document/d/1YzVzi8qYFd_Hx8-oK0Wnv0wrnUqxnrnfIusf8qzIv68/edit?tab=t.0) [PDF](https://drive.google.com/file/d/15SOrxtrhSXddJNvG6NFocgNGeTPttmlJ/view?usp=drive_link) [solution](https://docs.google.com/document/d/1FFQ9DKHfDLw-RtA4-wsGnh2OLNfZk2ZKB9fLZ1WWYVQ/edit?usp=drive_link)  
 
 **Demos**  
 [AI Functions in Google Sheets](https://docs.google.com/spreadsheets/d/135imETGRjCaRL2Dc1HSoM_-X4P16GtyXKdOn0qTrfXc/edit?gid=1657275054#gid=1657275054)  
