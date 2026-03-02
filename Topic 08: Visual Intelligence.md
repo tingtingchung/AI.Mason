@@ -1,5 +1,5 @@
 **Topic 08: Visual Intelligence**  
-[Worksheet #07: Visual Intelligence](https://docs.google.com/document/d/1U2FTAhxx9We4CIq8OT7Vm_BwiJVe5YErb-PP38MkBUU/edit?tab=t.0)  
+[Worksheet #07: Visual Intelligence](https://docs.google.com/document/d/1U2FTAhxx9We4CIq8OT7Vm_BwiJVe5YErb-PP38MkBUU/edit?tab=t.0) [solution](https://docs.google.com/document/d/1orr38xR9aKQ8Qun2wse7nfv9VRgG3MuC3_SV7ZgruBE/edit?usp=drive_link)    
 [CH08-1: Featurizing Xs](https://www.dropbox.com/scl/fi/tvfkmefnwfvr38hueajp6/CH08-1-CNN1-Xs.pptx?rlkey=719cwwk655ducklwnxo5n8u7z&dl=0)  
 [CH08-2: Setting up Y Target](https://www.dropbox.com/scl/fi/90d75qnl08x1bnb7gx5t5/CH08-2-CNN2-Y.pptx?rlkey=rgezt977qudhvm4c2j4u3g4aa&dl=0)  
 [CH08-3: Convolution](https://www.dropbox.com/scl/fi/115g48oxwluj70hd80pkg/CH08-3-CNN3A-conv.pptx?rlkey=lpgqadgs2ii9vwby2t53kmz5t&dl=0)  
