@@ -1,5 +1,5 @@
 **MidTerm Exam Prep**  
-[AI Midterm Practice Exam](https://drive.google.com/file/d/1wNz90ze0pKcMiau5SSKJsn94uTzJtJwa/view?usp=drive_link)  
+[AI Midterm Practice Exam](https://www.dropbox.com/scl/fi/4p22ainuedcha7nq0nkz3/AI-Practice-Midterm-Exam.pdf?rlkey=mf6yho923c1tkx1fwx57wzzjf&dl=0)  
 More AI Midterm Practice Questions: [Section 1 Answer Key](https://docs.google.com/document/d/1uMFxYzhooj2T33veAMfp7VWrmytp1mH4oizU1_s_4bI/edit?tab=t.0) [Section 2 Answer Key](https://docs.google.com/document/d/140XYOlUD3kNoXjBGYRT0imQJEYm5wbLrJmOH7zb-gog/edit?tab=t.0)    
 
 **Topic 09: Introduction to Language Models**  
