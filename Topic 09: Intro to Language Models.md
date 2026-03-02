@@ -1,6 +1,6 @@
 **MidTerm Exam Prep**  
-[AI Midterm Practice Exam](https://www.dropbox.com/scl/fi/4p22ainuedcha7nq0nkz3/AI-Practice-Midterm-Exam.pdf?rlkey=mf6yho923c1tkx1fwx57wzzjf&dl=0) [Section 1 Answer Key](https://docs.google.com/document/d/1BjYWIzuUZcZeEtS-0Edi3sddFrBBwKSemWIdjPBkC3o/edit?usp=sharing) [Section 2 Answer Key](https://docs.google.com/document/d/16nzwAtsGfV4IeTUGO52BFvrZxXbg8MaaTVgUXtR3otg/edit?usp=sharing)      
-More AI Midterm Practice Questions: [Section 1 Answer Key](https://docs.google.com/document/d/1uMFxYzhooj2T33veAMfp7VWrmytp1mH4oizU1_s_4bI/edit?tab=t.0) [Section 2 Answer Key](https://docs.google.com/document/d/140XYOlUD3kNoXjBGYRT0imQJEYm5wbLrJmOH7zb-gog/edit?tab=t.0)    
+[AI Midterm Practice Exam](https://www.dropbox.com/scl/fi/4p22ainuedcha7nq0nkz3/AI-Practice-Midterm-Exam.pdf?rlkey=mf6yho923c1tkx1fwx57wzzjf&dl=0) [Section 1 Answer Key] [Section 2 Answer Key](https://docs.google.com/document/d/16nzwAtsGfV4IeTUGO52BFvrZxXbg8MaaTVgUXtR3otg/edit?usp=sharing)      
+More AI Midterm Practice Questions: [Section 1 Answer Key] [Section 2 Answer Key](https://docs.google.com/document/d/140XYOlUD3kNoXjBGYRT0imQJEYm5wbLrJmOH7zb-gog/edit?tab=t.0)    
 
 **Topic 09: Introduction to Language Models**  
 [CH09-1: Featurizing Documents Digitally](https://www.dropbox.com/scl/fi/1nznya5ojltmgz9bipvny/M3-1-featurizing-documents-digitally.pptx?rlkey=xai73tovu307z9nciywwqnur2&dl=0)  
