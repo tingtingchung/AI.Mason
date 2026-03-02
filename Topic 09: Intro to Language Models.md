@@ -1,10 +1,12 @@
+**MidTerm Exam Prep**  
+[AI Midterm Practice Exam](https://drive.google.com/file/d/1wNz90ze0pKcMiau5SSKJsn94uTzJtJwa/view?usp=drive_link)  
+More AI Midterm Practice Questions: [Section 1 Answer Key](https://docs.google.com/document/d/1uMFxYzhooj2T33veAMfp7VWrmytp1mH4oizU1_s_4bI/edit?tab=t.0) [Section 2 Answer Key](https://docs.google.com/document/d/140XYOlUD3kNoXjBGYRT0imQJEYm5wbLrJmOH7zb-gog/edit?tab=t.0)    
+
 **Topic 09: Introduction to Language Models**  
 [CH09-1: Featurizing Documents Digitally](https://www.dropbox.com/scl/fi/1nznya5ojltmgz9bipvny/M3-1-featurizing-documents-digitally.pptx?rlkey=xai73tovu307z9nciywwqnur2&dl=0)  
 [CH09-2: Embeddings](https://www.dropbox.com/scl/fi/8aefnfuyaf3c5dbclqkhr/M3-2-embeddings.pptx?rlkey=z0uvv0k4dinm98p7zqbrzumxv&dl=0)  
 [CH09-3: RNN + LSTM](https://www.dropbox.com/scl/fi/mwob6sy8zmirkoeasvdrz/M3-3-rnn.pptx?rlkey=o63ghlkx1x8ith7y6e0q19s3l&dl=0)  
 [Worksheet #08: Embeddings, RNN, & LSTM](https://docs.google.com/document/d/1kLu77psZgtfq12HvnbVzmRUK7kvvCQUmpGLlh2zQxS4/edit?usp=sharing)  
-[AI Midterm Practice Exam](https://drive.google.com/file/d/1wNz90ze0pKcMiau5SSKJsn94uTzJtJwa/view?usp=drive_link)  
-More AI Midterm Practice Questions: [Section 1 Answer Key](https://docs.google.com/document/d/1uMFxYzhooj2T33veAMfp7VWrmytp1mH4oizU1_s_4bI/edit?tab=t.0) [Section 2 Answer Key](https://docs.google.com/document/d/140XYOlUD3kNoXjBGYRT0imQJEYm5wbLrJmOH7zb-gog/edit?tab=t.0)    
 
 **Demos**  
 [Tiktokenizer](https://tiktokenizer.vercel.app/)  
