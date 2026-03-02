@@ -3,11 +3,12 @@
 [CH09-2: Embeddings](https://www.dropbox.com/scl/fi/8aefnfuyaf3c5dbclqkhr/M3-2-embeddings.pptx?rlkey=z0uvv0k4dinm98p7zqbrzumxv&dl=0)  
 [CH09-3: RNN + LSTM](https://www.dropbox.com/scl/fi/mwob6sy8zmirkoeasvdrz/M3-3-rnn.pptx?rlkey=o63ghlkx1x8ith7y6e0q19s3l&dl=0)  
 [Worksheet #08: Embeddings, RNN, & LSTM](https://docs.google.com/document/d/1kLu77psZgtfq12HvnbVzmRUK7kvvCQUmpGLlh2zQxS4/edit?usp=sharing)  
+[AI Midterm Practice Questions and Answer Key](https://docs.google.com/document/d/1YQlagjzIT5btPONg7N60ym0I22PsFuxdY63JGUlCfv8/edit?usp=sharing)  
 
 **Demos**  
 [Tiktokenizer](https://tiktokenizer.vercel.app/)  
 [Small Language Model Demo](https://www.cs.cmu.edu/~pvirtue/AIS/ngrams/ngrams.html)  
-[Tensorflow's Embedding Explorer](https://projector.tensorflow.org/)  
+[Tensorflow's Embedding Explorer](https://projector.tensorflow.org/)  [
 [RNN in Excel](https://www.dropbox.com/scl/fi/g7t9nhunmlxj1x9roubo3/RNN-in-Excel-by-Chung.xlsx?rlkey=nh21rdcamnykhxw13iohee8gh&dl=0)  
 [LSTM in Excel](https://www.dropbox.com/scl/fi/qzycunwow8zarhn3fhz1q/LSTM-in-Excel-by-Chung.xlsx?rlkey=oissh5230zh6abunz7uyxyie2&dl=0)  
 
