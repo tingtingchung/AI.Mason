@@ -9,6 +9,7 @@ Skill.md: [The complete guide to building skill for Claude](https://resources.an
 **Optional References**  
 [Steven Ge's Claude Code for everyone](https://gexijin.github.io/vibe/)  
 [Gary Ang's ebook on AI Agents for Investing](https://www.simplyboring.ai/p/a-free-180-page-ebook-on-ai-agents?utm_campaign=post-expanded-share&utm_medium=web&triedRedirect=true)  
+[LLM Architecture Gallery by Sebastian Raschka](https://sebastianraschka.com/llm-architecture-gallery/?utm_source=substack&utm_medium=email)  
 
 **Optional Fun Stuff**  
 [I replaced OpenClaw with Claude Code](youtube.com/watch?si=WlKaGApRJmvVJIOt&v=ODKMmKCgrvw&feature=youtu.be)  
