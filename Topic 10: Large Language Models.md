@@ -1,6 +1,7 @@
 **Topic 10: Large Language Models**  
-[Introducing the Model Context Protocol (MCP)](https://www.anthropic.com/news/model-context-protocol)  
-[The complete guide to building skill for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)  
+Reasoning: [Understanding reasoning in GenAI vs. AI agents](https://colab.research.google.com/drive/1QkcIBsVX4aTcpftvqKfsrkS3MMdJhjUz)  
+MCP: [Introducing the Model Context Protocol (MCP)](https://www.anthropic.com/news/model-context-protocol)  
+Skill,md: [The complete guide to building skill for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)  
 
 **Colabs**  
 [Building LLM Agents with LangChain](https://colab.research.google.com/drive/17gA1wr_0SNgjxFby8r5BIbeuziIbZKt8)  
