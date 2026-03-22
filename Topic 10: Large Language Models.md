@@ -5,8 +5,6 @@
 [Andrew Ng on how AI can power any business](https://www.ted.com/talks/andrew_ng_how_ai_could_empower_any_business?language=en)  
 
 **Optional References**  
-[word2vec](https://code.google.com/archive/p/word2vec/)  
-[GloVe](https://nlp.stanford.edu/projects/glove/)  
 [Colab: Bag-of-N-Grams](https://colab.research.google.com/github/practical-nlp/practical-nlp/blob/master/Ch3/03_Bag_of_N_Grams.ipynb?authuser=0&pli=1)  
 [BERT Preprocessing](https://www.tensorflow.org/text/guide/bert_preprocessing_guide)  
 [Classifying text with BERT](https://www.tensorflow.org/text/tutorials/classify_text_with_bert)  
