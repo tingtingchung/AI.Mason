@@ -1,4 +1,5 @@
 **Topic 10: Large Language Models**
+[The complete guide to building skill for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)  
 
 **TP2 Final Project**  
 [Andrew Ng on how AI can power any business](https://www.ted.com/talks/andrew_ng_how_ai_could_empower_any_business?language=en)  
