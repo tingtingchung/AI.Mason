@@ -7,9 +7,7 @@
 [Reasoning in AI agents](https://colab.research.google.com/drive/1QkcIBsVX4aTcpftvqKfsrkS3MMdJhjUz)  
 
 **Optional References**  
-[Colab: Bag-of-N-Grams](https://colab.research.google.com/github/practical-nlp/practical-nlp/blob/master/Ch3/03_Bag_of_N_Grams.ipynb?authuser=0&pli=1)  
-[BERT Preprocessing](https://www.tensorflow.org/text/guide/bert_preprocessing_guide)  
-[Classifying text with BERT](https://www.tensorflow.org/text/tutorials/classify_text_with_bert)  
+[Steven Ge's Claude Code for everyone](https://gexijin.github.io/vibe/)  
 [Gary Ang's ebook on AI Agents for Investing](https://www.simplyboring.ai/p/a-free-180-page-ebook-on-ai-agents?utm_campaign=post-expanded-share&utm_medium=web&triedRedirect=true)  
 
 **Optional Fun Stuff**  
