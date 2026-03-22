@@ -7,6 +7,7 @@ More AI Midterm Practice Questions: [Section 1 Answer Key](https://docs.google.c
 [CH09-2: Embeddings](https://www.dropbox.com/scl/fi/8aefnfuyaf3c5dbclqkhr/M3-2-embeddings.pptx?rlkey=z0uvv0k4dinm98p7zqbrzumxv&dl=0)  
 [CH09-3: RNN + LSTM](https://www.dropbox.com/scl/fi/mwob6sy8zmirkoeasvdrz/M3-3-rnn.pptx?rlkey=o63ghlkx1x8ith7y6e0q19s3l&dl=0)  
 [Worksheet #08: Embeddings, RNN, & LSTM](https://docs.google.com/document/d/1kLu77psZgtfq12HvnbVzmRUK7kvvCQUmpGLlh2zQxS4/edit?usp=sharing)  
+[Attention in Excel by Dr. Chung](https://docs.google.com/spreadsheets/d/1fovf2ednHXxvo0fmVwa-LmVLK_4OI840/edit?usp=drive_link&ouid=106424124304495450691&rtpof=true&sd=true)  
 
 **Demos**  
 [Tiktokenizer](https://tiktokenizer.vercel.app/)  
