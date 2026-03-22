@@ -13,5 +13,6 @@
 [Gary Ang's ebook on AI Agents for Investing](https://www.simplyboring.ai/p/a-free-180-page-ebook-on-ai-agents?utm_campaign=post-expanded-share&utm_medium=web&triedRedirect=true)  
 
 **Optional Fun Stuff**  
+[I replaced OpenClaw with Claude Code](youtube.com/watch?si=WlKaGApRJmvVJIOt&v=ODKMmKCgrvw&feature=youtu.be)  
 [How AI Works by Nir Zicherman](https://every.to/p/how-ai-works?fbclid=IwAR2KWfiKq627x9SxpTpZojaxHSjaA0zcEELySUyEGhD7jbWzcS3vFNyJ4OI)  
 [A Word is Worth A Thousand Vectors by Chris Moody at Stitch Fix](https://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)  
