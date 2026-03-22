@@ -1,4 +1,5 @@
 **Topic 10: Large Language Models**  
+[Introducing the Model Context Protocol (MCP)](https://www.anthropic.com/news/model-context-protocol)  
 [The complete guide to building skill for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)  
 
 **TP2 Final Project**  
