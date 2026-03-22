@@ -1,5 +1,6 @@
 **Topic 10: Large Language Models**  
-[Slidedeck: Attention](
+[Slidedeck: Attention](https://www.dropbox.com/scl/fi/8srngr0z2jrwl6emqrmh2/CH10-Transformer.pptx?rlkey=uwww7wirupnz2qrtxhase6qg0&dl=0)  
+[Attention in Excel by Dr. Chung](https://docs.google.com/spreadsheets/d/1fovf2ednHXxvo0fmVwa-LmVLK_4OI840/edit?usp=drive_link&ouid=106424124304495450691&rtpof=true&sd=true)  
 Reasoning: [Understanding reasoning in GenAI vs. AI agents](https://colab.research.google.com/drive/1QkcIBsVX4aTcpftvqKfsrkS3MMdJhjUz)  
 MCP: [Introducing the Model Context Protocol (MCP)](https://www.anthropic.com/news/model-context-protocol)  
 Skill.md: [The complete guide to building skill for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)  
