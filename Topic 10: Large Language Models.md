@@ -1,4 +1,4 @@
-**Topic 10: Large Language Models**
+**Topic 10: Large Language Models**  
 [The complete guide to building skill for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)  
 
 **TP2 Final Project**  
