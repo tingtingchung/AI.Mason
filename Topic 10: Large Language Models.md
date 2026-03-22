@@ -4,6 +4,7 @@
 
 **Colabs**  
 [Building LLM Agents with LangChain](https://colab.research.google.com/drive/17gA1wr_0SNgjxFby8r5BIbeuziIbZKt8)  
+[Reasoning in AI agents](https://colab.research.google.com/drive/1QkcIBsVX4aTcpftvqKfsrkS3MMdJhjUz)  
 
 **Optional References**  
 [Colab: Bag-of-N-Grams](https://colab.research.google.com/github/practical-nlp/practical-nlp/blob/master/Ch3/03_Bag_of_N_Grams.ipynb?authuser=0&pli=1)  
