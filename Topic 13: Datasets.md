@@ -3,3 +3,6 @@
 [Documentation for The Bank Marketing dataset from UCI](https://archive.ics.uci.edu/dataset/222/bank+marketing)  
 If your exam code starts with Mason: [bank-additional-mason.csv](https://www.dropbox.com/scl/fi/y9wby4ph32s2cmfzylx5i/bank-additional-mason.csv?rlkey=k7aavmgfjoin3r1jq0hqq96so&dl=1)  
 If your exam code starts with Tribe: [bank-additional-mason.csv](https://www.dropbox.com/scl/fi/y9wby4ph32s2cmfzylx5i/bank-additional-mason.csv?rlkey=k7aavmgfjoin3r1jq0hqq96so&dl=1)  
+
+**Lab4**  
+[zillow_description.txt](https://www.dropbox.com/scl/fi/ai5mpg4xnoy3tb3nhlbnx/zillow_description.txt?rlkey=8axdsriink4j5ivr878hkq112&dl=1)  
