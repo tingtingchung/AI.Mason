@@ -1,6 +1,7 @@
 **Topic 10: Large Language Models**  
 [Slidedeck: Attention](https://www.dropbox.com/scl/fi/8srngr0z2jrwl6emqrmh2/CH10-Transformer.pptx?rlkey=uwww7wirupnz2qrtxhase6qg0&dl=0)  
 [Attention in Excel by Dr. Chung](https://docs.google.com/spreadsheets/d/1fovf2ednHXxvo0fmVwa-LmVLK_4OI840/edit?usp=drive_link&ouid=106424124304495450691&rtpof=true&sd=true)  
+[Worksheet #10: Vector Similarity & Transformer](https://docs.google.com/document/d/1dVADzNXfyF2zjy8Js3MFnYUT6GT1mzq6s7LB0mCys3c/edit?usp=drive_link) [PDF](https://drive.google.com/file/d/1hNnfcgPBRKyfTmIkX4xByr1bsQnREGNr/view?usp=drive_link)   
 
 **Colabs**  
 [Building LLM Agents with LangChain](https://colab.research.google.com/drive/17gA1wr_0SNgjxFby8r5BIbeuziIbZKt8)  
