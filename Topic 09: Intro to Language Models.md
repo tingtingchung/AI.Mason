@@ -6,7 +6,7 @@ More AI Midterm Practice Questions: [Section 1 Answer Key](https://docs.google.c
 [CH09-1: Featurizing Documents Digitally](https://www.dropbox.com/scl/fi/1nznya5ojltmgz9bipvny/M3-1-featurizing-documents-digitally.pptx?rlkey=xai73tovu307z9nciywwqnur2&dl=0)  
 [CH09-2: Embeddings](https://www.dropbox.com/scl/fi/8aefnfuyaf3c5dbclqkhr/M3-2-embeddings.pptx?rlkey=z0uvv0k4dinm98p7zqbrzumxv&dl=0)  
 [CH09-3: RNN + LSTM](https://www.dropbox.com/scl/fi/o8clftt5jflehp26kqdle/CH09-RNN-LSTM.pptx?rlkey=a8wftxjzvaa4lf9al7vbnpf7f&dl=0)  
-[Worksheet #08: Embeddings, RNN, & LSTM](https://docs.google.com/document/d/1kLu77psZgtfq12HvnbVzmRUK7kvvCQUmpGLlh2zQxS4/edit?usp=sharing) [solution]    
+[Worksheet #08: Embeddings, RNN, & LSTM](https://docs.google.com/document/d/1kLu77psZgtfq12HvnbVzmRUK7kvvCQUmpGLlh2zQxS4/edit?usp=sharing) [solution](https://docs.google.com/document/d/1Mi6PoFf5O36m83TEdN6HWUdKdF6EGE90Dcw17K4rV_I/edit?usp=sharing)      
 [Worksheet #09: RNN & LSTM](https://docs.google.com/document/d/1lmeUyH4yEOtetiaLXwEC6NrfsdNh2VMag6vHV_orELM/edit?usp=sharing) [solution]  
 [RNN in Excel](https://docs.google.com/spreadsheets/d/17QohcNGAyXln7w0FIZlhdM6sApwbADLv/edit?usp=drive_link&ouid=106424124304495450691&rtpof=true&sd=true)  
 [LSTM in Excel](https://docs.google.com/spreadsheets/d/18BtnzH9xN5sMib16NUZpNk8PI8At3oFH/edit?gid=1246042467#gid=1246042467)  
