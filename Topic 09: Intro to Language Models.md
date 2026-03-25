@@ -9,6 +9,7 @@ More AI Midterm Practice Questions: [Section 1 Answer Key](https://docs.google.c
 [Worksheet #08: Embeddings, RNN, & LSTM](https://docs.google.com/document/d/1kLu77psZgtfq12HvnbVzmRUK7kvvCQUmpGLlh2zQxS4/edit?usp=sharing) [solution]    
 [Worksheet #09: RNN & LSTM](https://docs.google.com/document/d/1lmeUyH4yEOtetiaLXwEC6NrfsdNh2VMag6vHV_orELM/edit?usp=sharing) [solution]  
 [RNN in Excel](https://docs.google.com/spreadsheets/d/17QohcNGAyXln7w0FIZlhdM6sApwbADLv/edit?usp=drive_link&ouid=106424124304495450691&rtpof=true&sd=true)  
+[LSTM in Excel](https://docs.google.com/spreadsheets/d/18BtnzH9xN5sMib16NUZpNk8PI8At3oFH/edit?gid=1246042467#gid=1246042467)  
 
 **Demos**  
 [Tiktokenizer](https://tiktokenizer.vercel.app/)  
