@@ -1,6 +1,17 @@
 # AI.Mason
 *Dr. Rachel Chung's course materials for AI in the residential MSBA program at William &amp; Mary*     
 
+**Course Description**  
+This course covers deep learning models for regression, classification, vision, language and recommendations, and an introduction to reinforcement learning. Students develop intuition for the mathematical underpinnings of modern AI architectures, hands-on experience in training AI models, and technical skills in the evaluation and management of AI model risks.
+
+**Learning Objectives**  
+• Create AI models for common business problems.  
+• Evaluate AI model performance.  
+• Improve AI model performance.  
+• Analyze potential risks of AI models and potential solutions.  
+• Analyze business problems and potential AI solutions.  
+• Use GenAI and agents effectively to transform business processes.  
+
 **References**  
 [An Introduction to Statistical Learning with Python](https://www.statlearning.com/)  
 [Deep Learning by Kelleher](https://mitpress.mit.edu/9780262537551/deep-learning/)  
