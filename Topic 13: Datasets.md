@@ -6,3 +6,6 @@ If your exam code starts with Tribe: [bank-additional-mason.csv](https://www.dro
 
 **Lab4**  
 [zillow_description.txt](https://www.dropbox.com/scl/fi/ai5mpg4xnoy3tb3nhlbnx/zillow_description.txt?rlkey=8axdsriink4j5ivr878hkq112&dl=1)  
+
+**Final Practice Exam**  
+[retail_sales.csv](https://www.dropbox.com/scl/fi/26vu8v6hrw5onsinp3gb8/retail_sales.csv?rlkey=azal0s82jmzny2wfyyrm0b9ku&dl=1)   
