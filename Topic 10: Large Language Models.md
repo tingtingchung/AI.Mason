@@ -1,3 +1,6 @@
+**Final Exam Review**  
+[Final Exam Practice Questions](https://drive.google.com/file/d/1YeskqwrPbnw9H9LkSSGa55olcIaqWOCE/view?usp=drive_link)  
+
 **Topic 10: Large Language Models**  
 [Slidedeck: Vector Similarity](https://www.dropbox.com/scl/fi/vnn860ptbezpuu03ert0d/M4-1B-vector-similarity.pptx?rlkey=4bl3lcdjaxaj0yr44tafcvxh5&dl=0)  
 [Slidedeck: Attention](https://www.dropbox.com/scl/fi/8srngr0z2jrwl6emqrmh2/CH10-Transformer.pptx?rlkey=uwww7wirupnz2qrtxhase6qg0&dl=0)  
