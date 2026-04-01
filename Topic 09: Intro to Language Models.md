@@ -7,7 +7,7 @@ More AI Midterm Practice Questions: [Section 1 Answer Key](https://docs.google.c
 [CH09-2: Embeddings](https://www.dropbox.com/scl/fi/8aefnfuyaf3c5dbclqkhr/M3-2-embeddings.pptx?rlkey=z0uvv0k4dinm98p7zqbrzumxv&dl=0)  
 [CH09-3: RNN + LSTM](https://www.dropbox.com/scl/fi/o8clftt5jflehp26kqdle/CH09-RNN-LSTM.pptx?rlkey=a8wftxjzvaa4lf9al7vbnpf7f&dl=0)  
 [Worksheet #08: Embeddings, RNN, & LSTM](https://docs.google.com/document/d/1kLu77psZgtfq12HvnbVzmRUK7kvvCQUmpGLlh2zQxS4/edit?usp=sharing) [solution](https://docs.google.com/document/d/1Mi6PoFf5O36m83TEdN6HWUdKdF6EGE90Dcw17K4rV_I/edit?usp=sharing)      
-[Worksheet #09: RNN & LSTM](https://docs.google.com/document/d/1lmeUyH4yEOtetiaLXwEC6NrfsdNh2VMag6vHV_orELM/edit?usp=sharing) [solution]  
+[Worksheet #09: RNN & LSTM](https://docs.google.com/document/d/1lmeUyH4yEOtetiaLXwEC6NrfsdNh2VMag6vHV_orELM/edit?usp=sharing) [solution](https://docs.google.com/document/d/15BQrXMakI-8Zl_SDyKNHWXEMuW1a71mVHZltfl9_Jsw/edit?usp=sharing)    
 [RNN in Excel](https://www.dropbox.com/scl/fi/g7t9nhunmlxj1x9roubo3/RNN-in-Excel-by-Chung.xlsx?rlkey=nh21rdcamnykhxw13iohee8gh&dl=0)  
 [LSTM in Excel](https://www.dropbox.com/scl/fi/qzycunwow8zarhn3fhz1q/LSTM-in-Excel-by-Chung.xlsx?rlkey=oissh5230zh6abunz7uyxyie2&dl=0)  
 
