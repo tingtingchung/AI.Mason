@@ -9,7 +9,7 @@
 [Worksheet #10: Vector Similarity & Transformer](https://docs.google.com/document/d/1dVADzNXfyF2zjy8Js3MFnYUT6GT1mzq6s7LB0mCys3c/edit?usp=drive_link) [PDF](https://drive.google.com/file/d/1hNnfcgPBRKyfTmIkX4xByr1bsQnREGNr/view?usp=drive_link) [solution](https://docs.google.com/document/d/1i2MlLYaxm70J72yJIFxrRuVhaQZo8gn5ghfIIwpVboc/edit?tab=t.0)     
 
 **Colabs**  
-[Using the Transformer with IMDB Movie Reviews](https://colab.research.google.com/drive/1D-tfr2kzpMSCLyU2enNWzVDdH5-Xu3Xg)  
+[Using the Transformer (Encoder-Only Model) with IMDB Movie Reviews](https://colab.research.google.com/drive/1D-tfr2kzpMSCLyU2enNWzVDdH5-Xu3Xg)  
 [Using a Pre-Trained LLM](https://colab.research.google.com/drive/15-3cP5UhL7CqPDXWEXA6JzmrB3YQZe0e)  
 [FinBERT: Using a Fine-Tuned Model](https://colab.research.google.com/drive/1Y2WvHUqEfUFcvFQ3MchVgB67_GPx4ki4)  
 [Building LLM Agents with LangChain](https://colab.research.google.com/drive/17gA1wr_0SNgjxFby8r5BIbeuziIbZKt8)  
