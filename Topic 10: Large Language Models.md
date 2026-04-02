@@ -1,5 +1,5 @@
 **Final Exam Review**  
-[Final Exam Practice Questions](https://drive.google.com/file/d/1YeskqwrPbnw9H9LkSSGa55olcIaqWOCE/view?usp=drive_link)  
+[Final Exam Practice Questions](https://drive.google.com/file/d/1YeskqwrPbnw9H9LkSSGa55olcIaqWOCE/view?usp=drive_link) [PDF](https://www.dropbox.com/scl/fi/4m5qslhingu3gycpm5kpx/AI-Final-Review-Practice-Questions.pdf?rlkey=6fp38q35s2eb8wrawzf3xlavm&dl=0) [solution](https://www.dropbox.com/scl/fi/u69ks08g9eqfdlouaa0ee/AI-Final-Review-Practice-Questions-SOLUTION.docx?rlkey=0t0aw6o3jvkez0bhu125v8qux&dl=0)    
 
 **Topic 10: Large Language Models**  
 [Slidedeck: Vector Similarity](https://www.dropbox.com/scl/fi/vnn860ptbezpuu03ert0d/M4-1B-vector-similarity.pptx?rlkey=4bl3lcdjaxaj0yr44tafcvxh5&dl=0)  
