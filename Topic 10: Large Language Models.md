@@ -11,7 +11,7 @@
 **Colabs**  
 [Using the Transformer with IMDB Movie Reviews](https://colab.research.google.com/drive/1D-tfr2kzpMSCLyU2enNWzVDdH5-Xu3Xg)  
 [Using a Pre-Trained LLM](https://colab.research.google.com/drive/15-3cP5UhL7CqPDXWEXA6JzmrB3YQZe0e)  
-[FinBERT: Using a Fine-Tuned Model](https://www.dropbox.com/scl/fi/p2zbxxracxqxzltp03n5c/CH10-2-LLM-Agents.pptx?rlkey=78hatelg7iy0oxub2i0lal89p&dl=0)  
+[FinBERT: Using a Fine-Tuned Model](https://colab.research.google.com/drive/1Y2WvHUqEfUFcvFQ3MchVgB67_GPx4ki4)  
 [Building LLM Agents with LangChain](https://colab.research.google.com/drive/17gA1wr_0SNgjxFby8r5BIbeuziIbZKt8)  
 
 **Required Readings**  
