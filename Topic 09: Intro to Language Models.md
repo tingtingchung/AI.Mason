@@ -15,7 +15,7 @@ More AI Midterm Practice Questions: [Section 1 Answer Key](https://docs.google.c
 [Tiktokenizer](https://tiktokenizer.vercel.app/)  
 [Small Language Model Demo](https://www.cs.cmu.edu/~pvirtue/AIS/ngrams/ngrams.html)  
 [Tensorflow's Embedding Explorer](https://projector.tensorflow.org/)  
-
+[Word Embedding Demo by CMU](https://www.cs.cmu.edu/~dst/WordEmbeddingDemo/)  
 **Colabs**  
 [Tokenization](https://colab.research.google.com/drive/1NBF7FufmuftfL9o-ZK0R0_hBzqEZTy3m?usp=drive_link)  
 [RNN + LSTM](https://colab.research.google.com/drive/1CvH2EySGqu6tIde9Sl0TK8nqriBzOgbm?usp=drive_link)  
