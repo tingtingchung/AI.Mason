@@ -9,7 +9,7 @@
 
 **Demos**  
 [Attention in Excel by Dr. Chung](https://docs.google.com/spreadsheets/d/1fovf2ednHXxvo0fmVwa-LmVLK_4OI840/edit?usp=drive_link&ouid=106424124304495450691&rtpof=true&sd=true)  
-[Transformer Explainer]https://poloclub.github.io/transformer-explainer/)
+[Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
   
 **Colabs**  
 [Using the Transformer (Encoder-Only Model) with IMDB Movie Reviews](https://colab.research.google.com/drive/1D-tfr2kzpMSCLyU2enNWzVDdH5-Xu3Xg)  
