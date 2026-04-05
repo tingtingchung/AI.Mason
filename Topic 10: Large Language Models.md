@@ -26,6 +26,7 @@ Skill.md: [The complete guide to building skill for Claude](https://resources.an
 [Gary Ang's ebook on AI Agents for Investing](https://www.simplyboring.ai/p/a-free-180-page-ebook-on-ai-agents?utm_campaign=post-expanded-share&utm_medium=web&triedRedirect=true)  
 [LLM Architecture Gallery by Sebastian Raschka](https://sebastianraschka.com/llm-architecture-gallery/?utm_source=substack&utm_medium=email)  
 [LangChain Academy](https://academy.langchain.com/)  
+[Harness Engineering for Coding Agent Users](https://martinfowler.com/articles/harness-engineering.html?fbclid=IwY2xjawQ_M7FleHRuA2FlbQIxMABicmlkETFrREdFQjFaSzBBVjBkZWVSc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHk5rjMtVA_cpQSBgauoVaqAp5HzzMc4MQTOlSm0Pbi-Sd1l9hBZJRDVYcQmo_aem_eiN2aJF8OkVnDAuSy6cyJQ)  
 
 **Optional Fun Stuff**  
 [I replaced OpenClaw with Claude Code](youtube.com/watch?si=WlKaGApRJmvVJIOt&v=ODKMmKCgrvw&feature=youtu.be)  
