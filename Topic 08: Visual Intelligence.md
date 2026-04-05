@@ -37,6 +37,7 @@
 [Basic image operations with OpenCV](https://docs.opencv.org/3.4/d3/df2/tutorial_py_basic_ops.html)  
 [Yann Lecun's TED Talk on Deep learning, neural networks and the future of AI](https://www.ted.com/talks/yann_lecun_deep_learning_neural_networks_and_the_future_of_ai)  
 [ImageNet classification with deep convolutional neural networks](https://dl.acm.org/doi/abs/10.1145/3065386)   
+[The original AlexNet source code](https://github.com/computerhistory/AlexNet-Source-Code)  
 
 **Optional Fun Stuff**  
 [How to Make an AI Read Your Handwriting (LAB)](https://www.pbs.org/video/how-to-make-an-ai-read-your-handwriting-lab-5-oh9flk/)   
