@@ -1,7 +1,12 @@
 **Topic 11: Recommenders**
 [CH11-1: Recommenders](https://www.dropbox.com/scl/fi/qlxjju6jjgs6omsfvlytw/CH11-1-recommenders.pptx?rlkey=c9599i9barnt0yqn1mynwt5pt&dl=0)  
 [CH11-2: Collaborative Filtering](https://www.dropbox.com/scl/fi/s1y9ktwioxctullpapbup/CH11-2-candidate-generation.pptx?rlkey=va353ymlqwehens8jokiu4iyo&dl=0)  
-[CH03: Class Inheritance](https://www.dropbox.com/scl/fi/8egzcsl5o80hkpayh2fsm/CH03-class-inheritance.pptx?rlkey=lp3zfidv6dz6xv8ukec1z7war&dl=0)  
+[CH02: Class Inheritance](https://www.dropbox.com/scl/fi/8egzcsl5o80hkpayh2fsm/CH03-class-inheritance.pptx?rlkey=lp3zfidv6dz6xv8ukec1z7war&dl=0)  
+
+**Colabs**  
+[Class Inheritance](https://colab.research.google.com/drive/1jZL_4Q0jTcCVBM8dUxQBZ7oiqYFiLJf5?usp=drive_link)  
+[Model-Based Recommenders](https://colab.research.google.com/drive/1PvnRdyq8iTiiMgQqPM6cuFP4m2q_Mo2x?usp=drive_link)  
+
 **Required Reading**  
 [Recommendation Systems, Google's Advanced Course on Machine Learning](https://developers.google.com/machine-learning/recommendation)  
 [Collaborative filtering](https://developers.google.com/machine-learning/crash-course/embeddings/motivation-from-collaborative-filtering)  
