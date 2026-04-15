@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MSBA AI Final Poster Conference Timer</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: #115740;
+    color: #eee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  .container {
+    text-align: center;
+    max-width: 600px;
+    padding: 40px;
+  }
+  h1 {
+    font-size: 1.2rem;
+    color: #B9975B;
+    margin-bottom: 8px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  .subtitle {
+    font-size: 0.95rem;
+    color: rgba(185,151,91,0.7);
+    margin-bottom: 30px;
+  }
+  #round-display {
+    font-size: 5rem;
+    font-weight: 800;
+    margin: 20px 0;
+    color: #fff;
+    transition: transform 0.3s;
+  }
+  #round-display.pulse {
+    animation: pulse 0.6s ease-in-out 3;
+  }
+  @keyframes pulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.15); color: #B9975B; }
+  }
+  #countdown {
+    font-size: 3rem;
+    font-variant-numeric: tabular-nums;
+    color: rgba(255,255,255,0.6);
+    margin: 20px 0;
+  }
+  #status { font-size: 1.1rem; color: rgba(255,255,255,0.5); margin: 20px 0; }
+  .progress-bar {
+    width: 100%;
+    height: 8px;
+    background: rgba(255,255,255,0.15);
+    border-radius: 4px;
+    margin: 30px 0;
+    overflow: hidden;
+  }
+  .progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #B9975B, #d4b06a);
+    border-radius: 4px;
+    transition: width 1s linear;
+  }
+  .dots {
+    display: flex;
+    justify-content: center;
+    gap: 14px;
+    margin: 20px 0;
+  }
+  .dot {
+    width: 20px; height: 20px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.15);
+    transition: background 0.3s, box-shadow 0.3s;
+  }
+  .dot.done { background: #B9975B; }
+  .dot.active { background: #B9975B; box-shadow: 0 0 14px rgba(185,151,91,0.6); }
+  button {
+    padding: 14px 36px;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 8px;
+    font-weight: 600;
+    transition: transform 0.1s, opacity 0.2s;
+  }
+  button:active { transform: scale(0.96); }
+  #startBtn { background: #B9975B; color: #115740; }
+  #stopBtn { background: rgba(255,255,255,0.2); color: #fff; }
+  #announceBtn {
+    background: #fff;
+    color: #115740;
+    font-weight: 700;
+    padding: 16px 32px;
+    font-size: 1.05rem;
+    border: 2px solid #B9975B;
+    margin-bottom: 20px;
+    display: block;
+    width: 100%;
+  }
+  #announceBtn:hover { background: #B9975B; color: #fff; }
+  #startBtn:disabled, #announceBtn:disabled { opacity: 0.4; cursor: default; }
+  .divider {
+    border: none;
+    border-top: 1px solid rgba(185,151,91,0.3);
+    margin: 25px 0;
+  }
+  .wm-crest {
+    margin-bottom: 20px;
+    font-size: 2.2rem;
+    color: #B9975B;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="wm-crest">&#9776;</div>
+  <h1>2026 MSBA AI Final Poster Conference</h1>
+  <div class="subtitle">William &amp; Mary &middot; Round Timer</div>
+
+  <button id="announceBtn" onclick="announce()">Announce Conference</button>
+
+  <hr class="divider">
+
+  <div id="round-display">Ready</div>
+  <div id="countdown">15:00</div>
+  <div class="progress-bar"><div class="progress-fill" id="progress" style="width:0%"></div></div>
+  <div class="dots" id="dots"></div>
+  <div id="status">4 rounds &middot; 15 minutes each</div>
+  <div>
+    <button id="startBtn" onclick="start()">Start Rounds</button>
+    <button id="stopBtn" onclick="stop()" style="display:none">Stop</button>
+  </div>
+</div>
+
+<script>
+const TOTAL_ROUNDS = 4;
+const INTERVAL_SEC = 15 * 60;
+let currentRound = 0;
+let secondsLeft = 0;
+let timer = null;
+let audioCtx = null;
+
+const dotsEl = document.getElementById('dots');
+for (let i = 0; i < TOTAL_ROUNDS; i++) {
+  const d = document.createElement('div');
+  d.className = 'dot';
+  dotsEl.appendChild(d);
+}
+
+function getAudioCtx() {
+  if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+  return audioCtx;
+}
+
+function playAlarm() {
+  const ctx = getAudioCtx();
+  const freqs = [880, 1100, 880, 1100, 880];
+  let t = ctx.currentTime;
+  freqs.forEach(function(f) {
+    const osc = ctx.createOscillator();
+    const gain = ctx.createGain();
+    osc.type = 'square';
+    osc.frequency.value = f;
+    gain.gain.value = 0.4;
+    gain.gain.setTargetAtTime(0, t + 0.18, 0.02);
+    osc.connect(gain);
+    gain.connect(ctx.destination);
+    osc.start(t);
+    osc.stop(t + 0.22);
+    t += 0.25;
+  });
+}
+
+function speakText(text) {
+  if ('speechSynthesis' in window) {
+    speechSynthesis.cancel();
+    var utter = new SpeechSynthesisUtterance(text);
+    utter.rate = 0.85;
+    utter.volume = 1;
+    utter.pitch = 1.05;
+    speechSynthesis.speak(utter);
+  }
+}
+
+function announce() {
+  getAudioCtx();
+  var text = "Welcome to the 2026 MSBA AI Final Poster Conference! " +
+    "7 teams are presenting their posters in this hour for four times. " +
+    "During each time, you can spend 15 minutes with the team to hear about their work, and to ask questions. " +
+    "After 15 minutes, you will hear a beep, and you can move to a different poster.";
+  speakText(text);
+}
+
+function updateDots() {
+  var dots = dotsEl.children;
+  for (var i = 0; i < TOTAL_ROUNDS; i++) {
+    dots[i].className = 'dot';
+    if (i < currentRound - 1) dots[i].className = 'dot done';
+    if (i === currentRound - 1) dots[i].className = 'dot active';
+  }
+}
+
+function updateDisplay() {
+  var m = Math.floor(secondsLeft / 60);
+  var s = secondsLeft % 60;
+  document.getElementById('countdown').textContent = m + ':' + s.toString().padStart(2, '0');
+  var elapsed = INTERVAL_SEC - secondsLeft;
+  document.getElementById('progress').style.width = ((elapsed / INTERVAL_SEC) * 100) + '%';
+}
+
+function nextRound() {
+  currentRound++;
+  if (currentRound > TOTAL_ROUNDS) { finish(); return; }
+  var el = document.getElementById('round-display');
+  el.textContent = 'Round ' + currentRound;
+  el.classList.remove('pulse');
+  void el.offsetWidth;
+  el.classList.add('pulse');
+  updateDots();
+  playAlarm();
+  setTimeout(function() { speakText('Round ' + currentRound); }, 1400);
+  secondsLeft = INTERVAL_SEC;
+  document.getElementById('status').textContent = 'Round ' + currentRound + ' of ' + TOTAL_ROUNDS;
+  updateDisplay();
+}
+
+function tick() {
+  secondsLeft--;
+  if (secondsLeft <= 0) { nextRound(); } else { updateDisplay(); }
+}
+
+function start() {
+  document.getElementById('startBtn').disabled = true;
+  document.getElementById('stopBtn').style.display = 'inline-block';
+  currentRound = 0;
+  nextRound();
+  timer = setInterval(tick, 1000);
+}
+
+function stop() {
+  clearInterval(timer);
+  timer = null;
+  document.getElementById('startBtn').disabled = false;
+  document.getElementById('stopBtn').style.display = 'none';
+  document.getElementById('round-display').textContent = 'Stopped';
+  document.getElementById('countdown').textContent = '--:--';
+  document.getElementById('status').textContent = 'Stopped at round ' + currentRound;
+  document.getElementById('progress').style.width = '0%';
+}
+
+function finish() {
+  clearInterval(timer);
+  timer = null;
+  var el = document.getElementById('round-display');
+  el.textContent = 'Done!';
+  el.classList.remove('pulse');
+  void el.offsetWidth;
+  el.classList.add('pulse');
+  document.getElementById('countdown').textContent = '';
+  document.getElementById('status').textContent = 'All 4 rounds complete!';
+  document.getElementById('progress').style.width = '100%';
+  document.getElementById('startBtn').disabled = false;
+  document.getElementById('stopBtn').style.display = 'none';
+  playAlarm();
+  setTimeout(function() { speakText('All rounds are now complete. Thank you for attending the poster conference!'); }, 1400);
+}
+</script>
+</body>
+</html>
